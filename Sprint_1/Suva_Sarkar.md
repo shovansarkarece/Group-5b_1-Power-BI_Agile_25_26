@@ -177,4 +177,8 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 ### Sum of Sales by State and Region – Bar Chart in Power BI
 <img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/f3f31eb9-d3f2-4dc3-92b8-932c11b5f197" />
 
+### Model View Showing Orders, People, and Returns Tables in Power BI
+<img width="1922" height="1030" alt="image" src="https://github.com/user-attachments/assets/8de9376e-41b8-41a2-a1d4-d6aed199ce6c" />
+
+
 
