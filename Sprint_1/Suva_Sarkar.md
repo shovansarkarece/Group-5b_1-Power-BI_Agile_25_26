@@ -155,3 +155,7 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 
 ### Overview Of Power BI UI(User Interface)
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a61e49c1-c675-4d51-9538-3d5c91a717b5" />
+
+### How can we load data in Power BI
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/e38e9517-1679-4d56-ad46-4ac3a409eae7" />
+
