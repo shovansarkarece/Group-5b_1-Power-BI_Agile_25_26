@@ -168,3 +168,13 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 ### Add section for data loading results in Power BI
 <img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/140b899a-d2df-4578-9e2b-fb3b89877918" />
 
+### Selecting Fields and Creating a Table Visualization in Power BI Desktop
+<img width="1911" height="1032" alt="image" src="https://github.com/user-attachments/assets/ca514d37-0422-4d11-a98c-32cd3c0378f1" />
+
+### Viewing the Orders Table in Power BI Data View
+<img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/54cd17e0-9abf-4da3-b1ed-57767a2e1e39" />
+
+### Sum of Sales by State and Region – Bar Chart in Power BI
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/f3f31eb9-d3f2-4dc3-92b8-932c11b5f197" />
+
+
