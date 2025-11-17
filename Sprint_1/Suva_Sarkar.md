@@ -165,6 +165,6 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 ### loading data in Power BI  
 <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/e0ccdcd0-aab3-43ca-bfa8-5e9c8fd27f77" />
 
-### After loading data in Power BI 
+### Add section for data loading results in Power BI
 <img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/140b899a-d2df-4578-9e2b-fb3b89877918" />
 
