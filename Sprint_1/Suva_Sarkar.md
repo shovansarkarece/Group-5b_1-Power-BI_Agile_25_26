@@ -153,3 +153,5 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 - Valuable when planning budgeting or architecture for BI implementations.  
 
 
+### Overview Of Power BI UI(User Interface)
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a61e49c1-c675-4d51-9538-3d5c91a717b5" />
