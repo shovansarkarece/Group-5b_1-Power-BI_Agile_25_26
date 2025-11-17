@@ -11,3 +11,9 @@
 
 - **Power BI Desktop** – used to create reports  
 - **Power BI Service** – used to publish the report
+# Power BI is a collection of components:
+
+- **Power Query** – for cleaning the data  
+- **Power Pivot** – creating relationships between multiple data sources  
+- **Power View** – to create different types of charts  
+- **Power BI Service** – a SaaS-based online service to share reports
