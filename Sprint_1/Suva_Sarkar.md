@@ -159,3 +159,6 @@ A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)
 ### How can we load data in Power BI
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/e38e9517-1679-4d56-ad46-4ac3a409eae7" />
 
+### How can we load data in Power BI from multiple data source
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/2d31840d-061c-41b4-9b79-c21496fc621c" />
+
