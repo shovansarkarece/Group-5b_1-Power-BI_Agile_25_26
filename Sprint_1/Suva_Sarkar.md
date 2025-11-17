@@ -133,3 +133,23 @@ This guide provides a consolidated overview of how to install Power BI, the avai
 ---
 
 
+# Power BI Licensing Deck – April 25  
+
+A Microsoft official PDF document titled **“Power BI Licensing Deck (April 25)”**, which provides detailed information about licensing, pricing, and capacity models for Power BI and Microsoft Fabric.  
+
+**Download link:**  
+[Power BI Licensing Deck (April 25) – Microsoft](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents//Power-BI-Licensing-Deck-April25.pdf)  
+
+### Key contents of the deck  
+- Overview of Power BI Free, Pro, and Premium licensing tiers.  
+- Capacity-based licensing models (including Fabric SKUs).  
+- Transition path for Premium per capacity SKUs.  
+- Typical pricing examples and licensing scenarios.  
+- Reference to usage and capacity-based billing details.  
+
+### Why it’s useful  
+- Official Microsoft documentation — authoritative source for licensing.  
+- Helps organizations understand requirements for sharing, collaboration, and scaling with Power BI.  
+- Valuable when planning budgeting or architecture for BI implementations.  
+
+
