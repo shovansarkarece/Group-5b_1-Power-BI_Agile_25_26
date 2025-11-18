@@ -17,7 +17,10 @@
 5. Choose the correct sheet (e.g., *Orders*).
 6. Click **Load**.
 
+```
+<img width="1919" height="1005" alt="one" src="https://github.com/user-attachments/assets/82c98f59-d65f-47d7-bd79-1d4f63feff20" />
 
+```
 
 ---
 
@@ -29,9 +32,10 @@
 5. Drag **Category** again → *Legend* (if required).
 6. Format the chart (colors, labels, title).
 
-**Screenshot placeholder:**
 ```
-![Ribbon Chart Screenshot](images/ribbon_chart.png)
+<img width="1919" height="1024" alt="two" src="https://github.com/user-attachments/assets/a818aaab-028e-48e6-9ce9-cf60ffad7fe5" />
+
+
 ```
 
 ---
@@ -42,9 +46,10 @@
 3. Drag your numeric column → *Values*.
 4. Format the line chart as needed.
 
-**Screenshot placeholder:**
+
 ```
-![Line Chart Screenshot](images/line_chart.png)
+<img width="1914" height="1028" alt="three" src="https://github.com/user-attachments/assets/5ef19a84-f15f-4a06-9a9c-6007e4a247bf" />
+
 ```
 
 ---
@@ -55,8 +60,9 @@
 3. Drag your numerical measure → *Values*.
 4. Adjust formatting.
 
-**Screenshot placeholder:**
+
 ```
-![Area Chart Screenshot](images/area_chart.png)
+<img width="1916" height="1034" alt="Four" src="https://github.com/user-attachments/assets/17e4e305-2b27-4c9f-a844-a8c61d07784f" />
+
 ```
 
