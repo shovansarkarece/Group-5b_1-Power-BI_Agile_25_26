@@ -78,9 +78,11 @@ Click the **Format (🎨 paintbrush icon)** to style the chart.
 ## (i) Customizing X-Axis Values
 <img width="1920" height="1030" alt="Customizing X-Axis Values" src="https://github.com/user-attachments/assets/d489871e-f535-4b7d-832f-4aa3ac46e419" />
 
-## (i) Customizing Y-Axis Values
+## (ii) Customizing Y-Axis Values
 <img width="1912" height="1023" alt="image" src="https://github.com/user-attachments/assets/c6a41ab1-34a5-4acd-a354-93306f73594c" />
 
+# (iii) Adding Zoom Slider
+<img width="1920" height="1033" alt="Adding_Zoom_SLider" src="https://github.com/user-attachments/assets/18433410-ee57-47bc-b921-c291879a4ad1" />
 ---
 
 ## 🔍 **Step 5: Add Enhancements (Optional)**
