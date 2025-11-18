@@ -87,23 +87,6 @@ Click the **Format (🎨 paintbrush icon)** to style the chart.
 # (iv) Changing the colour of column
 <img width="1914" height="1027" alt="Changing the colur of column" src="https://github.com/user-attachments/assets/1452acb3-fadd-4524-b7c8-031e1ab245af" />
 
----
 
-## 🔍 **Step 5: Add Enhancements (Optional)**
-
-* 🔎 **Tooltips** – show extra info when hovering
-* ⬇️ **Filters & Slicers** – interactively filter data
-* ↕️ **Sort Bars** – sort ascending/descending
-* ➕ **Drill-Down** – explore deeper levels (e.g., Year → Month → Day)
-
----
-
-## ☁️ **Step 6: Save and Publish**
-
-1. 💾 Click **File → Save As**
-2. ☁️ Click **Publish** → Select your workspace
-3. 🌍 Share your dashboard with your team
-
----
 
 
