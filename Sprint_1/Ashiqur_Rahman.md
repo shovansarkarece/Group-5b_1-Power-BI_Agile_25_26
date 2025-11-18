@@ -30,11 +30,8 @@
 5. Drag **Category** again → *Legend* (if required).
 6. Format the chart (colors, labels, title).
 
-```
-<img width="1919" height="1024" alt="two" src="https://github.com/user-attachments/assets/a818aaab-028e-48e6-9ce9-cf60ffad7fe5" />
+<img width="1919" height="1024" alt="two" src="https://github.com/user-attachments/assets/9d58fd62-72f4-4feb-8681-57f4f5c246b9" />
 
-
-```
 
 ---
 
