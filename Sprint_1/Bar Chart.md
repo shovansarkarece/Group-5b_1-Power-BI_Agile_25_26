@@ -83,6 +83,10 @@ Click the **Format (🎨 paintbrush icon)** to style the chart.
 
 # (iii) Adding Zoom Slider
 <img width="1920" height="1033" alt="Adding_Zoom_SLider" src="https://github.com/user-attachments/assets/18433410-ee57-47bc-b921-c291879a4ad1" />
+
+# (iv) Changing the colour of column
+<img width="1914" height="1027" alt="Changing the colur of column" src="https://github.com/user-attachments/assets/1452acb3-fadd-4524-b7c8-031e1ab245af" />
+
 ---
 
 ## 🔍 **Step 5: Add Enhancements (Optional)**
