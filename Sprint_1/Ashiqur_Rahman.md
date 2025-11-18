@@ -16,11 +16,9 @@
 4. Select your uploaded Excel file.
 5. Choose the correct sheet (e.g., *Orders*).
 6. Click **Load**.
+<img width="1919" height="1005" alt="one" src="https://github.com/user-attachments/assets/86b9c489-c831-47ea-9e3c-d3de09bb9cbc" />
 
-```
-<img width="1919" height="1005" alt="one" src="D:\Frankfurt University\Winter semster 25-26\Agile\sprint 1\screenshots" />
 
-```
 
 ---
 
