@@ -32,7 +32,12 @@ Creating a bar chart in Power BI is simple and visual. Follow the steps below wi
    * 📊 **Clustered Bar Chart**
    * 📊 **Stacked Bar Chart**
    * 📊 **100% Stacked Bar Chart**
-3. 🖥️ A blank chart visual will appear on your report canvas
+3. 🖥️ After that this type of UI we can see below in Powe Bi dashboard
+# (i) Stacked Column Chart
+<img width="1917" height="1030" alt="Sub-Category wise Sales Stacked Cloumn chart" src="https://github.com/user-attachments/assets/67309926-5de3-4e25-bd13-b0d8459dc483" />
+
+# (ii) Stacked Bar Chart
+<img width="1917" height="1032" alt="Sub-Category wise Sum of Sales Stacked bar chat" src="https://github.com/user-attachments/assets/b58e0938-b944-47c7-ae45-c6df9e17edeb" />
 
 ---
 
