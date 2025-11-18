@@ -11,7 +11,7 @@
 
 ## 📌 Step 1: Load Data From Excel Sheet
 1. Open **Power BI Desktop**.
-2. Sign in using your account (ensure *Md Ashiqur Rahman* is displayed).
+2. Sign in using your account.
 3. Click **Home → Get Data → Excel**.
 4. Select your uploaded Excel file.
 5. Choose the correct sheet (e.g., *Orders*).
