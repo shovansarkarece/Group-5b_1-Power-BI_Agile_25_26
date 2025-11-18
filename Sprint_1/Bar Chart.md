@@ -46,17 +46,16 @@ Creating a bar chart in Power BI is simple and visual. Follow the steps below wi
 
 ## 🧩 **Step 3: Add Data Fields to the Chart**
 
-Drag your fields into:
+Drag our fields into:
 
 * 🏷️ **Axis** → Category (Examples: Product, Country, Month)
 * 🔢 **Values** → Numerical data (Examples: Sales, Revenue, Quantity)
 * 🎨 **Legend (optional)** → Comparison categories (Examples: Year, Region)
 
-**Example:**
+***Example:***
 
-* Axis → *Product Name*
-* Values → *Sales Amount*
-* Legend → *Year*
+<img width="1920" height="1031" alt="Add Data Fields to the Chart" src="https://github.com/user-attachments/assets/79cc4d3b-0696-412a-8d9b-b3e161a31a6e" />
+
 
 ---
 
@@ -73,6 +72,8 @@ Click the **Format (🎨 paintbrush icon)** to style the chart.
 * 📑 **Legend** → Position, colors, size
 * 🧱 **Background & Border** → Add or remove borders
 * ⚙️ **Effects** → Shadows, glow, visual styling
+## (i) Customizing X-Axis Values
+<img width="1920" height="1030" alt="Customizing X-Axis Values" src="https://github.com/user-attachments/assets/d489871e-f535-4b7d-832f-4aa3ac46e419" />
 
 ---
 
