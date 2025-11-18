@@ -56,6 +56,9 @@ Drag our fields into:
 
 <img width="1920" height="1031" alt="Add Data Fields to the Chart" src="https://github.com/user-attachments/assets/79cc4d3b-0696-412a-8d9b-b3e161a31a6e" />
 
+ ***Another Example:***
+ 
+<img width="1915" height="1031" alt="Add Data Fields to the Chart1" src="https://github.com/user-attachments/assets/cb29902f-fead-43b1-88bc-f89043a243e3" />
 
 ---
 
