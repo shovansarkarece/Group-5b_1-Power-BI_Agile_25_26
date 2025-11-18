@@ -18,7 +18,7 @@
 6. Click **Load**.
 
 ```
-<img width="1919" height="1005" alt="one" src="https://github.com/user-attachments/assets/82c98f59-d65f-47d7-bd79-1d4f63feff20" />
+<img width="1919" height="1005" alt="one" src="D:\Frankfurt University\Winter semster 25-26\Agile\sprint 1\screenshots" />
 
 ```
 
