@@ -41,11 +41,8 @@
 3. Drag your numeric column → *Values*.
 4. Format the line chart as needed.
 
+<img width="1914" height="1028" alt="three" src="https://github.com/user-attachments/assets/c7fc73e5-8a38-4946-b056-e50a06e4ab68" />
 
-```
-<img width="1914" height="1028" alt="three" src="https://github.com/user-attachments/assets/5ef19a84-f15f-4a06-9a9c-6007e4a247bf" />
-
-```
 
 ---
 
@@ -55,9 +52,6 @@
 3. Drag your numerical measure → *Values*.
 4. Adjust formatting.
 
+<img width="1916" height="1034" alt="Four" src="https://github.com/user-attachments/assets/49549266-c43c-4e7e-b225-3c5094bc289e" />
 
-```
-<img width="1916" height="1034" alt="Four" src="https://github.com/user-attachments/assets/17e4e305-2b27-4c9f-a844-a8c61d07784f" />
-
-```
 
