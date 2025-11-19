@@ -41,12 +41,13 @@ You need **two fields**:
 * **Legend (Category)** → groups (Examples: Product, Country, Department)
 * **Values (Numbers)** → quantity or measure (Examples: Sales, Revenue, Count)
 
+Bifurcation (or Partition) in a pie chart simply means:
+
+👉 Dividing the whole pie into different parts or slices based on categories.
+
 **Example:**
 
-* Legend → *Product*
-* Values → *Sales Amount*
-
-👉 This will divide the pie into slices for each product based on sales.
+<img width="1912" height="1027" alt="Bifurcation_or_Partition in a Pie Chart" src="https://github.com/user-attachments/assets/1482a509-baeb-4dc2-b1b2-d6336c549cc8" />
 
 ---
 
