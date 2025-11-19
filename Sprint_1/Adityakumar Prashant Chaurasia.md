@@ -7,3 +7,6 @@
 
 # Add Custom Column
 <img width="1358" height="669" alt="image" src="https://github.com/user-attachments/assets/852fd175-4b4c-46a6-87a9-b5c110e61a1f" />
+
+<img width="1344" height="708" alt="image" src="https://github.com/user-attachments/assets/9f1b1e1f-8342-4caf-adf6-3c5ec3925eac" />
+
