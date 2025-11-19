@@ -74,36 +74,22 @@ Click the **Format (🎨 paintbrush icon)** to style your chart.
 ### Example(Customizing data Label)
 <img width="1916" height="1030" alt="Customizing_Data_Label" src="https://github.com/user-attachments/assets/2694f41b-9391-4a88-9e66-3fde1554fe64" />
 
+### Example(Customizing_Sum_of_Sales_by_Region_and_Category)
+<img width="1918" height="1029" alt="Customizing_Sum_of_Sales_by_Region_and_Category" src="https://github.com/user-attachments/assets/7f3a0419-fb1c-4677-9ef3-14ac8b06df76" />
 
-[Example](https://app.powerbi.com/groups/me/reports/c7e4d6f9-d37f-4ab7-9df1-129f66894f65/b764b0feb5dbb9a50233?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=shareVisual&visual=fc5e50e5546439820167&height=500.91&width=527.17&bookmarkGuid=1a7babaa-be4f-4e88-ab86-feb0d2818ba8)
----
 
-## 🔍 **Step 5: Add Enhancements (Optional)**
-
-* 🔎 **Tooltips** → Show additional info when hovering
-* ⬇️ **Filters** → Change data dynamically
-* ✂️ **Slicers** → Allow interactive user-driven filtering
-* 📈 **Sort by Value** → Arrange slices by size
-
----
-
-## ☁️ **Step 6: Save & Publish**
+##  🎉 **Step 5: Save & Publish**
 
 1. 💾 Save your report
 2. ☁️ Click **Publish** to upload it to Power BI Service
 3. 🌍 Share with your team or customers
 
-[Link1](https://app.powerbi.com/links/pwnmsXSTAG?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
+[Example_1](https://app.powerbi.com/groups/me/reports/c7e4d6f9-d37f-4ab7-9df1-129f66894f65/b764b0feb5dbb9a50233?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=shareVisual&visual=fc5e50e5546439820167&height=500.91&width=527.17&bookmarkGuid=97f9e584-1387-40bc-91c0-e5b1eb6e057c)
+
+[Example_2](https://app.powerbi.com/groups/me/reports/c5662270-4ed9-4045-b667-4dbfccc8e8fe/b764b0feb5dbb9a50233?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=shareVisual&visual=1aaf69e6474c56cd6270&height=372.52&width=613.74&bookmarkGuid=62677dd5-dbb1-474e-aa12-eb198328ffd9)
+
+[Example_3](https://app.powerbi.com/links/ylYvMWidiw?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 ---
 
-# 🎉 Your Pie Chart Is Ready!
 
-If you want, I can also create guides for:
-📊 Donut chart
-📈 Line chart
-📉 Bar chart
-📍 Map visual
-📦 Card visuals
-
-Just tell me!
 
