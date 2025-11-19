@@ -168,4 +168,25 @@ This line chart helps visualize how sales, profit, and quantity vary across the 
 
 <img width="1916" height="1034" alt="Four" src="https://github.com/user-attachments/assets/49549266-c43c-4e7e-b225-3c5094bc289e" />
 
+The visual displayed is an **Area Chart** that compares two measures across product categories. The filled shading highlights the magnitude of each measure, making it easy to observe differences between categories.
 
+### What the Chart Shows
+- **X-axis:** Category (Office Supplies, Furniture, Technology)
+- **Y-axis:**  
+  - **Sum of Discount**  
+  - **Count of Postal Code**
+- The chart uses shaded areas to represent values, helping visualize how the two measures vary across categories.
+
+### Measures Displayed
+- **Sum of Discount** (light blue area)
+- **Count of Postal Code** (dark blue line with filled area)
+
+### Purpose of the Chart
+This area chart helps quickly understand:
+- Which category has the highest or lowest discount amounts
+- How frequently postal codes appear per category
+- The overall trend between discount values and the count of postal codes
+
+### Fields Used
+- **X-axis:** Category  
+- **Y-axis:** Sum of Discount, Count of Postal Code  
