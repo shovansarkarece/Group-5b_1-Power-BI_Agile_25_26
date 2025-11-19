@@ -71,6 +71,9 @@ Click the **Format (🎨 paintbrush icon)** to style your chart.
 ### Example(Customizing the color of slice)
 <img width="1917" height="1029" alt="Customizing the color of slice_1" src="https://github.com/user-attachments/assets/89710672-54ae-466f-8a20-e4cb59726f1d" />
 
+### Example(Customizing data Label)
+<img width="1916" height="1030" alt="Customizing_Data_Label" src="https://github.com/user-attachments/assets/2694f41b-9391-4a88-9e66-3fde1554fe64" />
+
 
 [Example](https://app.powerbi.com/groups/me/reports/c7e4d6f9-d37f-4ab7-9df1-129f66894f65/b764b0feb5dbb9a50233?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=shareVisual&visual=fc5e50e5546439820167&height=500.91&width=527.17&bookmarkGuid=1a7babaa-be4f-4e88-ab86-feb0d2818ba8)
 ---
