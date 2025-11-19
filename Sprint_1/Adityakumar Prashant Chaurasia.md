@@ -10,3 +10,6 @@
 
 <img width="1344" height="708" alt="image" src="https://github.com/user-attachments/assets/9f1b1e1f-8342-4caf-adf6-3c5ec3925eac" />
 
+# Conditional Column
+<img width="1322" height="686" alt="image" src="https://github.com/user-attachments/assets/26ed0c30-9e35-4eb2-971f-2823729ede9a" />
+(Selecting only Clothing Data , if not clothing leave it blank)
