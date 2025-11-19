@@ -31,6 +31,9 @@
 
 <img width="1912" height="1024" alt="Sum Of Sales by Region Pie Chart" src="https://github.com/user-attachments/assets/05547b20-8898-4a0e-a1b5-68675201013e" />
 
+**Another Example**
+
+<img width="1918" height="1031" alt="Bifurcation_or_Partition in a Pie Chart1" src="https://github.com/user-attachments/assets/8019bb9a-84e1-44fe-b340-c8397504a790" />
 
 ---
 
