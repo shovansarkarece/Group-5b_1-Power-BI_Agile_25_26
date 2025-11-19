@@ -86,7 +86,7 @@ Click the **Format (🎨 paintbrush icon)** to style your chart.
 
 [Example_1](https://app.powerbi.com/groups/me/reports/c7e4d6f9-d37f-4ab7-9df1-129f66894f65/b764b0feb5dbb9a50233?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=shareVisual&visual=fc5e50e5546439820167&height=500.91&width=527.17&bookmarkGuid=97f9e584-1387-40bc-91c0-e5b1eb6e057c)
 
-[Example_2](https://app.powerbi.com/links/JCtsGQny-m?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
+[Example_2](https://app.powerbi.com/links/D8XRzikNAB?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 
 [Example_3](https://app.powerbi.com/links/JCtsGQny-m?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 
