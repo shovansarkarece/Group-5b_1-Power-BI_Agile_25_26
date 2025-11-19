@@ -90,6 +90,7 @@ Click the **Format (🎨 paintbrush icon)** to style your chart.
 2. ☁️ Click **Publish** to upload it to Power BI Service
 3. 🌍 Share with your team or customers
 
+[Link1](https://app.powerbi.com/links/pwnmsXSTAG?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 ---
 
 # 🎉 Your Pie Chart Is Ready!
