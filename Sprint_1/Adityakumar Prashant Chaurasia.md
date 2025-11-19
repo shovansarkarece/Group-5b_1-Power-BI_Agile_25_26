@@ -26,3 +26,7 @@
 
 <img width="1360" height="733" alt="image" src="https://github.com/user-attachments/assets/40bf63bd-8336-4657-a0ed-6e0b564c6cc7" />
 
+# Creating dashboard 
+<img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/9a1ab2e5-4402-41e8-8fef-025f6073f217" />
+
+
