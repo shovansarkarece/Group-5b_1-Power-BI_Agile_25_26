@@ -18,7 +18,74 @@
 6. Click **Load**.
 <img width="1919" height="1005" alt="one" src="https://github.com/user-attachments/assets/86b9c489-c831-47ea-9e3c-d3de09bb9cbc" />
 
+---
+---
 
+## 1. Main Power BI Window (Background)
+
+- The top area contains the **Ribbon** with tabs: Home, Insert, Modeling, View, Optimize, Help.
+- You are currently on the **Home** tab, showing options such as:
+  - **Get data**, **Excel workbook**, **SQL Server**, **Recent sources**
+  - **Transform data**, **Refresh**
+- The large white area behind the dialog is the **Report Canvas (Page 1)**, where visuals will be placed.
+- On the right side:
+  - **Visualizations Pane** – icons representing different chart types.
+  - **Data/Fields Pane** – will show tables and fields after loading data.
+
+---
+
+## 2. Navigator Window (Center)
+
+The Navigator window appears after selecting an Excel file. It allows you to choose which sheets/tables to import.
+
+### **Left Side – Table/Sheet List**
+
+- Shows all available items in the Excel file:  
+  - **Orders**  
+  - **People**  
+  - **Returns**
+- The file `orders.xlsx` contains **3 items**.
+- A checkbox next to each item allows selecting which tables to load.
+- A **Search Box** is available to quickly find tables.
+- **Display Options** lets you filter or rearrange how tables are shown.
+
+### **Right Side – Data Preview**
+
+- Displays a preview of the selected table.
+- For the **Orders** table, visible columns include:
+  - `Row ID`, `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`, `Customer Name`, etc.
+- The preview is read-only and lets you verify the correct table before loading.
+
+---
+
+## 3. Navigation Buttons (Bottom of Window)
+
+- **Load**  
+  Loads the selected tables directly into Power BI and displays them in the Fields pane.
+
+- **Transform Data**  
+  Opens **Power Query Editor** for cleaning, shaping, or transforming data (changing data types, removing columns, filtering rows, etc.).
+
+- **Cancel**  
+  Closes the Navigator without loading anything.
+
+---
+
+## 4. Workflow Stage
+
+This screen represents **Step 1** of building a Power BI report:
+
+1. Open Power BI Desktop  
+2. Go to **Home → Excel workbook**  
+3. Select the file (`orders.xlsx`)  
+4. Use the **Navigator Window** (the screen shown) to:
+   - Select tables (Orders/People/Returns)
+   - Either **Load** or **Transform Data**
+
+After this step, you proceed to:
+- Build relationships between tables  
+- Add visuals to the report canvas  
+- Create analyses, dashboards, or KPIs  
 
 ---
 
