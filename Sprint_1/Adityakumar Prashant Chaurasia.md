@@ -19,3 +19,6 @@
 # Using Group By
 <img width="1363" height="727" alt="image" src="https://github.com/user-attachments/assets/d6e9926a-7815-4c6c-bca9-dccff365637e" />
 (Group by Category on the basis of Amount)
+
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/f88d181d-1aa1-4c68-9586-e3eacc334b2f" />
+
