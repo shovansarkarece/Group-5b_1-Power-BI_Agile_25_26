@@ -139,7 +139,25 @@ This chart helps visualize:
 
 <img width="1914" height="1028" alt="three" src="https://github.com/user-attachments/assets/c7fc73e5-8a38-4946-b056-e50a06e4ab68" />
 
+The visual shown is a **Line Chart** that compares three key performance measures across product categories.
 
+### What the Chart Shows
+- **X-axis:** Product *Category* (Office Supplies, Furniture, Technology)
+- **Y-axis:** Numeric values of the selected measures
+- **Legend (Lines):**
+  - **Sum of Quantity** (blue)
+  - **Sum of Sales** (dark blue)
+  - **Sum of Profit** (orange)
+
+### Purpose of the Chart
+This line chart helps visualize how sales, profit, and quantity vary across the three product categories. It provides:
+- A clear comparison of the three measures
+- Trends or patterns across categories
+- Insights into which category performs best or worst for each measure
+
+### Fields Used
+- **X-axis:** Category  
+- **Y-axis (Values):** Sum of Quantity, Sum of Sales, Sum of Profit 
 ---
 
 ## 📌 Step 4: Create an Area Chart From the Excel Sheet
