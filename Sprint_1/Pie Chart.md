@@ -27,6 +27,11 @@
 2. Click on the **Pie Chart** icon: 🥧
 3. A blank pie chart visual will appear on your canvas
 
+**Example**
+
+<img width="1912" height="1024" alt="Sum Of Sales by Region Pie Chart" src="https://github.com/user-attachments/assets/05547b20-8898-4a0e-a1b5-68675201013e" />
+
+
 ---
 
 ## 🧩 **Step 3: Add Data Fields**
