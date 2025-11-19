@@ -22,3 +22,7 @@
 
 <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/f88d181d-1aa1-4c68-9586-e3eacc334b2f" />
 
+# Creating Relation between 2 datasets
+
+<img width="1360" height="733" alt="image" src="https://github.com/user-attachments/assets/40bf63bd-8336-4657-a0ed-6e0b564c6cc7" />
+
