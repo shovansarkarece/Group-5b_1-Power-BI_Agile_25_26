@@ -21,7 +21,7 @@
 ---
 ---
 
-## 1. Main Power BI Window (Background)
+## Main Power BI Window (Background)
 
 - The top area contains the **Ribbon** with tabs: Home, Insert, Modeling, View, Optimize, Help.
 - You are currently on the **Home** tab, showing options such as:
@@ -34,7 +34,7 @@
 
 ---
 
-## 2. Navigator Window (Center)
+## Navigator Window (Center)
 
 The Navigator window appears after selecting an Excel file. It allows you to choose which sheets/tables to import.
 
@@ -58,7 +58,7 @@ The Navigator window appears after selecting an Excel file. It allows you to cho
 
 ---
 
-## 3. Navigation Buttons (Bottom of Window)
+## Navigation Buttons (Bottom of Window)
 
 - **Load**  
   Loads the selected tables directly into Power BI and displays them in the Fields pane.
@@ -71,7 +71,7 @@ The Navigator window appears after selecting an Excel file. It allows you to cho
 
 ---
 
-## 4. Workflow Stage
+## Workflow Stage
 
 This screen represents **Step 1** of building a Power BI report:
 
@@ -99,6 +99,35 @@ After this step, you proceed to:
 
 <img width="1919" height="1024" alt="two" src="https://github.com/user-attachments/assets/9d58fd62-72f4-4feb-8681-57f4f5c246b9" />
 
+The visual shown is a **Ribbon Chart** in Power BI. This chart compares multiple measures across different categories and highlights which measure ranks highest within each category.
+
+### What the Chart Displays
+- **X-axis:** Product *Category* (Technology, Furniture, Office Supplies)
+- **Y-axis:** Combined values of  
+  - Sum of Sales  
+  - Sum of Profit  
+  - Sum of Quantity
+- **Legend:** Shows the three measures being compared:
+  - Sum of Sales (blue)
+  - Sum of Profit (dark blue)
+  - Sum of Quantity (orange)
+
+### How a Ribbon Chart Works
+- Each category is represented by vertical segments.
+- The **width and height of the ribbons** represent the magnitude of each measure.
+- The **top ribbon** indicates the highest-ranking measure within that category.
+- This makes it easy to compare which measure leads in each category and how rankings change.
+
+### Fields Used
+- **X-axis:** Category  
+- **Y-axis:** Sum of Sales, Sum of Profit, Sum of Quantity  
+- **Legend:** Measures (Sales, Profit, Quantity)
+
+### Purpose
+This chart helps visualize:
+- Which performance metric dominates each category.
+- How sales, profit, and quantity compare side-by-side.
+- Changes in ranking across categories.
 
 ---
 
