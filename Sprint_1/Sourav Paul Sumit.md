@@ -54,3 +54,12 @@ Note: Azure Maps offers advanced features like satellite view, 3D buildings, and
 **Map 3:** Created Azure Map focusing on Country and State together:
 <img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/cc19dc78-045c-4833-972e-716b6d729356" />
 
+**Key Differences: Azure Map vs. Regular Map:**
+| Feature  | Regular Map | Azure Map |
+|----------|----------|----------|
+| Map styles    | Limited  | Multiple (satellite, night mode, etc.)   |
+| Performance    | Good   | Better for large datasets  |
+| Customization    | Basic  | Advanced  |
+| 3D features    | No   | Yes  |
+
+
