@@ -18,4 +18,49 @@
 # (iii)
 <img width="1915" height="1005" alt="Data Plane" src="https://github.com/user-attachments/assets/0248d3aa-4bd5-4d58-a64d-19ba2d69c16a" />
 
+
+
+## 🟣 Step 2: Insert a Donut Chart Visual
+1. ➡️ Go to the **Visualizations** pane
+2. Click on the **Donut Chart icon** (a pie chart with a hole)
+3. 🖥️ A blank donut chart will appear on the canvas
+
+
+
+## 🧩 Step 3: Add Fields to the Donut Chart
+Drag your fields into:
+
+- 🏷️ **Legend** → Category (e.g., Product, Country, Department)
+- 🔢 **Values** → Numeric measure (e.g., Sales, Quantity, Revenue)
+
+**Example:**
+- Legend → Product  
+- Values → Sales Amount  
+
+This divides the donut chart into slices based on each product’s contribution.
+
+
+## 🎨 Step 4: Format Your Donut Chart
+Click the **Format (🎨 paintbrush icon)**.
+
+**Customize:**
+- 🎨 **Data Colors** → change slice colors  
+- 🔤 **Data Labels** → show percentage or values  
+- 🏷️ **Title** → rename and format  
+- 📑 **Legend** → enable/disable and reposition  
+- ➗ **Detail Labels** → show category, value, and percentage  
+- 💠 **Rotation** → adjust starting angle  
+- 🧱 **Background & Border** → visual styling
+
+## 🔍 Step 5: Add Enhancements (Optional)
+- 🔎 Tooltips → show extra information on hover  
+- ✂️ Slicers → interactive filtering  
+- ⬇️ Filters → dynamic filtering  
+- 📈 Sort slices → by value or category  
+
+## ☁️ Step 6: Save & Publish
+1. 💾 Save your Power BI report  
+2. ☁️ Click **Publish**  
+3. 🌍 Share with your team in Power BI Service  
+
 ---
