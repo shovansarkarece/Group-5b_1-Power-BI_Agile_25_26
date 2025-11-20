@@ -3,6 +3,8 @@
 This document provides a detailed walkthrough of a Power BI practice project.  
 Each section explains the figures shown and the steps required to create them.
 
+[Example](https://app.powerbi.com/links/uugouetPsI?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
+
 ---
 
 ## 1. Introduction to Power BI
