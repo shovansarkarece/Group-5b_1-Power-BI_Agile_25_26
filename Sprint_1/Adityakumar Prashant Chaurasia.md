@@ -29,4 +29,7 @@
 # Creating dashboard 
 <img width="1361" height="708" alt="image" src="https://github.com/user-attachments/assets/9a1ab2e5-4402-41e8-8fef-025f6073f217" />
 
+<img width="1340" height="683" alt="image" src="https://github.com/user-attachments/assets/b2527b07-27d7-4e14-9ced-9d477c8c9858" />
+
+
 
