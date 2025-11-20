@@ -52,13 +52,7 @@ Click the **Format (🎨 paintbrush icon)**.
 - 💠 **Rotation** → adjust starting angle  
 - 🧱 **Background & Border** → visual styling
 
-## 🔍 Step 5: Add Enhancements (Optional)
-- 🔎 Tooltips → show extra information on hover  
-- ✂️ Slicers → interactive filtering  
-- ⬇️ Filters → dynamic filtering  
-- 📈 Sort slices → by value or category  
-
-## ☁️ Step 6: Save & Publish
+## ☁️ Step 5: Save & Publish
 1. 💾 Save your Power BI report  
 2. ☁️ Click **Publish**  
 3. 🌍 Share with your team in Power BI Service  
