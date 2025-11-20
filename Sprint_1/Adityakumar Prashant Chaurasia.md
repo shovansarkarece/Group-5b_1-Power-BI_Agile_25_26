@@ -1,3 +1,65 @@
+# Power BI Practice Project — Complete Tutorial
+
+This document provides a detailed walkthrough of a Power BI practice project.  
+Each section explains the figures shown and the steps required to create them.
+
+---
+
+## 1. Introduction to Power BI
+
+Power BI is a business analytics tool used to visualize and analyze data.
+
+### Power BI Interface
+
+<img width="444" height="410" alt="image" src="https://github.com/user-attachments/assets/b8f6bb8e-bd45-465a-b933-f69185ae10f7" />
+
+This interface includes:
+
+- **Report View** – for dashboard creation  
+- **Data View** – to view and inspect datasets  
+- **Model View** – to manage relationships between tables  
+
+---
+
+## 2. Importing CSV Data
+
+<img width="1344" height="691" alt="image" src="https://github.com/user-attachments/assets/b7395c4e-654e-49c1-979b-b8c2a8f7d78b" />
+
+### How to Import a CSV File
+
+1. Open Power BI Desktop  
+2. Select **Home → Get Data → Text/CSV**  
+3. Choose the CSV file  
+4. View the preview  
+5. Click **Transform Data** to open the dataset in Power Query Editor  
+
+---
+
+## 3. Adding a Custom Column
+
+### Screenshot 1
+
+<img width="1358" height="669" alt="image" src="https://github.com/user-attachments/assets/852fd175-4b4c-46a6-87a9-b5c110e61a1f" />
+
+### Screenshot 2
+
+<img width="1344" height="708" alt="image" src="https://github.com/user-attachments/assets/9f1b1e1f-8342-4caf-adf6-3c5ec3925eac" />
+
+### How to Add a Custom Column
+
+1. Open **Power Query Editor**  
+2. Go to **Add Column → Custom Column**  
+3. Enter:
+   - A new column name  
+   - An M-language formula  
+
+Example:
+
+
+= [Quantity] * [UnitPrice]
+
+
+
 ### PowerBI
 <img width="444" height="410" alt="image" src="https://github.com/user-attachments/assets/b8f6bb8e-bd45-465a-b933-f69185ae10f7" />
 
