@@ -58,3 +58,6 @@ Click the **Format (🎨 paintbrush icon)**.
 3. 🌍 Share with your team in Power BI Service  
 
 ---
+**[Example_1](https://app.powerbi.com/links/9P7ngjchtT?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)**
+
+**[Example_2](https://app.powerbi.com/links/p2KPZEYDtS?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)**
