@@ -3,6 +3,6 @@
 
 **📊 [Bar Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Bar%20Chart.md)**
 
-**🎉 [Pie Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Pie%20Chart.md)**
+**🎉 [Pie Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Pie%20Chart.md)**
 
 **🏷️ [Donut Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Donut%20Chart.md)**
