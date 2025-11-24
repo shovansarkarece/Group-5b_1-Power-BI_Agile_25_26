@@ -36,7 +36,7 @@ Proper use of Transpose enables better data modeling, easier filtering, and more
    - Selected **Reference** to preserve original data
    - Named the new query `Sales`
  
-  *Screenshot showing how preserve original data*
+  *Screenshot showing how preserve original data -*
   
    <img width="1920" height="1006" alt="image" src="https://github.com/user-attachments/assets/89486419-879c-4285-bec3-620d178bd498" />
 
