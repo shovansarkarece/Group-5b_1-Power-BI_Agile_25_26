@@ -17,6 +17,13 @@ Normalization is a method to clean our data table so that:
 ---
 
 # 🟢 1NF — First Normal Form  
+
+👉 Every cell contains only one piece of information.
+
+👉 No list inside a column.
+
+👉 No repeated columns.
+
 ### ✅ Rules  
 - No multiple values in one column  
 - No repeating groups  
@@ -104,6 +111,14 @@ erDiagram
 ---
 
 # 🔵 3NF — Third Normal Form
+
+⭐ 3NF means:
+
+👉 Every column should directly describe the main key.
+
+👉 No column should depend on another column that is not the key.
+
+👉 Remove columns that can be placed in their own lookup table.
 
 ### 🚫 No Transitive Dependency
 
