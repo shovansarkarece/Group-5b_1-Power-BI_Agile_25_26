@@ -123,3 +123,24 @@ The transposed data structure enables:
 5. ✅ Named query
 6. ✅ Documented the business reason for transpose
 7. ✅ Considered alternative transformations (Unpivot) for comparison
+
+### Common Transpose Patterns
+
+| Original Structure | After Transpose | Use Case |
+|-------------------|-----------------|----------|
+| Products as rows, months as columns | Months as rows, products as columns | Time-series preparation |
+| Attributes as rows, single record | Single row with attributes as columns | Normalizing key-value pairs |
+| Survey questions as columns | Questions as rows | Survey response analysis |
+| Years as columns | Years as rows | Multi-year trend analysis |
+
+### Comparison: Transpose vs Other Transformations
+
+| Transformation | Purpose | Example |
+|----------------|---------|---------|
+| **Transpose** | Swap rows and columns entirely | Convert months from columns to rows |
+| **Unpivot** | Convert column headers to values | Convert product columns into a single "Product" column with values |
+| **Pivot** | Convert row values to column headers | Convert "Month" rows into separate columns |
+| **Merge** | Combine tables side by side | Join sales data with customer data |
+| **Append** | Stack tables vertically | Combine Q1 and Q2 sales data |
+
+---
