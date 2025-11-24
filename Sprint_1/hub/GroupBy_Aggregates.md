@@ -85,3 +85,36 @@ Power Query supports the following aggregate functions:
 - ✅ Region based Summary table: **4 Regions** with the sales
 - ✅ All calculations verified for accuracy
 - ✅ Queries properly renamed and organized
+
+### Key Learnings
+
+1. **Reference vs Duplicate:**
+   - Used **Reference** to create new queries based on original data
+   - This ensures changes to source data automatically update all grouped tables
+   - **Duplicate** creates an independent copy (not recommended for this use case)
+
+2. **Multiple Aggregates:**
+   - Can add multiple aggregate columns in a single Group By operation
+   - Click **Add aggregation** button in the dialog to add more calculations
+
+3. **Advanced Grouping:**
+   - Can group by multiple columns (e.g., Category AND Region)
+   - Simply click **Add grouping** in the Group By dialog
+
+4. **Performance Considerations:**
+   - Grouped tables are more efficient for visualizations
+   - Reduces data volume while preserving analytical value
+
+### Challenges Faced
+
+**Challenge 1:** Initially, I created a duplicate query instead of a reference, which meant changes to the source wouldn't propagate.
+
+**Solution:** Deleted the duplicate and created a reference query instead using right-click → Reference.
+
+**Challenge 2:** Wasn't sure how to add multiple aggregates in one Group By operation.
+
+**Solution:** Discovered the **Add aggregation** button in the Group By dialog, which allows adding multiple calculations simultaneously.
+
+**Challenge 3:** Column names were auto-generated as "Count" instead of descriptive names.
+
+**Solution:** Renamed columns to meaningful names for better clarity.
