@@ -68,7 +68,6 @@ erDiagram
         string PhoneNumber
     }
 ````
-### ✅ Visual Example
 
 ---
 
@@ -271,6 +270,9 @@ erDiagram
     ORDERDETAILS }o--|| ORDERS : "OrderID"
     ORDERDETAILS }o--|| PRODUCTS : "ProductID"
 ```
+### ✅ Combined Example of 1NF,2NF and 3NF
+
+<img width="1024" height="1536" alt="ChatGPT Image Nov 24, 2025, 06_55_10 AM" src="https://github.com/user-attachments/assets/15dbfdf6-8fd9-4ea7-898b-9f66ba67f779" />
 
 ---
 
