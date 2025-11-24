@@ -114,3 +114,21 @@ Power Query supports the following aggregate functions:
 
 **Solution:** Renamed columns to meaningful names for better clarity.
 
+### Application in Project
+
+These grouped tables will be used for:
+- **Category Performance Dashboard:** Showing total sales and order volume by product category
+- **Customer Segmentation:** Identifying high-value customers based on total purchases
+- **Sales Analysis:** Understanding average order values and purchase patterns
+- **KPI Calculations:** Creating measures for top customers, best-selling categories, etc.
+
+### Best Practices Applied
+
+1. ✅ Created reference queries to maintain data lineage
+2. ✅ Used descriptive names for aggregate columns
+3. ✅ Verified calculations against source data
+4. ✅ Documented the business purpose of each aggregation
+5. ✅ Organized queries logically in the Queries panel
+6. ✅ Kept raw data intact for detailed analysis when needed
+
+---
