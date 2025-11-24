@@ -53,13 +53,29 @@ In business analytics, raw transactional data often needs to be summarized to an
 
      <img width="356" height="115" alt="image" src="https://github.com/user-attachments/assets/374d0975-7a29-415b-8d0e-741e13beb968" />
 
-3. **Renamed Queries Appropriately**
+4. **Renamed Queries Appropriately**
    - Renamed grouped queries to `Sales_by_Region` and `Total_Sales`
 
      *Screenshot showing how queries renamed -
 
      <img width="801" height="304" alt="image" src="https://github.com/user-attachments/assets/b85f487f-b716-45ca-9906-ed8d6a3d099b" />
 
+5. **Verified Aggregations**
+   - Manually checked sample calculations to ensure accuracy
+   - Compared totals with original dataset
 
+### Available Aggregation Operations
 
+Power Query supports the following aggregate functions:
+- **Sum:** Total of all values
+- **Average:** Mean of all values
+- **Median:** Middle value
+- **Min:** Smallest value
+- **Max:** Largest value
+- **Count Rows:** Number of rows in each group
+- **Count Distinct Values:** Number of unique values
+
+*Screenshot showing all queries in the Queries panel (raw data and grouped tables)*
+
+<img width="715" height="400" alt="image" src="https://github.com/user-attachments/assets/71cc67d2-8a35-4946-aeb2-0badb637908d" />
 
