@@ -107,14 +107,10 @@ Power Query supports the following aggregate functions:
 
 ### Challenges Faced
 
-**Challenge 1:** Initially, I created a duplicate query instead of a reference, which meant changes to the source wouldn't propagate.
+   **Challenge 1:** Initially, I created a duplicate query instead of a reference, which meant changes to the source wouldn't propagate.
+   **Solution:** Deleted the duplicate and created a reference query instead using right-click → Reference.
+   **Challenge 2:** Wasn't sure how to add multiple aggregates in one Group By operation.
+   **Solution:** Discovered the **Add aggregation** button in the Group By dialog, which allows adding multiple calculations simultaneously.
+   **Challenge 3:** Column names were auto-generated as "Count" instead of descriptive names.
+   **Solution:** Renamed columns to meaningful names for better clarity.
 
-**Solution:** Deleted the duplicate and created a reference query instead using right-click → Reference.
-
-**Challenge 2:** Wasn't sure how to add multiple aggregates in one Group By operation.
-
-**Solution:** Discovered the **Add aggregation** button in the Group By dialog, which allows adding multiple calculations simultaneously.
-
-**Challenge 3:** Column names were auto-generated as "Count" instead of descriptive names.
-
-**Solution:** Renamed columns to meaningful names for better clarity.
