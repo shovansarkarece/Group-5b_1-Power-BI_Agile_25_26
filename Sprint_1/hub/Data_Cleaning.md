@@ -17,3 +17,21 @@ Cleaning data by removing irrelevant columns and rows:
 - **Optimizes storage:** Reduces file size and memory usage
 - **Simplifies modeling:** Makes relationships and calculations clearer
 
+### Data Cleaning Strategy
+
+**Columns to Remove:**
+- Internal system IDs not needed for reporting
+- Redundant or duplicate information
+- Empty columns with no data
+- Columns with sensitive information (if not needed)
+- Metadata columns (created_by, modified_by, etc.)
+
+**Rows to Remove:**
+- Header rows repeated in the middle of data
+- Footer rows with totals or notes
+- Blank/empty rows
+- Duplicate rows
+- Error rows with invalid data
+- Test records
+
+
