@@ -66,6 +66,15 @@ erDiagram
 
 # 🟡 2NF — Second Normal Form
 
+👉 2NF applies only when the table has a composite key (two columns acting as the primary key).
+
+👉 If a column depends on only one part of the key (not both),
+it violates 2NF.
+
+So:
+
+✔ Non-key columns must depend on the whole primary key,
+❌ not on half of it.
 ### Applies only when:
 
 ✔ Table has **composite primary key**
@@ -83,7 +92,10 @@ Composite Key = OrderID + ProductID
 ❌ Problem:
 
 * ProductName depends only on ProductID (partial dependency)
+* ProductName depends only on ProductID,
+* Not on the full key (OrderID + ProductID)
 
+➡ This is partial dependency.
 ---
 
 ### ✔ Correct 2NF (Split Tables)
