@@ -10,3 +10,17 @@ Transpose is a powerful transformation used when data is organized in a format t
 - Cross-tabulated reports that need to be normalized for proper data modeling
 
 Proper use of Transpose enables better data modeling, easier filtering, and more flexible visualizations in Power BI.
+
+### When to Use Transpose
+
+**Appropriate Use Cases:**
+- Converting pivot-style data to a normalized format
+- Transforming wide tables (many columns) to tall tables (many rows)
+- Restructuring time-period data from columns to rows
+- Preparing data for unpivot operations
+
+**When NOT to Use Transpose:**
+- If Unpivot would be more appropriate (for maintaining column headers as values)
+- When data is already in the correct structure
+- If it would make the data less readable or harder to analyze
+
