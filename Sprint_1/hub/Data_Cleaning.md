@@ -61,4 +61,35 @@ Cleaning data by removing irrelevant columns and rows:
    - Checked that only business-relevant columns remained
    - Ensured no critical data was accidentally removed
 
+#### Part B: Removing Unnecessary Rows
 
+1. **Removed Top Rows (Header Rows)**
+   - Identified that first 2 rows contained report title and metadata
+   - Went to **Home** tab → **Remove Rows** → **Remove Top Rows**
+   - Entered `2` to remove first 2 rows
+
+2. **Removed Bottom Rows (Footer Rows)**
+   - Identified last 3 rows contained summary totals and notes
+   - Went to **Home** tab → **Remove Rows** → **Remove Bottom Rows**
+   - Entered `3` to remove last 3 rows
+
+3. **Removed Blank Rows**
+   - Went to **Home** tab → **Remove Rows** → **Remove Blank Rows**
+   - Automatically removed all rows where all columns were empty
+   - Cleaned up 5 blank rows in the dataset
+
+4. **Removed Duplicate Rows**
+   - Went to **Home** tab → **Remove Rows** → **Remove Duplicates**
+   - Power Query identified and removed duplicate records
+   - Found and removed 8 duplicate entries
+
+5. **Removed Rows with Errors**
+   - Identified rows with error values in certain columns
+   - Went to **Home** tab → **Remove Rows** → **Remove Errors**
+   - Removed 2 rows containing error values
+
+6. **Removed Rows Based on Condition (Custom Filter)**
+   - Needed to remove test records where `Customer Name` = "Test Customer"
+   - Clicked dropdown on `Customer Name` column
+   - Unchecked "Test Customer"
+   - Applied filter to exclude test records
