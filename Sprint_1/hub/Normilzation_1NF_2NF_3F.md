@@ -170,6 +170,9 @@ DepartmentName depends on DepartmentID (not primary key)
 | DepartmentID | DepartmentName |
 
 ---
+## 🧩 **3NF Diagram (Visual)**
+
+<img width="1024" height="1024" alt="3NF" src="https://github.com/user-attachments/assets/b8a55ee0-b603-49b3-9aa2-9f4d1ca8ef59" />
 
 ## 🧩 **3NF Diagram (Mermaid)**
 
