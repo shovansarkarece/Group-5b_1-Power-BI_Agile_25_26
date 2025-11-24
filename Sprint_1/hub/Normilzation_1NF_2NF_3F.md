@@ -52,6 +52,9 @@ Normalization is a method to clean our data table so that:
 
 ---
 ## 🧩 **1NF Diagram (Visual)**
+
+<img width="1024" height="1024" alt="1NF" src="https://github.com/user-attachments/assets/81e0e5d5-4226-4a9d-95c1-ad228cfeab82" />
+
 ## 🧩 **1NF Diagram (Mermaid)**
 
 ```mermaid
