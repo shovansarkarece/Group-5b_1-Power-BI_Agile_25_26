@@ -39,4 +39,20 @@ In business analytics, raw transactional data often needs to be summarized to an
      
      <img width="353" height="92" alt="image" src="https://github.com/user-attachments/assets/4d98daab-b50d-455d-ac31-e8601389e465" />
 
+   **Grouping 2: Customer Purchase Summary**
+   - Group by column: `Region`
+   - New column name: `Region_Based_Sales`
+   - Operation: `Sum`
+   - Column: `Sales`
+  
+     *Screenshot showing the Grouped By selection process -*
+     
+     <img width="696" height="323" alt="image" src="https://github.com/user-attachments/assets/2cfbb7bf-f494-45b7-bad1-9fca0bb26fb6" />
+
+     *Screenshot showing how the Group is formed -*
+
+     <img width="356" height="115" alt="image" src="https://github.com/user-attachments/assets/374d0975-7a29-415b-8d0e-741e13beb968" />
+
+
+
 
