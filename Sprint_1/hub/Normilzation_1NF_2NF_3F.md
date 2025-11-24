@@ -113,6 +113,9 @@ Composite Key = OrderID + ProductID
 | ProductID | ProductName |
 
 ---
+## 🧩 **2NF Diagram (Visual)**
+
+<img width="1024" height="1024" alt="2NF" src="https://github.com/user-attachments/assets/eebd50f5-ee27-4364-9cef-f72dce4baf3f" />
 
 ## 🧩 **2NF Diagram (Mermaid)**
 
