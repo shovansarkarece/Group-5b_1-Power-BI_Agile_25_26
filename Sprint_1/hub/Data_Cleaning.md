@@ -122,3 +122,19 @@ Cleaning data by removing irrelevant columns and rows:
 23. Discount ❌ REMOVED (not needed)
 24. Profit ✅ KEPT
 
+**Cleaned Dataset (8 columns):**
+
+1. Ship Mode
+2. Segment
+3. Postal Code
+4. Product ID
+5. Sub-Category
+6. Discount
+
+**Columns Removed:** 6  
+**Columns Retained:** 18  
+**Reduction:** 25% fewer columns
+
+
+
+
