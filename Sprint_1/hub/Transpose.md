@@ -64,3 +64,42 @@ Proper use of Transpose enables better data modeling, easier filtering, and more
 - ✅ Prepared data structure for further transformations (Unpivot)
 - ✅ Enabled time-series analysis capabilities
 
+### Key Learnings
+
+1. **Transpose vs Unpivot:**
+   - **Transpose:** Completely swaps rows and columns (structural flip)
+   - **Unpivot:** Converts column headers into row values (normalization)
+   - Often used together: Transpose first, then Unpivot for full normalization
+
+2. **Post-Transpose Cleanup:**
+   - Always promote first row to headers after transpose
+   - Check and correct data types (numbers might become text)
+   - Rename columns with meaningful names
+
+3. **Data Preservation:**
+   - Transpose maintains all data values
+   - No data is lost during the transformation
+   - Position changes but content remains intact
+
+4. **Use Reference Queries:**
+   - Keep original data intact by using Reference
+   - Allows comparison between original and transposed versions
+   - Maintains data lineage for auditing
+
+### Challenges Faced
+   - **Challenge 1:** After transpose, all columns were named Column1, Column2, etc., making data unclear.
+   
+     **Solution:** Used **Transform → Use First Row as Headers** to promote the first row to column headers, giving columns meaningful names.
+
+   - **Challenge 2:** Some numeric values were converted to text data type after transpose.
+
+     **Solution:** Manually changed data types for each column:
+     Selected column → **Transform tab → Data Type** → Selected appropriate type (Whole Number, Decimal, etc.)
+
+   - **Challenge 3:** Initially unclear whether to use Transpose or Unpivot.
+     
+     **Solution:**
+     - Analyzed data structure and requirements
+     - Determined Transpose was needed first to flip the structure
+     - Recognized that Unpivot could be applied afterward for full normalization
+     - **Rule of thumb:** Use Transpose when you need to swap axes; use Unpivot when you need to normalize column headers into values
