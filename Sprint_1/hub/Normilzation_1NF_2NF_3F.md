@@ -34,6 +34,12 @@ Normalization is a method to clean our data table so that:
 |--------|---------------------|
 | Ram    | 12345, 98765        |
 | Sita   | 55555, 66666, 77777 |
+### ❌ Example (Not in 1NF)
+| Student | PhoneNumbers        |
+| ------- | ------------------- |
+| Ram     | 12345, 98765        |
+| Sita    | 55555, 66666, 77777 |
+
 
 ### ✔ Correct 1NF Table
 | Student | PhoneNumber |
