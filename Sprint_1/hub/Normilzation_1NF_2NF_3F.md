@@ -51,7 +51,7 @@ Normalization is a method to clean our data table so that:
 | Sita    | 77777       |
 
 ---
-
+## 🧩 **1NF Diagram (Visual)**
 ## 🧩 **1NF Diagram (Mermaid)**
 
 ```mermaid
