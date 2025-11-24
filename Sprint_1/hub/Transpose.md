@@ -55,4 +55,12 @@ Proper use of Transpose enables better data modeling, easier filtering, and more
    - Compared transposed data with original to ensure accuracy
    - Checked that all values were preserved correctly
    - Confirmed the new structure was suitable for analysis
-  
+
+### Results
+- ✅ Successfully transposed monthly sales data from **wide format to tall format**
+- ✅ Converted **columns** into rows
+- ✅ Transformed **rows** into columns
+- ✅ Maintained data integrity with **100% accuracy** (verified by spot-checking values)
+- ✅ Prepared data structure for further transformations (Unpivot)
+- ✅ Enabled time-series analysis capabilities
+
