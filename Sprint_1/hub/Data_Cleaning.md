@@ -93,3 +93,32 @@ Cleaning data by removing irrelevant columns and rows:
    - Clicked dropdown on `Customer Name` column
    - Unchecked "Test Customer"
    - Applied filter to exclude test records
+
+### Technical Details
+
+#### Column Removal Summary
+
+**Original Columns (24 total):**
+
+1. Row ID ✅ KEPT
+2. Order ID ✅ KEPT
+4. Order Date ✅ KEPT
+5. Ship date ✅ KEPT
+6. Ship Mode ❌ REMOVED (not needed)
+7. Customer ID  ✅ KEPT
+8. Customer Name ✅ KEPT
+9. Segment  ❌ REMOVED (not needed)
+10. Country
+11. City
+12. State
+13. Postal Code ❌ REMOVED (not needed)
+14. Region
+15. Product ID ❌ REMOVED (not needed)
+17. Category ✅ KEPT
+18. Sub-Category ❌ REMOVED (not needed)
+20. Product Name ✅ KEPT
+21. Sales ✅ KEPT
+22. Quantity ✅ KEPT
+23. Discount ❌ REMOVED (not needed)
+24. Profit ✅ KEPT
+
