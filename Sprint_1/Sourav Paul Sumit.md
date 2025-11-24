@@ -3,8 +3,10 @@
 
 🚀 [Gauge Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Gauge_Chart.md)
 
-🚀 [Table concept.](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Table_Concepts.md)
+🚀 [Table concept](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Table_Concepts.md)
 
-🚀 [Fill_UpDown.](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Fill_UpDown.md)
+🚀 [Fill_UpDown](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Fill_UpDown.md)
 
-🚀 [GroupBy_Aggregates.](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/GroupBy_Aggregates.md)
+🚀 [GroupBy_Aggregates](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/GroupBy_Aggregates.md)
+
+🚀 [Transpose](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Transpose.md)
