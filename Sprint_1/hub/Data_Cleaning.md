@@ -102,25 +102,25 @@ Cleaning data by removing irrelevant columns and rows:
 
 1. Row ID ✅ KEPT
 2. Order ID ✅ KEPT
-4. Order Date ✅ KEPT
-5. Ship date ✅ KEPT
-6. Ship Mode ❌ REMOVED (not needed)
-7. Customer ID  ✅ KEPT
-8. Customer Name ✅ KEPT
-9. Segment  ❌ REMOVED (not needed)
-10. Country
-11. City
-12. State
-13. Postal Code ❌ REMOVED (not needed)
-14. Region
-15. Product ID ❌ REMOVED (not needed)
-17. Category ✅ KEPT
-18. Sub-Category ❌ REMOVED (not needed)
-20. Product Name ✅ KEPT
-21. Sales ✅ KEPT
-22. Quantity ✅ KEPT
-23. Discount ❌ REMOVED (not needed)
-24. Profit ✅ KEPT
+3. Order Date ✅ KEPT
+4. Ship date ✅ KEPT
+5. Ship Mode ❌ REMOVED (not needed)
+6. Customer ID  ✅ KEPT
+7. Customer Name ✅ KEPT
+8. Segment  ❌ REMOVED (not needed)
+9. Country ✅ KEPT
+10. City ✅ KEPT
+11. State ✅ KEPT
+12. Postal Code ❌ REMOVED (not needed)
+13. Region ✅ KEPT
+14. Product ID ❌ REMOVED (not needed)
+15. Category ✅ KEPT
+16. Sub-Category ❌ REMOVED (not needed)
+17. Product Name ✅ KEPT
+18. Sales ✅ KEPT
+19. Quantity ✅ KEPT
+20. Discount ❌ REMOVED (not needed)
+21. Profit ✅ KEPT
 
 **Cleaned Dataset (8 columns):**
 
@@ -132,9 +132,9 @@ Cleaning data by removing irrelevant columns and rows:
 6. Discount
 
 **Columns Removed:** 6  
-**Columns Retained:** 18  
-**Reduction:** 25% fewer columns
+**Columns Retained:** 15  
+**Reduction:** About 30% fewer columns
 
+#### Row Removal Summary
 
-
-
+**Original Row Count:** 9995 rows
