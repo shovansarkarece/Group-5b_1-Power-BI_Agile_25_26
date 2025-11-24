@@ -79,3 +79,9 @@ Power Query supports the following aggregate functions:
 
 <img width="715" height="400" alt="image" src="https://github.com/user-attachments/assets/71cc67d2-8a35-4946-aeb2-0badb637908d" />
 
+### Results
+- ✅ Created **2 summary tables** with meaningful aggregations
+- ✅ Sales by Category table: **3 product categories** with total Profits
+- ✅ Region based Summary table: **4 Regions** with the sales
+- ✅ All calculations verified for accuracy
+- ✅ Queries properly renamed and organized
