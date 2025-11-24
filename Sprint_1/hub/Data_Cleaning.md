@@ -1,11 +1,19 @@
-What it means: Remove unnecessary columns/rows and keep only relevant data.
-Steps:
+## Task 4: Columns and Rows Cleaned (Kept/Removed)
 
-Remove Columns:
+### Objective
+To improve data quality and optimize performance by removing unnecessary columns and rows, keeping only relevant data required for analysis and reporting in Power BI.
 
-Right-click column header → Remove or Remove Other Columns
+### Business Context
+Raw datasets often contain:
+- Unnecessary columns (metadata, internal IDs, redundant information)
+- Invalid rows (headers, footers, blank rows, error rows)
+- Duplicate records
+- Test data or sample records
 
+Cleaning data by removing irrelevant columns and rows:
+- **Improves performance:** Smaller datasets load and refresh faster
+- **Enhances clarity:** Focuses analysis on relevant information
+- **Reduces errors:** Eliminates problematic or inconsistent data
+- **Optimizes storage:** Reduces file size and memory usage
+- **Simplifies modeling:** Makes relationships and calculations clearer
 
-Remove Rows:
-
-Go to Home tab → Remove Rows → Choose option (Remove Top Rows, Remove Blank Rows, etc.)
