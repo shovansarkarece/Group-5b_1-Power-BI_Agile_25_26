@@ -61,6 +61,7 @@ erDiagram
         string PhoneNumber
     }
 ````
+### ✅ Visual Example
 
 ---
 
@@ -279,7 +280,4 @@ erDiagram
 * Enables star schema (fact + dimension)
 
 ---
-<img width="1024" height="1024" alt="1NF" src="https://github.com/user-attachments/assets/0a5e3fba-8744-4529-9ead-62832b728cac" />
-
-
 
