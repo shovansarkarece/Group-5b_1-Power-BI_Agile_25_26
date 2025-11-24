@@ -53,6 +53,13 @@ In business analytics, raw transactional data often needs to be summarized to an
 
      <img width="356" height="115" alt="image" src="https://github.com/user-attachments/assets/374d0975-7a29-415b-8d0e-741e13beb968" />
 
+3. **Renamed Queries Appropriately**
+   - Renamed grouped queries to `Sales_by_Region` and `Total_Sales`
+
+     *Screenshot showing how queries renamed -
+
+     <img width="801" height="304" alt="image" src="https://github.com/user-attachments/assets/b85f487f-b716-45ca-9906-ed8d6a3d099b" />
+
 
 
 
