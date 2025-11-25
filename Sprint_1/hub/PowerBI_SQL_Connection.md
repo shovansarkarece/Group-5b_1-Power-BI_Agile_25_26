@@ -83,6 +83,11 @@ Connecting Power BI to SQL Server enables:
 | NVARCHAR | Text |
 | DECIMAL(10,2) | Decimal Number |
 
-
+### Key Learnings
+- SQL Server instance name must be exact (include `\SQLEXPRESS`)
+- Import mode is faster for small datasets
+- Power BI automatically maps SQL Server data types
+- Windows Authentication is easiest for local connections
+- Can refresh data connection to get updates from SQL Server
 
 
