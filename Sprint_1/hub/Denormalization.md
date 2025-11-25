@@ -194,6 +194,25 @@ erDiagram
     PRODUCTS ||--o{ ORDER_ITEMS : included_in
 ```
 
+```mermaid
+erDiagram
+    SALES_FACT {
+        int OrderID PK
+        date OrderDate
+        int CustomerID
+        string CustomerFullName
+        string CustomerCity
+        string CustomerCountry
+        int ProductID
+        string ProductName
+        string ProductCategory
+        decimal UnitPrice
+        int Quantity
+        decimal TotalAmount
+        string PaymentMethod
+        date ETL_LoadDate
+    }
+```
 
 # 🔶 **When You Should NOT Denormalize**
 
