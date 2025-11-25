@@ -152,6 +152,9 @@ These "summary tables" are a form of denormalization.
 #### Tradeoffs: medical data requires strict governance and change logging; denormalized tables must store original IDs to allow reconstitution of source data for audits.
 #### Implementation notes: include provenance columns (source_encounter_id, etl_run_id), and automate re-computation when definitions change.
 ---
+---
+# Mermaid ER diagrams
+## Normalized schema (OLTP-style)
 
 ```mermaid
 erDiagram
@@ -194,6 +197,9 @@ erDiagram
     PRODUCTS ||--o{ ORDER_ITEMS : included_in
 ```
 
+
+## Denormalized analytics schema (OLTP-style)
+
 ```mermaid
 erDiagram
     SALES_FACT {
@@ -214,6 +220,7 @@ erDiagram
     }
 ```
 
+---
 # 🔶 **When You Should NOT Denormalize**
 
 Avoid denormalization when:
