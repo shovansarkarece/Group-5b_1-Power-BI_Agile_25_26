@@ -52,3 +52,19 @@ Connecting Power BI to SQL Server enables:
 **Rows Loaded:** 9,995  
 **Columns Loaded:** 21  
 
+### Import vs DirectQuery
+
+**Import Mode** (Used in this project):
+- Data loaded into Power BI memory
+- Faster performance for visualizations
+- Requires refresh to get updated data
+- Best for: Small to medium datasets
+
+**DirectQuery Mode:**
+- Queries SQL Server in real-time
+- Always shows current data
+- Slower performance (depends on SQL Server)
+- Best for: Large datasets, real-time requirements
+
+
+
