@@ -54,6 +54,6 @@ SQL Server acts as the foundation for enterprise reporting and analytics solutio
    - Confirmed **SQL Server (SQLEXPRESS)** service status: Running
    - Confirmed **SQL Server Browser** service status: Running
 
-
+#### Phase 2: Database Creation
 
 
