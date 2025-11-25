@@ -255,5 +255,13 @@ Performed the following checks to ensure data integrity:
 - Confirmed all remaining rows have valid data
 - No error values or blank critical fields
 
+### Application in Project
 
+Clean data enables:
+- **Faster Dashboards:** Reduced columns improve visual rendering speed
+- **Clearer Reports:** Only relevant data shown to end users
+- **Better Performance:** Smaller dataset loads faster in Power BI Service
+- **Accurate Analysis:** No duplicates or test data skewing results
+- **Easier Maintenance:** Simpler data model with fewer columns to manage
+- **Optimized Storage:** 33% smaller file size reduces storage costs
 
