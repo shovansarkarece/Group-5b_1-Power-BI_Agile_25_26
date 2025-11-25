@@ -209,8 +209,26 @@ Cleaning data by removing irrelevant columns and rows:
 - Carefully selected only unnecessary columns
 - Used Ctrl+Click to multi-select columns to keep, then "Remove Other Columns"
 
+**Challenge 2:** Remove Duplicates wasn't finding duplicates that clearly existed.
 
+**Solution:** 
+- Realized that slight differences in whitespace made rows appear different
+- Applied **Trim** transformation first to remove extra spaces
+- Then Remove Duplicates found and removed 8 duplicate entries
 
+**Challenge 3:** Couldn't figure out how to remove specific test records without manually filtering each one.
 
+**Solution:** 
+- Used column filter dropdown
+- Unchecked "Test Customer" and other test values
+- This automatically created a filter step
+- More efficient than removing rows one by one
+
+**Challenge 4:** Report showed wrong totals after removing bottom rows.
+
+**Solution:** 
+- Verified that footer rows were removed correctly
+- Realized totals in visuals should be calculated by Power BI, not from source data
+- Confirmed this was expected behavior (Power BI calculates its own aggregations)
 
 
