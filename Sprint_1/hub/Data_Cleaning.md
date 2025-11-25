@@ -199,6 +199,17 @@ Cleaning data by removing irrelevant columns and rows:
    - Fewer rows = faster load times
    - Critical for large datasets (millions of rows)
 
+### Challenges Faced
+
+**Challenge 1:** Accidentally removed a necessary column (`City`) while cleaning.
+
+**Solution:** 
+- Checked Applied Steps panel
+- Deleted the "Removed Columns" step
+- Carefully selected only unnecessary columns
+- Used Ctrl+Click to multi-select columns to keep, then "Remove Other Columns"
+
+
 
 
 
