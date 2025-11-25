@@ -76,7 +76,12 @@ SQL Server provides:
 - Primary keys and indexes improve query performance
 - DECIMAL type should be used for financial data (not FLOAT)
 
-
+### Application in Project
+This SQL Server database will:
+- Serve as the data source for Power BI reports
+- Enable SQL-based analysis and querying
+- Support multiple users accessing the same data
+- Provide better performance than flat files
 
 
 
