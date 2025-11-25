@@ -58,4 +58,14 @@ SQL Server provides:
 - ✅ Table created: dbo.Sales_Data
 - ✅ Rows imported: 9995 (100% success)
 
+### Challenges & Solutions
+
+**Challenge:** Import wizard showed data type errors for decimal columns.  
+**Solution:** Manually set Price and Profit to DECIMAL(10,2) in Edit Mappings.
+
+**Challenge:** Date column imported as text.  
+**Solution:** Changed data type from DT_WSTR to DT_DATE in column configuration.
+
+**Challenge:** Couldn't find Import Wizard option.  
+**Solution:** Had to right-click on the database (not server) to access Tasks → Import Data.
 
