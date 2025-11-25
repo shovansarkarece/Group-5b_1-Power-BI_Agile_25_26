@@ -53,7 +53,9 @@ SQL Server provides:
 
 - Executed import → **Success: 9995 rows transferred**
 
-
-
+### Results
+- ✅ Database created: PowerBI_Sales_DB
+- ✅ Table created: dbo.Sales_Data
+- ✅ Rows imported: 9995 (100% success)
 
 
