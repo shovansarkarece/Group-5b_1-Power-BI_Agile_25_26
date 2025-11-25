@@ -90,4 +90,31 @@ Connecting Power BI to SQL Server enables:
 - Windows Authentication is easiest for local connections
 - Can refresh data connection to get updates from SQL Server
 
+### Refresh Options
+
+**Manual Refresh:**
+- Click **Refresh** button in Home tab
+- Updates data from SQL Server
+
+**Scheduled Refresh:**
+- Available after publishing to Power BI Service
+- Can set automatic refresh schedule (hourly, daily, etc.)
+
+### Application in Project
+
+This connection enables:
+- Building interactive dashboards with SQL Server data
+- Creating reports that multiple users can access
+- Automatic data updates through refresh
+- Foundation for all Power BI visualizations in future sprints
+- Centralized data management
+
+
+
+
+
+
+
+
+
 
