@@ -74,3 +74,15 @@ Connecting Power BI to SQL Server enables:
 - ✅ Test visualization created successfully
 - ✅ Connection stable and working
 
+### Data Type Mapping (SQL Server → Power BI)
+
+| SQL Server Type | Power BI Type |
+|----------------|---------------|
+| INT | Whole Number |
+| DATE | Date |
+| NVARCHAR | Text |
+| DECIMAL(10,2) | Decimal Number |
+
+
+
+
