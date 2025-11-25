@@ -3,6 +3,7 @@
 
 
 <img width="1917" height="1021" alt="Screenshot 2025-11-25 230441" src="https://github.com/user-attachments/assets/b58e6dcc-b641-493c-b35c-dc9bd7da9593" />
+---
 
 📘 Creating a Text Slicer in Power BI
 
@@ -122,3 +123,102 @@ Select the slicer.
 Go to Format → Edit interactions.
 
 Choose how each visual responds (Filter / Highlight / None).
+
+---
+
+📊 Power BI – Numeric Slicer for Profit
+
+<img width="1919" height="1069" alt="2" src="https://github.com/user-attachments/assets/fa8a5442-9e69-41f8-aa3d-1d528b3cb7c7" />
+---
+
+This page in Power BI Desktop demonstrates how to use a numeric slicer to filter data based on a measure called Profit, alongside a table showing Sales and Product Name.
+
+🖥️ Layout Overview
+
+The Power BI window is divided into several key areas:
+
+Top Ribbon – Contains tabs like Home, Insert, Modeling, View, Optimize, Help, with actions such as:
+
+Get data, Transform data, New visual, Text box, Publish, etc.
+
+Report Canvas (Center) – Where the visuals are placed.
+
+Right Side Panels:
+
+Filters – “Filters on this page” and “Filters on all pages”.
+
+Visualizations – Shows all chart types and formatting options.
+
+Data – Lists fields from the Orders table (Category, City, Profit, Sales, Ship Date, etc.).
+
+Bottom Navigation – Shows multiple pages: Page 1, Page 2, Page 3 (selected) and a + icon to add more pages.
+
+📌 Visuals on This Page
+
+There are two main visuals on the canvas:
+
+1. Table Visual (Left Side)
+
+A table is placed on the left side displaying:
+
+Sales
+
+Product Name
+
+Each row represents a product with its corresponding sales value (displayed with decimals, e.g., 0.44, 0.56, 0.84, 0.99, 1.04, etc.).
+Users can scroll to see more rows. The table is useful to observe how values change when the Profit slicer is adjusted.
+
+2. Numeric Slicer for Profit (Right Side)
+
+On the right side, there is a numeric slicer that filters the data based on Profit.
+
+The slicer is titled “Profit”.
+
+It uses a slider with two circular handles.
+
+Above the slider, there are two numeric input boxes showing the minimum and maximum selected values (e.g., from -6.599,98 to 145,36 – formatted using local numeric settings).
+
+Moving either handle will change the Profit range and filter the data on this page.
+
+This slicer allows users to focus on products within a specific profit interval, such as:
+
+Only highly profitable products,
+
+Only low or negative profit products,
+
+Or any custom range.
+
+🛠️ How the Numeric Slicer Was Created
+
+Below is a conceptual summary of how this Profit slicer is built (for documentation purposes):
+
+Add a Slicer Visual
+
+From the Visualizations pane, click the Slicer icon.
+
+Assign the Profit Field
+
+In the Data pane, drag the Profit field (from the Orders table) to the Field area of the slicer.
+
+Set Numeric Mode
+
+Power BI detects that Profit is numeric and automatically displays it as:
+
+A between range with slider, or
+
+You can change type (e.g., “Between”, “Less than”, “Greater than”) from the slicer header.
+
+Format the Slicer (Optional)
+
+Adjust number formatting (decimal places, thousand separator) using the Modeling → Format options.
+
+In the Format pane, you can:
+
+Show/hide the header.
+
+Change the size of the slider.
+
+Adjust the font and colors.
+
+When the user moves the slider, all visuals on this page (including the Sales & Product Name table) are automatically filtered to show only rows within the chosen Profit range.
+
