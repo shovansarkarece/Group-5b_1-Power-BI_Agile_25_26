@@ -83,8 +83,4 @@ This SQL Server database will:
 - Support multiple users accessing the same data
 - Provide better performance than flat files
 
-
-
-
-
-
+---
