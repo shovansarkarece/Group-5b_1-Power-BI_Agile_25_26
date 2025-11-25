@@ -14,3 +14,19 @@ Storing data in SQL Server provides several advantages:
 - **Data Governance:** Better control over data quality and compliance
 
 SQL Server acts as the foundation for enterprise reporting and analytics solutions.
+
+### Prerequisites
+
+**Software Requirements:**
+1. **SQL Server** (I used SQL Server 2022 Express Edition - Free)
+2. **SQL Server Management Studio (SSMS)** - Version 19.3
+3. **Cleaned dataset** from Power Query (exported to CSV/Excel)
+
+**System Information:**
+- Operating System: Windows 11
+- SQL Server Version: SQL Server 2022 Express (16.0.1000.6)
+- SQL Server Instance: `localhost\SQLEXPRESS`
+- Authentication Mode: Windows Authentication
+
+
+
