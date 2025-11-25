@@ -44,6 +44,13 @@ SQL Server acts as the foundation for enterprise reporting and analytics solutio
    - Installation completed successfully
    - Instance name: `SQLEXPRESS`
 
+3. **Installed SQL Server Management Studio (SSMS)**
+   - Downloaded SSMS 19.3 from Microsoft
+   - Installed with default settings
+   - Launched SSMS and connected to local instance
+
+
+
 
 
 
