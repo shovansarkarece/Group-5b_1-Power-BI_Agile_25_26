@@ -122,10 +122,4 @@ This connection enables:
 - [x] Test visual works
 - [x] Connection stable
 
-
-
-
-
-
-
-
+---
