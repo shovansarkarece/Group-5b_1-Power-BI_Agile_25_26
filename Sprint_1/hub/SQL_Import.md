@@ -37,3 +37,13 @@ SQL Server acts as the foundation for enterprise reporting and analytics solutio
    - Downloaded SQL Server 2022 Express Edition (free version)
    - File size: ~270 MB
 
+2. **Installed SQL Server**
+   - Ran the installer
+   - Selected **Basic Installation** option
+   - Accepted default settings
+   - Installation completed successfully
+   - Instance name: `SQLEXPRESS`
+
+
+
+
