@@ -25,8 +25,14 @@ Connecting Power BI to SQL Server enables:
 - Selected **Import** mode (DirectQuery also available)
 - Clicked **OK**
 
+#### 3. Selected Tables
+- Navigator window opened showing available tables
+- Selected `dbo.Sales_Data` table
+- Previewed data to verify (9,995 rows visible)
+- Clicked **Load**
 
-
-
-
+#### 4. Verified Data Load
+- Checked **Fields** pane on right side
+- Confirmed `Sales_Data` table with all 21 columns:
+- Verified row count: 9995 rows loaded successfully
 
