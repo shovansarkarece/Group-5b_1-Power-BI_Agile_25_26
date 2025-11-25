@@ -28,5 +28,12 @@ SQL Server acts as the foundation for enterprise reporting and analytics solutio
 - SQL Server Instance: `localhost\SQLEXPRESS`
 - Authentication Mode: Windows Authentication
 
+### Steps Performed
 
+#### Phase 1: SQL Server Installation and Setup
+
+1. **Downloaded SQL Server Express**
+   - Visited Microsoft's official download page
+   - Downloaded SQL Server 2022 Express Edition (free version)
+   - File size: ~270 MB
 
