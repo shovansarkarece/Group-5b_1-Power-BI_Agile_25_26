@@ -36,3 +36,19 @@ Connecting Power BI to SQL Server enables:
 - Confirmed `Sales_Data` table with all 21 columns:
 - Verified row count: 9995 rows loaded successfully
 
+#### 5. Tested Connection
+- Created a simple table visual to test
+- Dragged `Category` and `Sales_Amount` fields
+- Data displayed correctly
+- Connection working ✅
+
+### Connection Details
+
+**Server:** localhost\SQLEXPRESS  
+**Database:** PowerBI_Sales_DB  
+**Table:** dbo.Sales_Data  
+**Connection Type:** Import  
+**Authentication:** Windows Authentication  
+**Rows Loaded:** 9,995  
+**Columns Loaded:** 21  
+
