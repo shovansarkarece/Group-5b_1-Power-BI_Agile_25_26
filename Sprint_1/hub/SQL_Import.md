@@ -49,7 +49,10 @@ SQL Server acts as the foundation for enterprise reporting and analytics solutio
    - Installed with default settings
    - Launched SSMS and connected to local instance
 
-
+4. **Verified SQL Server is Running**
+   - Opened **Services** (Windows + R → `services.msc`)
+   - Confirmed **SQL Server (SQLEXPRESS)** service status: Running
+   - Confirmed **SQL Server Browser** service status: Running
 
 
 
