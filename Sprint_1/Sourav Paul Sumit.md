@@ -13,3 +13,5 @@
 
 🚀 [Data_Cleaning](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Data_Cleaning.md)
 
+🚀 [SQL_Import](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/SQL_Import.md)
+
