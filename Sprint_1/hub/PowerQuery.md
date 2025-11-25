@@ -86,7 +86,11 @@ Options:
 * Keep Top Rows  
 * Keep Bottom Rows  
 * Keep Range of Rows  
+<img width="1916" height="875" alt="image" src="https://github.com/user-attachments/assets/d74201b0-7f37-4e3c-8e9c-f813c6cce928" />
 
+<img width="1905" height="977" alt="image" src="https://github.com/user-attachments/assets/40c1fbcb-5ffd-4f02-8c72-a8e156855e98" />
+
+<img width="1882" height="960" alt="image" src="https://github.com/user-attachments/assets/9dc77e46-e3d3-4930-a5ca-fe308dec3ca8" />
 ---
 
 ## 3.3 Add Custom Rows
@@ -97,11 +101,15 @@ Power Query doesn’t manually "add row" like Excel, but you can:
 
 * Home ➝ Enter Data  
 * Create your row(s)  
-* Append to your main table: Home ➝ Append Queries  
+* Append to your main table: Home ➝ Append Queries
+
+<img width="1918" height="602" alt="image" src="https://github.com/user-attachments/assets/2af0c8a8-8da3-406b-b281-dbc3bb1b37e2" />
+
 
 ### Method 2 — Add a Calculated Column Instead
 
 * Transform ➝ Add Column ➝ Custom Column  
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/94101bad-7f66-4033-a98d-65a40c33f93e" />
 
 ---
 
@@ -120,6 +128,13 @@ Options:
 
 Example:  
 *“John Doe – Sales” → Split by “–”*
+<img width="1910" height="935" alt="image" src="https://github.com/user-attachments/assets/bcf0d2a3-64a9-47b2-ab53-0a917f2632f4" />
+
+<img width="1912" height="1028" alt="image" src="https://github.com/user-attachments/assets/aa6a7a02-5e78-43af-8721-af0b3ed35a37" />
+
+**By Position
+<img width="1912" height="1028" alt="image" src="https://github.com/user-attachments/assets/7b79475c-493a-4b34-ad4e-a877d089c53b" />
+
 
 ---
 
@@ -137,6 +152,7 @@ Options:
 
 Example:  
 *Extract first 4 characters of ProductID → Use Extract First Characters*
+<img width="1901" height="977" alt="image" src="https://github.com/user-attachments/assets/3ddf2b58-fa12-4b30-b8ed-7fc268370761" />
 
 ---
 
@@ -157,7 +173,8 @@ Includes:
 ## 4.4 Replace Values
 
 * Home ➝ Transform ➝ Replace Values  
-* Example: Replace “N/A” with null  
+* Example: Replace “e” with $  
+<img width="1912" height="998" alt="image" src="https://github.com/user-attachments/assets/f7c720e2-d820-4b59-9e95-9b331d1f80a3" />
 
 ---
 
@@ -166,6 +183,7 @@ Includes:
 ## 5.1 Remove Errors
 
 * Home ➝ Reduce Rows ➝ Remove Errors  
+<img width="1917" height="1086" alt="image" src="https://github.com/user-attachments/assets/d24bf419-4085-41d5-9048-dcbdf9859306" />
 
 ---
 
@@ -173,6 +191,7 @@ Includes:
 
 * Transform ➝ Fill ➝ Down or Up  
 * Useful in hierarchical data  
+<img width="1903" height="967" alt="image" src="https://github.com/user-attachments/assets/a53b75b1-1c57-4d6f-a2f1-d019ef6faad3" />
 
 ---
 
@@ -185,9 +204,7 @@ Common uses:
 * Remove blanks  
 * Remove 0 values  
 * Keep valid ranges only  
+<img width="1895" height="1016" alt="image" src="https://github.com/user-attachments/assets/fcb11f2b-bb6c-4540-9e18-62d7a1b03844" />
 
 ---
 
-# 6. Ready for the Markdown Guide?
-
-You can now insert your screenshots wherever needed.
