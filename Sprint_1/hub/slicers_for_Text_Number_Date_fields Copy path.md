@@ -228,146 +228,119 @@ When the user moves the slider, all visuals on this page (including the Sales & 
 
 <img width="1915" height="1005" alt="3" src="https://github.com/user-attachments/assets/b403dfcc-090c-4bca-a32a-dacfb763deaa" />
 
-This report page in Power BI Desktop demonstrates the use of multiple slicers together:
+This Power BI report page demonstrates how to use a **Numeric Slicer** and a **Date Hierarchy Slicer** together to filter data dynamically.  
+It also includes a table visual showing **Sales** and **Product Name**, which updates based on the slicer selections.
 
-A numeric slicer for Profit
+This setup is useful for exploring profit ranges, analyzing trends over time, and interacting with product-level data.
 
-A hierarchical date slicer for Year → Month → Day
+---
 
-A table visual showing Sales and Product Name
+## 🖥️ Page Overview
 
-This combination allows dynamic filtering of product data based on both profit range and date hierarchy.
+This page includes the following components:
 
-🖥️ Overall Layout
+- **Sales & Product Name Table Visual**
+- **Profit Numeric Slicer**  
+- **Date Hierarchy Slicer (Year → Month → Day)**  
+- Power BI’s standard **Filters**, **Visualizations**, and **Data** panes on the right side  
 
-The screenshot shows the following sections of Power BI:
+---
 
-Ribbon (Top)
+## 📌 Visual Breakdown
 
-Includes tabs such as:
+### 1️⃣ Table Visual – Sales & Product Name
 
-Home, Insert, Modeling, View, Optimize, Help
+A table on the left side lists products with their corresponding **Sales** values (e.g., 1.08, 3.93, 4.43, 6.94, etc.).  
 
-Actions like Transform data, New visual, Text box, Publish, Quick measure, etc.
+This visual updates automatically when slicers are adjusted.
 
-Report Canvas (Center Area)
+---
 
-Contains:
+### 2️⃣ Profit Numeric Slicer
 
-Table Visual
+A numeric slicer at the top center filters the dataset based on **Profit**.
 
-Profit Numeric Slicer
+Features:
 
-Date Hierarchy Slicer (Year → Month → Day)
+- Adjustable **min** and **max** range  
+- Slider with two handles  
+- Numeric input boxes showing selected boundaries  
+- Filters all visuals on the page  
 
-Right-Side Panels
-
-Filters Pane – With “Filters on this page” and “Filters on all pages”
-
-Visualizations Pane – All chart types, formatting, and fields inputs
-
-Data Pane – Shows fields from Orders table like:
-
-Category, Customer ID, Discount, Order Date, Profit, Quantity, Sales, Segment, Ship Date, etc.
-
-Bottom Navigation
-
-Shows multiple pages:
-
-Page 1, Page 2, Page 3 (selected), and a plus icon for more pages.
-
-📌 Visuals on This Page
-1. Table Visual – Sales & Product Name (Left Side)
-
-A table displaying:
-
-Sales
-
-Product Name
-
-Example values appearing in the table:
-
-1.08
-3.93
-4.43
-6.94
-7.96
-8.85
-9.64
-10.56
-12.35
-12.62
-13.27
-14.56
-...
-Users can scroll vertically to explore more rows.
-This table updates dynamically based on slicer selections.
-
-2. Profit Numeric Slicer (Top Center)
-
-This slicer filters products by Profit range using a slider.
-
-Features shown in the screenshot:
-
-Title: Profit
-
-Two numeric boxes showing the chosen min and max values
-Example:
-
+Example range shown in the report:  
+```
 Min: -6,599.98
-
 Max: 1,343.49
+```
 
-A slider bar with two handles
+This helps in identifying highly profitable, low-profit, or loss-making products.
 
-Dragging the handles filters all visuals on the page
+---
 
-This is useful for:
+### 3️⃣ Date Hierarchy Slicer (Year → Month → Day)
 
-Finding highly profitable products
+This slicer expands through a multi-level date hierarchy:
 
-Identifying low-profit or negative-profit items
-
-Performing quick profitability analysis
-
-3. Date Hierarchy Slicer (Bottom Center)
-
-This slicer uses a date hierarchy to filter the data timeline.
-
-Hierarchy levels include:
-
-Year
-
-Quarter
-
-Month
-
-Day
+- **Year**
+- **Quarter**
+- **Month**
+- **Day**
 
 In the screenshot:
 
-Year 2014 is expanded
+- Year **2014** is expanded  
+- **February** is selected  
+- Other months like January, March, April, etc., are visible  
 
-The months under 2014 are visible:
+This enables users to filter data for:
 
-January
+- Specific years  
+- Specific months  
+- Or even specific days  
 
-February (selected)
+Useful for time-series trend analysis.
 
-March
+---
 
-April
+## 🎯 Purpose of This Page
 
-May
+This page demonstrates how numeric and date filtering can work together in Power BI to support advanced analysis such as:
 
-June
+- Profitability trend insights  
+- Monthly or yearly product performance  
+- Dynamic filtering with multiple dimensions  
+- Data exploration using hierarchical dates  
 
-This allows users to filter data by:
+---
 
-Specific year
+## 🧠 How It Works
 
-Specific month in that year
+| Visual | Function |
+|--------|----------|
+| **Table** | Displays Sales & Product Name |
+| **Profit Numeric Slicer** | Filters by profit range |
+| **Date Hierarchy Slicer** | Filters by Year → Month → Day |
+| **Interactions** | Both slicers connected to the table visual |
 
-Even individual days (if expanded further)
+When the date or profit filters change, the table visual updates instantly.
 
-This is extremely useful for time-series filtering and drilling down into specific periods.
+---
+
+## 🗂️ Fields Used
+
+From the **Orders** table:
+
+- `Sales`  
+- `Product Name`  
+- `Profit`  
+- `Ship Date` (used to generate the Date Hierarchy)  
+
+The Date Hierarchy automatically contains:
+
+- Year  
+- Quarter  
+- Month  
+- Day  
+
+---
+
