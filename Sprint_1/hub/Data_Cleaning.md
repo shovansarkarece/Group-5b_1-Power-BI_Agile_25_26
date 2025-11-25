@@ -138,3 +138,25 @@ Cleaning data by removing irrelevant columns and rows:
 #### Row Removal Summary
 
 **Original Row Count:** 9995 rows
+
+**Rows Removed:**
+- Top rows (headers/metadata): 2 rows
+- Bottom rows (footers/totals): 3 rows
+- Blank rows: 5 rows
+- Duplicate rows: 8 rows
+- Error rows: 2 rows
+- Test records (filtered): 7 rows
+- **Total Removed:** 27 rows
+
+### Row Removal Operations in Detail
+
+| Operation | Method | Rows Affected | Purpose |
+|-----------|--------|---------------|---------|
+| **Remove Top Rows** | Home → Remove Rows → Remove Top Rows | 2 | Remove report headers |
+| **Remove Bottom Rows** | Home → Remove Rows → Remove Bottom Rows | 3 | Remove summary footers |
+| **Remove Blank Rows** | Home → Remove Rows → Remove Blank Rows | 5 | Clean empty records |
+| **Remove Duplicates** | Home → Remove Rows → Remove Duplicates | 8 | Ensure data uniqueness |
+| **Remove Errors** | Home → Remove Rows → Remove Errors | 2 | Remove invalid entries |
+| **Filter (Custom)** | Column filter dropdown | 7 | Exclude test records |
+
+
