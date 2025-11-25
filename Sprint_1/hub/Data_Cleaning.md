@@ -275,3 +275,19 @@ Clean data enables:
 6. ✅ Applied cleaning in logical order (structural → content)
 7. ✅ Tested queries after cleaning to ensure functionality
 8. ✅ Named steps clearly in Applied Steps panel
+
+### Data Cleaning Checklist
+
+- [x] Identified and removed unnecessary columns
+- [x] Removed header rows at top
+- [x] Removed footer rows at bottom
+- [x] Cleaned blank/empty rows
+- [x] Removed duplicate records
+- [x] Removed error rows
+- [x] Filtered out test data
+- [x] Verified data types still correct
+- [x] Confirmed no critical data lost
+- [x] Documented all changes
+- [x] Tested downstream processes
+
+---
