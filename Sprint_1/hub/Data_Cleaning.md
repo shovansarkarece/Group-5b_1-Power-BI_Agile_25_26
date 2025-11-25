@@ -184,6 +184,20 @@ Cleaning data by removing irrelevant columns and rows:
    - Finally apply filters for conditional removal
    - This order prevents errors and ensures complete cleaning
 
+3. **Duplicate Detection:**
+   - Power Query checks ALL columns for duplicates
+   - Two rows are duplicates only if ALL values match
+   - Keep first occurrence, remove subsequent duplicates
+
+4. **Filters vs Removal:**
+   - **Filtering** (keep/exclude values): Reversible, can adjust later
+   - **Remove Rows operations**: Creates a step in Applied Steps
+   - Both are non-destructive (source data unchanged)
+
+5. **Performance Impact:**
+   - Fewer columns = faster queries
+   - Fewer rows = faster load times
+   - Critical for large datasets (millions of rows)
 
 
 
