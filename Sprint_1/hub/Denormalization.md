@@ -133,6 +133,9 @@ These "summary tables" are a form of denormalization.
 #### Why: reduces expensive joins at query time; Power BI visuals load faster and RLS (row-level security) can still be applied on key fields.
 #### Tradeoffs: wider rows, data duplication (customer name repeated), must refresh/ETL writes carefully (ETL latency acceptable for reporting).
 #### Implementation notes: update Sales_Fact via ETL after order finalization; keep a light normalized OLTP store for transactional updates.
+## Visual Example
+<img width="1024" height="1536" alt="Denormalization_E-Commerce" src="https://github.com/user-attachments/assets/0eee17c4-e99d-432b-8398-42aaeb9196ac" />
+
 ---
 ---
 # ⭐ **2)Banking — objective: fast historical analytics and regulatory reports**
@@ -142,6 +145,7 @@ These "summary tables" are a form of denormalization.
 #### Why: regulatory reports typically run on a schedule and need stable historical snapshots — denormalized snapshots prevent inconsistent joins across time.
 #### Tradeoffs: snapshots increase storage and require governance (audit of ETL/time-of-snapshot). Use checksums and audit columns (snapshot_date, source_version).
 #### Implementation notes: keep source-of-truth normalized for writes; use CDC (change data capture) to populate denormalized snapshot tables.
+## Visual Example
 ---
 ---
 # ⭐ **3)Healthcare — objective: fast cohort analysis and analytics on patient encounters**
@@ -151,6 +155,9 @@ These "summary tables" are a form of denormalization.
 #### Why: cohort exploration and dashboards need quick filters and aggregations; precomputed flags speed up queries and make life easier for analysts who are not SQL experts.
 #### Tradeoffs: medical data requires strict governance and change logging; denormalized tables must store original IDs to allow reconstitution of source data for audits.
 #### Implementation notes: include provenance columns (source_encounter_id, etl_run_id), and automate re-computation when definitions change.
+## Visual Example
+<img width="1536" height="1024" alt="Denormalization_HealthCare" src="https://github.com/user-attachments/assets/8d8df58a-700b-4f42-b828-4e5b722dd83f" />
+
 ---
 ---
 # Mermaid ER diagrams
