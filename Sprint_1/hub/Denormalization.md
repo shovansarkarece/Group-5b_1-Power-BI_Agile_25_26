@@ -125,6 +125,7 @@ These "summary tables" are a form of denormalization.
 
 ---
 # ⭐ **1) Real-world case studies (concise, practical)**
+
 ## E-commerce — objective: speed up product & sales reporting for dashboards
 
 #### Situation (normalized): Orders, Customers, Products, ShippingAddress split into many tables. Every dashboard query joins Orders → Customers → Products → Addresses → Promotions → Inventory.
@@ -133,7 +134,7 @@ These "summary tables" are a form of denormalization.
 #### Tradeoffs: wider rows, data duplication (customer name repeated), must refresh/ETL writes carefully (ETL latency acceptable for reporting).
 #### Implementation notes: update Sales_Fact via ETL after order finalization; keep a light normalized OLTP store for transactional updates.
 ---
-
+---
 # ⭐ **2)Banking — objective: fast historical analytics and regulatory reports**
 
 ## Situation: normalized transactions linked to accounts, customers, branches, and KYC data. Reports require joining many tables and computing aggregates across years.
@@ -141,15 +142,16 @@ These "summary tables" are a form of denormalization.
 #### Why: regulatory reports typically run on a schedule and need stable historical snapshots — denormalized snapshots prevent inconsistent joins across time.
 #### Tradeoffs: snapshots increase storage and require governance (audit of ETL/time-of-snapshot). Use checksums and audit columns (snapshot_date, source_version).
 #### Implementation notes: keep source-of-truth normalized for writes; use CDC (change data capture) to populate denormalized snapshot tables.
+---
+---
+# ⭐ **3)Healthcare — objective: fast cohort analysis and analytics on patient encounters**
 
-Healthcare — objective: fast cohort analysis and analytics on patient encounters
-
-Situation: encounters, patients, providers, diagnoses, lab results normalized across tables. Cohort queries join many tables and require computed columns (age at encounter, comorbidity flags).
-Denormalization approach: create Encounter_Analytic table that flattens key patient attributes (age_at_encounter, gender), provider attributes, primary diagnosis label, and precomputed risk scores and flags (e.g., has_diabetes_flag). Build Monthly_Cohort_Summaries.
-Why: cohort exploration and dashboards need quick filters and aggregations; precomputed flags speed up queries and make life easier for analysts who are not SQL experts.
-Tradeoffs: medical data requires strict governance and change logging; denormalized tables must store original IDs to allow reconstitution of source data for audits.
-Implementation notes: include provenance columns (source_encounter_id, etl_run_id), and automate re-computation when definitions change.
-
+## Situation: encounters, patients, providers, diagnoses, lab results normalized across tables. Cohort queries join many tables and require computed columns (age at encounter, comorbidity flags).
+#### Denormalization approach: create Encounter_Analytic table that flattens key patient attributes (age_at_encounter, gender), provider attributes, primary diagnosis label, and precomputed risk scores and flags (e.g., has_diabetes_flag). Build Monthly_Cohort_Summaries.
+#### Why: cohort exploration and dashboards need quick filters and aggregations; precomputed flags speed up queries and make life easier for analysts who are not SQL experts.
+#### Tradeoffs: medical data requires strict governance and change logging; denormalized tables must store original IDs to allow reconstitution of source data for audits.
+#### Implementation notes: include provenance columns (source_encounter_id, etl_run_id), and automate re-computation when definitions change.
+---
 
 
 
