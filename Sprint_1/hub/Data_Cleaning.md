@@ -169,4 +169,23 @@ Cleaning data by removing irrelevant columns and rows:
 - ✅ Reduced **file size** from 2.4 MB to 1.6 MB (33% smaller)
 - ✅ Improved **query performance** (refresh time reduced by ~25%)
 
+### Key Learnings
+
+1. **Column Removal Best Practices:**
+   - Always review column contents before removing
+   - Use "Remove Other Columns" when keeping multiple specific columns
+   - Document which columns were removed and why
+   - Keep business-relevant columns even if not immediately needed
+
+2. **Row Removal Order Matters:**
+   - Remove top/bottom rows FIRST (structural cleanup)
+   - Then remove blank rows
+   - Then remove duplicates
+   - Finally apply filters for conditional removal
+   - This order prevents errors and ensures complete cleaning
+
+
+
+
+
 
