@@ -43,6 +43,8 @@ Steps:
 * Transform ➝ Data Type  
 * Choose: *Text*, *Whole Number*, *Decimal*, *Date*, *DateTime*, etc.  
 
+<img width="1896" height="993" alt="image" src="https://github.com/user-attachments/assets/2675e15e-de1f-45fb-8c62-09053ad26b2b" />
+
 ---
 
 # 3. Add or Remove Rows
@@ -60,6 +62,16 @@ Options:
 * Remove Duplicates  
 
 Remove duplicates: Home ➝ Remove Rows ➝ Remove Duplicates  
+
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/cd4ccf78-5361-40e3-a2ed-c11e05255eea" />
+
+<img width="1891" height="1052" alt="image" src="https://github.com/user-attachments/assets/acbd2e51-d0ff-497d-aff0-2333ea5d54d8" />
+
+<img width="1891" height="990" alt="image" src="https://github.com/user-attachments/assets/74294f22-92dc-46b0-9805-23e28e246fed" />
+
+<img width="1893" height="977" alt="image" src="https://github.com/user-attachments/assets/52cac467-0228-4de5-8386-992e26ddecc0" />
+
+<img width="1890" height="977" alt="image" src="https://github.com/user-attachments/assets/0d5326e9-d80c-4f4a-b0d0-6ca3d2232dab" />
 
 ---
 
