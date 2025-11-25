@@ -146,6 +146,8 @@ These "summary tables" are a form of denormalization.
 #### Tradeoffs: snapshots increase storage and require governance (audit of ETL/time-of-snapshot). Use checksums and audit columns (snapshot_date, source_version).
 #### Implementation notes: keep source-of-truth normalized for writes; use CDC (change data capture) to populate denormalized snapshot tables.
 ## Visual Example
+<img width="1536" height="1024" alt="Denormalization_Banking" src="https://github.com/user-attachments/assets/e9e8396e-513a-4a78-adc5-4c026e769c39" />
+
 ---
 ---
 # ⭐ **3)Healthcare — objective: fast cohort analysis and analytics on patient encounters**
