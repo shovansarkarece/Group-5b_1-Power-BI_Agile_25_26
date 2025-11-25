@@ -153,6 +153,46 @@ These "summary tables" are a form of denormalization.
 #### Implementation notes: include provenance columns (source_encounter_id, etl_run_id), and automate re-computation when definitions change.
 ---
 
+```mermaid
+erDiagram
+    CUSTOMERS {
+        int CustomerID PK
+        string FirstName
+        string LastName
+        string Email
+    }
+    ADDRESSES {
+        int AddressID PK
+        int CustomerID FK
+        string Street
+        string City
+        string Country
+    }
+    PRODUCTS {
+        int ProductID PK
+        string ProductName
+        string Category
+        decimal Price
+    }
+    ORDERS {
+        int OrderID PK
+        int CustomerID FK
+        int AddressID FK
+        date OrderDate
+    }
+    ORDER_ITEMS {
+        int OrderItemID PK
+        int OrderID FK
+        int ProductID FK
+        int Quantity
+        decimal UnitPrice
+    }
+
+    CUSTOMERS ||--o{ ADDRESSES : has
+    CUSTOMERS ||--o{ ORDERS : places
+    ORDERS ||--o{ ORDER_ITEMS : contains
+    PRODUCTS ||--o{ ORDER_ITEMS : included_in
+```
 
 
 # 🔶 **When You Should NOT Denormalize**
