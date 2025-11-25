@@ -1,18 +1,16 @@
----
+# 🔶 What is Denormalization?
 
-# 🔶 **What is Denormalization?**
+Denormalization is the process of intentionally adding redundancy into a database to improve read performance, especially for reporting, analytics, dashboards, and OLAP systems.
 
-Denormalization is the **process of intentionally adding redundancy** into a database to **improve read performance**, especially for **reporting, analytics, dashboards, and OLAP systems**.
+👉 In normalization, we split data into multiple related tables to reduce redundancy.
 
-👉 In normalization, we split data into multiple related tables to **reduce redundancy**.
-👉 In denormalization, we **combine tables** or **duplicate data** to make **querying faster and simpler**.
+👉 In denormalization, we combine tables or duplicate data to make querying faster and simpler.
 
-### **In simple terms:**
+### In simple terms:
 
-> **Normalization = less redundancy → more joins**
-> **Denormalization = fewer joins → faster queries**
-
----
+> Normalization = less redundancy → more joins
+>
+> Denormalization = fewer joins → faster queries
 
 # 🔶 **Why Do We Use Denormalization?**
 
