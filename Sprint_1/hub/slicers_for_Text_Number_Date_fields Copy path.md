@@ -3,7 +3,7 @@
 
 
 <img width="1917" height="1021" alt="Screenshot 2025-11-25 230441" src="https://github.com/user-attachments/assets/b58e6dcc-b641-493c-b35c-dc9bd7da9593" />
----
+
 
 📘 Creating a Text Slicer in Power BI
 
@@ -129,7 +129,7 @@ Choose how each visual responds (Filter / Highlight / None).
 📊 Power BI – Numeric Slicer for Profit
 
 <img width="1919" height="1069" alt="2" src="https://github.com/user-attachments/assets/fa8a5442-9e69-41f8-aa3d-1d528b3cb7c7" />
----
+
 
 This page in Power BI Desktop demonstrates how to use a numeric slicer to filter data based on a measure called Profit, alongside a table showing Sales and Product Name.
 
