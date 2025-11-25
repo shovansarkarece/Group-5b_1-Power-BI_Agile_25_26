@@ -69,3 +69,17 @@ SQL Server provides:
 **Challenge:** Couldn't find Import Wizard option.  
 **Solution:** Had to right-click on the database (not server) to access Tasks → Import Data.
 
+### Key Learnings
+- SQL Server Express is free and suitable for development
+- Import Wizard provides easy GUI-based data import
+- Always verify row counts and data integrity after import
+- Primary keys and indexes improve query performance
+- DECIMAL type should be used for financial data (not FLOAT)
+
+
+
+
+
+
+
+
