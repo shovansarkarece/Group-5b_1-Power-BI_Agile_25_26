@@ -15,3 +15,4 @@
 
 🚀 [SQL_Import](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/SQL_Import.md)
 
+🚀 [PowerBI_SQL_Connection](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/PowerBI_SQL_Connection.md)
