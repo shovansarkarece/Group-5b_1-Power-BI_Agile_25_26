@@ -124,8 +124,8 @@ These "summary tables" are a form of denormalization.
 
 
 ---
-## ⭐ **1) Real-world case studies (concise, practical)**
-### E-commerce — objective: speed up product & sales reporting for dashboards
+# ⭐ **1) Real-world case studies (concise, practical)**
+## E-commerce — objective: speed up product & sales reporting for dashboards
 
 #### Situation (normalized): Orders, Customers, Products, ShippingAddress split into many tables. Every dashboard query joins Orders → Customers → Products → Addresses → Promotions → Inventory.
 #### Denormalization approach: create a Sales_Fact wide table that embeds customer name/city, product category, product price at sale, shipping country, and computed TotalAmount. Also maintain smaller pre-aggregated tables for Sales_By_Day and Sales_By_ProductCategory.
@@ -134,13 +134,13 @@ These "summary tables" are a form of denormalization.
 #### Implementation notes: update Sales_Fact via ETL after order finalization; keep a light normalized OLTP store for transactional updates.
 ---
 
-# ⭐ 2)Banking — objective: fast historical analytics and regulatory reports
+# ⭐ **2)Banking — objective: fast historical analytics and regulatory reports**
 
-Situation: normalized transactions linked to accounts, customers, branches, and KYC data. Reports require joining many tables and computing aggregates across years.
-Denormalization approach: create Transaction_Agg materialized views: daily and monthly aggregates per account and per branch; create Regulatory_Report wide tables that include customer risk score snapshot and account attributes at time-of-report.
-Why: regulatory reports typically run on a schedule and need stable historical snapshots — denormalized snapshots prevent inconsistent joins across time.
-Tradeoffs: snapshots increase storage and require governance (audit of ETL/time-of-snapshot). Use checksums and audit columns (snapshot_date, source_version).
-Implementation notes: keep source-of-truth normalized for writes; use CDC (change data capture) to populate denormalized snapshot tables.
+## Situation: normalized transactions linked to accounts, customers, branches, and KYC data. Reports require joining many tables and computing aggregates across years.
+#### Denormalization approach: create Transaction_Agg materialized views: daily and monthly aggregates per account and per branch; create Regulatory_Report wide tables that include customer risk score snapshot and account attributes at time-of-report.
+#### Why: regulatory reports typically run on a schedule and need stable historical snapshots — denormalized snapshots prevent inconsistent joins across time.
+#### Tradeoffs: snapshots increase storage and require governance (audit of ETL/time-of-snapshot). Use checksums and audit columns (snapshot_date, source_version).
+#### Implementation notes: keep source-of-truth normalized for writes; use CDC (change data capture) to populate denormalized snapshot tables.
 
 Healthcare — objective: fast cohort analysis and analytics on patient encounters
 
