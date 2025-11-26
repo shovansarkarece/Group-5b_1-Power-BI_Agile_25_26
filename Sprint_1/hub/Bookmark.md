@@ -1,6 +1,7 @@
 # 🔖 Power BI Bookmark -- Interactive View Control
 
-https://github.com/user-attachments/assets/048eeef2-3378-4e65-8a14-f8f0decc8cfe
+https://github.com/user-attachments/assets/19a01043-6353-4d70-b920-b363eb77c552
+
 
 ## Overview
 
@@ -11,7 +12,8 @@ slicers, and visibility) and switch between them with a single click.
 
 ------------------------------------------------------------------------
 
-<img width="959" height="508" alt="10" src="https://github.com/user-attachments/assets/435bc540-6a64-4e6a-839a-0cda714e5efe" />
+<img width="958" height="509" alt="11" src="https://github.com/user-attachments/assets/0165a3bc-070d-4fc1-b459-f188a0188713" />
+
 
 ## What is a Bookmark in Power BI?
 
