@@ -1,5 +1,4 @@
 # 🔖 Power BI Bookmark -- Interactive View Control
 
-https://github.com/user-attachments/assets/49ddffa5-ecef-4346-b807-e45ff481b57e
-
+https://github.com/user-attachments/assets/048eeef2-3378-4e65-8a14-f8f0decc8cfe
 
