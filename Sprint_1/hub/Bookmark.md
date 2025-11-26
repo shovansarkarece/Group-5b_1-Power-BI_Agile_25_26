@@ -11,6 +11,8 @@ slicers, and visibility) and switch between them with a single click.
 
 ------------------------------------------------------------------------
 
+<img width="959" height="508" alt="10" src="https://github.com/user-attachments/assets/435bc540-6a64-4e6a-839a-0cda714e5efe" />
+
 ## What is a Bookmark in Power BI?
 
 A **Bookmark**: - Captures the **current state** of a report page -
