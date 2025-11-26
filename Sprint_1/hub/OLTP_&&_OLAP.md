@@ -84,10 +84,4 @@ OLAP systems are designed for **analysis, reporting, and decision-making**.
 
 ---
 
-If you want, I can also make:
-
-✅ A **diagram** (image) of OLTP vs OLAP
-✅ A **markdown file (.md)** ready for GitHub
-✅ A **Power BI-style infographic**
-
-Just tell me!
+## Visual Example==> 1
