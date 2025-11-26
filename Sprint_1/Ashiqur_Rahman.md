@@ -7,6 +7,8 @@
 
 [📌 Power BI Drill Down Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Drill_down.md)
 
+[📌 Animated Bar Chart Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Animated_bar_chart.md)
+
 
 
 
