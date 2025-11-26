@@ -11,4 +11,6 @@
 
 [📌 Power BI Scroller Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Scroller.md)
 
+[▶ Power BI Play Axis Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/play_axis.md)
 
+️
