@@ -1,3 +1,5 @@
+[Understanding PowerBI DAX](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/UnderstandingDax.md)
+
 [Power Query](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/PowerQuery.md)
 
 
