@@ -18,7 +18,7 @@ pause, forward, and backward controls.
 The Play Axis is configured with the following setup:
 
 -   **Axis Field:** Ship Date
-    -   Hierarchy: Month → Day\
+    -   Hierarchy: Month → Day
 -   **Control Buttons:**
     -   ▶️ Play
     -   ⏸ Pause
@@ -72,7 +72,7 @@ selected time period.
 
 All filters are currently set to **(All)**:
 
--   Ship Date -- Month\
+-   Ship Date -- Month
 -   Ship Date -- Day
 
 This allows full animated playback across all time periods.
@@ -81,23 +81,23 @@ This allows full animated playback across all time periods.
 
 ## How the Animation Works
 
-1.  User clicks the ▶️ **Play** button.\
+1.  User clicks the ▶️ **Play** button.
 2.  The report automatically moves through:
-    -   Month → Day\
-3.  Both charts update in real-time.\
-4.  Users can pause, move forward, or go backward manually.\
+    -   Month → Day
+3.  Both charts update in real-time.
+4.  Users can pause, move forward, or go backward manually.
 5.  This creates a smooth **time-trend visualization experience**.
 
 ------------------------------------------------------------------------
 
 ## Steps to Add Play Axis in Power BI
 
-1.  Open **Power BI Desktop**.\
-2.  Go to **AppSource (Get More Visuals)**.\
-3.  Search for **Play Axis**.\
-4.  Import the visual.\
-5.  Drag **Ship Date hierarchy** into the Play Axis field.\
-6.  Connect it with charts on the same page.\
+1.  Open **Power BI Desktop**.
+2.  Go to **AppSource (Get More Visuals)**.
+3.  Search for **Play Axis**.
+4.  Import the visual.
+5.  Drag **Ship Date hierarchy** into the Play Axis field.
+6.  Connect it with charts on the same page.
 7.  Click ▶️ Play to animate the report.
 
 ------------------------------------------------------------------------
