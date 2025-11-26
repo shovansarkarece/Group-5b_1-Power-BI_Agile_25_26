@@ -9,6 +9,6 @@
 
 [📌 Animated Bar Chart Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Animated_bar_chart.md)
 
-
+[📌 Power BI Scroller Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Scroller.md)
 
 
