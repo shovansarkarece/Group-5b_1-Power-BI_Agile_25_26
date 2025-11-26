@@ -84,4 +84,6 @@ OLAP systems are designed for **analysis, reporting, and decision-making**.
 
 ---
 
-## Visual Example==> 1
+## Visual Example
+
+<img width="1024" height="1536" alt="OLTP_OLAP" src="https://github.com/user-attachments/assets/92be070f-bbc1-436c-9b30-79c337dbb6a9" />
