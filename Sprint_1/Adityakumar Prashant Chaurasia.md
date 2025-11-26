@@ -1,5 +1,8 @@
 [Power Query](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/PowerQuery.md)
 
+
+[Power Query_2](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/PowerQuery2.md)
+
 # Power BI Practice Project — Complete Tutorial
 
 This document provides a detailed walkthrough of a Power BI practice project.  
