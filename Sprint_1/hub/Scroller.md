@@ -53,8 +53,8 @@ summary reports
 
 All filters are currently set to **(All)**:
 
--   State\
--   Sum of Sales\
+-   State
+-   Sum of Sales
 -   Sum of Profit
 
 This ensures that the scroller reflects **overall business performance
@@ -64,13 +64,13 @@ across all states**.
 
 ## Formatting Settings Applied
 
--   ✅ Auto-size font: Disabled\
--   ✅ Status indicator: Enabled\
--   ✅ Status indicator color: Enabled\
--   ✅ Font size: 63\
--   ✅ Scroll speed: 2\
--   ✅ Text color: Black\
--   ✅ Background color: White\
+-   ✅ Auto-size font: Disabled
+-   ✅ Status indicator: Enabled
+-   ✅ Status indicator color: Enabled
+-   ✅ Font size: 63
+-   ✅ Scroll speed: 2
+-   ✅ Text color: Black
+-   ✅ Background color: White
 -   ✅ Update interval: 50
 
 These settings ensure: - High visibility - Smooth scrolling effect -
