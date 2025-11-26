@@ -5,6 +5,8 @@
 
 [📊 Slicers for Text, Number, and Date Fields](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/slicers_for_Text_Number_Date_fields%20Copy%20path.md)
 
+[📌 Power BI Drill Down Analysis](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Drill_down.md)
+
 
 
 
