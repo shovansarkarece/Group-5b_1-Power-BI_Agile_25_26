@@ -123,6 +123,11 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 # 6. Practice Exercises (compact)
 
 **Calculated Columns**
+1. `Line Total = Sales[Quantity] * Sales[UnitPrice]`  
+2. `Order Year = YEAR(Sales[OrderDate])`  
+3. `Month Name = FORMAT(Sales[OrderDate], "MMMM")`  
+4. `Sales Size = IF(Sales[Line Total] > 1000, "Large", "Small")`  
+5. `Quarter Number = QUARTER(Sales[OrderDate])`
 
  
 
