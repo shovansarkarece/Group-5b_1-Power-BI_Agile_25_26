@@ -33,3 +33,9 @@
 
 # 2. Common DAX Functions (quick)
 
+* **Aggregation**
+  * `SUM(Table[Column])` — totals  
+  * `AVERAGE(Table[Column])` — mean  
+  * `COUNTROWS(Table)` — count records (preferred)
+
+
