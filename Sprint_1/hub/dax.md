@@ -160,6 +160,7 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 
 # Next steps (recommended)
 * Create 5 calculated columns and 5 measures from sample data.  
+* Build the mini dashboard above and test slicers.  
 
 
 
