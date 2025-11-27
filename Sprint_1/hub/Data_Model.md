@@ -79,10 +79,7 @@ Power BI uses **Star Schema**, which includes:
 * Contains descriptive information
   (Date, Customer, Product, Region)
 
-## Visual Example==>(i)
-![star-schema-example-1](https://github.com/user-attachments/assets/36bdd538-0419-4976-8e5f-7b04dd893f61)
-
-## Visual Example==>(ii)
+## Visual Example
 <img width="1675" height="996" alt="image" src="https://github.com/user-attachments/assets/5ba1850d-7ffa-4ac6-a52d-304f19976a7a" />
 
 ---
