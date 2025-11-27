@@ -98,6 +98,12 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 `Total Sales = SUM(Sales[LineTotal])`
 * Unique customers:  
 `Unique Customers = DISTINCTCOUNT(Sales[CustomerID])`
+* Profit margin %:  
+```
+
+Profit Margin % =
+DIVIDE([Total Profit], [Total Revenue], 0) * 100
+
 
 
 
