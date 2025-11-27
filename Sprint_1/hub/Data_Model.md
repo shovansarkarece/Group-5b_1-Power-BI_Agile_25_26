@@ -19,8 +19,11 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * To support **analytics and reporting** efficiently
 * To ensure **consistent** and **organized** data across the system
 * To define clear **relationships** between tables
-## Visual Example
+## Visual Example-->(i)
 <img width="512" height="411" alt="conceptual_erd_27340" src="https://github.com/user-attachments/assets/73129a3e-94fd-4edd-ab75-6e50b4085e10" />
+
+## Visual Example-->(ii)
+<img width="1475" height="802" alt="create-manage-relationships-01" src="https://github.com/user-attachments/assets/c17762fe-c00b-4f20-92e5-cce318b8a319" />
 
 ---
 
@@ -32,6 +35,10 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * Shows **high-level relationships**
 * Used by business stakeholders
 * No technical details
+* 
+## Visual Example
+
+<img width="1536" height="1024" alt="Types_Data_Model" src="https://github.com/user-attachments/assets/3077da88-081f-4826-bc35-e82662d8b2c3" />
 
 ---
 
