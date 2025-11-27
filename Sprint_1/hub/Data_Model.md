@@ -37,7 +37,6 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * No technical details
 * 
 ## Visual Example
-
 <img width="1536" height="1024" alt="Types_Data_Model" src="https://github.com/user-attachments/assets/3077da88-081f-4826-bc35-e82662d8b2c3" />
 
 ---
