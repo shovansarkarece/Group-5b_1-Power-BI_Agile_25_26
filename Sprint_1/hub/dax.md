@@ -58,6 +58,10 @@
 **Step 2 — New Column**  
 * Modeling → New Column → formula bar appears.
 
+**Step 3 — Write formula & Enter**  
+* `ColumnName = <expression>` → Enter → column stored in table.
+
+
 
 
 
