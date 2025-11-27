@@ -114,11 +114,11 @@ Power BI uses **Star Schema**, which includes:
 
     - #### Headcount by department and location
 
-Training participation and status
+    - #### Training participation and status
 
-Training course popularity
+    - #### Training course popularity
 
-Salary distributions
+    - #### Salary distributions
 
 A bar chart compares the number of employees in each department
 
