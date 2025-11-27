@@ -55,6 +55,10 @@
 **Step 1 — Load & go to Data View**  
 * Home → Get Data → load → Close & Apply → Click **Data** icon.
 
+**Step 2 — New Column**  
+* Modeling → New Column → formula bar appears.
+
+
 
 
 
