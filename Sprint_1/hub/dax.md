@@ -46,6 +46,8 @@
   * `IF(condition, true, false)`  
   * `DIVIDE(n, d, 0)` — avoids division-by-zero
 
+---
 
+# 3. Creating Calculated Columns — Step by Step
 
 
