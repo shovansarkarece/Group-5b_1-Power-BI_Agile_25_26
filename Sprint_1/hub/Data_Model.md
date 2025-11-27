@@ -110,9 +110,9 @@ Power BI uses **Star Schema**, which includes:
 
 ## This report provides an in-depth Power BI dashboard design for XYZ Company’s employee and training data (from Data_Model.xlsx).
 
-It visualizes key metrics such as:
+- #### It visualizes key metrics such as:
 
-Headcount by department and location
+    - #### Headcount by department and location
 
 Training participation and status
 
