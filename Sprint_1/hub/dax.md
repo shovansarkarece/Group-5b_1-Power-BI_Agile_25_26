@@ -132,7 +132,10 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 **Measures**
 1. `Total Sales = SUM(Sales[LineTotal])`  
 2. `Average Order = AVERAGE(Sales[LineTotal])`  
-3. `Total Orders = COUNTROWS(Sales)`  
+3. `Total Orders = COUNTROWS(Sales)`
+4. `Unique Customers = DISTINCTCOUNT(Sales[CustomerID])`  
+5. `Sales Per Order = DIVIDE([Total Sales], [Total Orders], 0)`
+ 
 
 
  
