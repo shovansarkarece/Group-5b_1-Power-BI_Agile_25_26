@@ -163,6 +163,11 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * Build the mini dashboard above and test slicers.
 * Learn `CALCULATE()` and basic time-intelligence (`TOTALYTD`, `SAMEPERIODLASTYEAR`) next.
 
+---
+
+# End — short checklist
+
+
 
 
 
