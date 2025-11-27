@@ -153,6 +153,9 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * *Typo in column name* — confirm exact `Table[Column]`.  
 * *Division by zero* — use `DIVIDE(n, d, 0)`.
 
+**Performance tip**
+
+
 
  
 
