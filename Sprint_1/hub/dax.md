@@ -148,6 +148,9 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * Date: `YEAR(Date)`, `QUARTER(Date)`, `FORMAT(Date, "MMM")`  
 * Text: `UPPER(text)`, `&` to concatenate
 
+**Common errors**
+* *“A single value for column cannot be determined”* — you're using a column aggregation in a calculated column; use a measure.  
+* *Typo in column name* — confirm exact `Table[Column]`.  
 
 
  
