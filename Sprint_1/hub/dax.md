@@ -118,6 +118,12 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * Filter responsiveness: Yes
 * Good for: totals, KPIs, percentages
 
+---
+
+# 6. Practice Exercises (compact)
+
+**Calculated Columns**
+
  
 
   
