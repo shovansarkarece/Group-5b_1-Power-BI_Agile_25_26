@@ -38,4 +38,6 @@
   * `AVERAGE(Table[Column])` — mean  
   * `COUNTROWS(Table)` — count records (preferred)
 
+* **Text / Date**
+
 
