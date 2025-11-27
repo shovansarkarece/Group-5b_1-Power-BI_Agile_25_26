@@ -6,6 +6,8 @@
 It defines **what data your system needs**, **how different data elements relate**, and **how they should be stored in a database or analytical model**.
 
 Think of it as **creating a blueprint** before building a database or dashboard.
+## Visual Example
+<img width="1584" height="1472" alt="Data_Modeling" src="https://github.com/user-attachments/assets/3a35015f-b3b8-46d7-b40a-52c1bb55890c" />
 
 ---
 
