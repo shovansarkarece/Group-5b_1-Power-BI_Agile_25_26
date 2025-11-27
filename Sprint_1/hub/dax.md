@@ -156,6 +156,11 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 **Performance tip**
 * Prefer measures for large tables (lower memory). Use calculated columns when values must exist per row or be used in slicers.
 
+---
+
+# Next steps (recommended)
+
+
 
 
  
