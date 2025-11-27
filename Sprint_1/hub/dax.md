@@ -39,6 +39,8 @@
   * `COUNTROWS(Table)` — count records (preferred)
 
 * **Text / Date**
-  * `UPPER(text)`, `LOWER(text)`, `FORMAT(date, "MMMM")`  
+  * `UPPER(text)`, `LOWER(text)`, `FORMAT(date, "MMMM")`
+  * `YEAR(Date)`, `QUARTER(Date)`, `DATEDIFF(start, end, YEAR)`
+
 
 
