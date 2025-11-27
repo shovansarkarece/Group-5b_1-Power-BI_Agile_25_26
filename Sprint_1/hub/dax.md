@@ -72,6 +72,11 @@ Sales Category =
 IF(Sales[Amount] > 5000, "High",
 IF(Sales[Amount] > 1000, "Medium", "Low"))
 
+```
+* Related lookup (requires relationship):  
+`Product Category = RELATED(Products[Category])`
+
+
 
 
 
