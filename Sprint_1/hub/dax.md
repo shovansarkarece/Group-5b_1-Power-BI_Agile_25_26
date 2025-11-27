@@ -43,6 +43,8 @@
   * `YEAR(Date)`, `QUARTER(Date)`, `DATEDIFF(start, end, YEAR)`
 
 * **Logical / Safety**
+  * `IF(condition, true, false)`  
+
 
 
 
