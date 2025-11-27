@@ -64,6 +64,9 @@
 **Examples**
 * Line Total (row math):  
   `Line Total = Sales[Quantity] * Sales[UnitPrice]`
+* Extract Year:  
+  `Order Year = YEAR(Orders[OrderDate])`
+
 
 
 
