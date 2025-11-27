@@ -46,6 +46,8 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * Adds **attributes/columns**
 * Introduces **primary keys** and **foreign keys**
 * Still does *not* include DB engine details
+## Visual Example
+![logical-data-model](https://github.com/user-attachments/assets/5731520a-485e-4640-bb9c-71dcf8711fdb)
 
 ---
 
@@ -72,7 +74,7 @@ Power BI uses **Star Schema**, which includes:
 * Contains descriptive information
   (Date, Customer, Product, Region)
 
-A good Power BI model = **fast, clean, and optimized reports**.
+
 
 ---
 
