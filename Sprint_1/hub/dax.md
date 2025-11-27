@@ -52,5 +52,9 @@
 
 *When to use:* row-level values (stored), categories, lookups via relationships.
 
+**Step 1 — Load & go to Data View**  
+* Home → Get Data → load → Close & Apply → Click **Data** icon.
+
+
 
 
