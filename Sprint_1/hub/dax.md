@@ -42,5 +42,7 @@
   * `UPPER(text)`, `LOWER(text)`, `FORMAT(date, "MMMM")`
   * `YEAR(Date)`, `QUARTER(Date)`, `DATEDIFF(start, end, YEAR)`
 
+* **Logical / Safety**
+
 
 
