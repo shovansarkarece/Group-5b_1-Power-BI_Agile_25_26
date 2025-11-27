@@ -86,6 +86,11 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 **Step 1 — Open Report View**  
 * Click the **Report** icon (left).
 
+**Step 2 — New Measure**  
+* Right-click table in Fields pane → New Measure  
+* or Modeling → New Measure.
+
+
 
 
 
