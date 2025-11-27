@@ -129,6 +129,12 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 4. `Sales Size = IF(Sales[Line Total] > 1000, "Large", "Small")`  
 5. `Quarter Number = QUARTER(Sales[OrderDate])`
 
+**Measures**
+1. `Total Sales = SUM(Sales[LineTotal])`  
+2. `Average Order = AVERAGE(Sales[LineTotal])`  
+3. `Total Orders = COUNTROWS(Sales)`  
+
+
  
 
   
