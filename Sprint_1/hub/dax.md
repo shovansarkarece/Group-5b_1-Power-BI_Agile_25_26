@@ -39,5 +39,6 @@
   * `COUNTROWS(Table)` — count records (preferred)
 
 * **Text / Date**
+  * `UPPER(text)`, `LOWER(text)`, `FORMAT(date, "MMMM")`  
 
 
