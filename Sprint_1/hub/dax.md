@@ -30,3 +30,6 @@
   `Total Sales = SUM(Sales[Amount])`
 
 ---
+
+# 2. Common DAX Functions (quick)
+
