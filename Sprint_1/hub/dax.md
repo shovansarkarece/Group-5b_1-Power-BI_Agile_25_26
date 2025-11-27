@@ -166,6 +166,8 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 ---
 
 # End — short checklist
+* Calculated Column = row-level, stored.  
+
 
 
 
