@@ -150,19 +150,20 @@ Power BI uses **Star Schema**, which includes:
 
 # Relationships (one-to-many):
 
-Departments[DepartmentID] → Employees[DepartmentID]
+- #### Departments[DepartmentID] → Employees[DepartmentID]
 
-Designations[DesignationID] → Employees[DesignationID]
+- #### Designations[DesignationID] → Employees[DesignationID]
 
-Cities[CityID] → Employees[CityID]
+- #### Cities[CityID] → Employees[CityID]
 
-Employees[EmployeeID] → TrainingApplications[EmployeeID]
+- #### Employees[EmployeeID] → TrainingApplications[EmployeeID]
 
-Trainings[TrainingID] → TrainingApplications[TrainingID]
-
+- #### Trainings[TrainingID] → TrainingApplications[TrainingID]
 
 ### 🔹 **Data_Model_Related_Report**
+
 * Click this below link where we can get a clear report of a Comany*
+
 * [Click Here](https://app.powerbi.com/links/BA_l-M01AR?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 
 
