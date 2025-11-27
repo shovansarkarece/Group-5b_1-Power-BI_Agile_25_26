@@ -44,6 +44,7 @@
 
 * **Logical / Safety**
   * `IF(condition, true, false)`  
+  * `DIVIDE(n, d, 0)` — avoids division-by-zero
 
 
 
