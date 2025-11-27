@@ -154,6 +154,7 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * *Division by zero* — use `DIVIDE(n, d, 0)`.
 
 **Performance tip**
+* Prefer measures for large tables (lower memory). Use calculated columns when values must exist per row or be used in slicers.
 
 
 
