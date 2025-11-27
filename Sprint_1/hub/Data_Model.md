@@ -86,25 +86,9 @@ Power BI uses **Star Schema**, which includes:
 
 # 🧩 **Common Data Modelling Concepts**
 
-### 🔹 **Primary Key (PK)**
+### 🔹 **Data_Model_Related_Report**
+* Click this below link where we can get a clear report *
 
-A unique identifier for a row.
-
-### 🔹 **Foreign Key (FK)**
-
-Links two tables.
-
-### 🔹 **One-to-Many Relationship (1:* )**
-
-Most common in Power BI.
-
-### 🔹 **Normalization**
-
-Organizing data to reduce redundancy.
-
-### 🔹 **Denormalization**
-
-Combining data for faster analytics.
 
 ---
 
