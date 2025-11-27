@@ -61,6 +61,9 @@
 **Step 3 — Write formula & Enter**  
 * `ColumnName = <expression>` → Enter → column stored in table.
 
+**Examples**
+* Line Total (row math):  
+  `Line Total = Sales[Quantity] * Sales[UnitPrice]`
 
 
 
