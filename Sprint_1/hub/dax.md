@@ -109,7 +109,9 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * **Calculated Column**  
 * Where: Data View
 * Stored: Yes (uses memory)  
-* Filter responsiveness: No  
+* Filter responsiveness: No
+* Good for: categories, row calculations, slicers
+  
 
 
 
