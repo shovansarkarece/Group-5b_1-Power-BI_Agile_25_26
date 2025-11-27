@@ -104,6 +104,9 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 Profit Margin % =
 DIVIDE([Total Profit], [Total Revenue], 0) * 100
 
+# 5. Calculated Columns vs Measures (short)
+
+
 
 
 
