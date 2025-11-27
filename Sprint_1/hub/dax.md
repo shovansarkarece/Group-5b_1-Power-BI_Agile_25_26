@@ -111,6 +111,10 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * Stored: Yes (uses memory)  
 * Filter responsiveness: No
 * Good for: categories, row calculations, slicers
+
+* **Measure**  
+* Where: Report View  
+
   
 
 
