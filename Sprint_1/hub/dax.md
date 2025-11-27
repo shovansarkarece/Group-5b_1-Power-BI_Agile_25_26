@@ -89,6 +89,10 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 **Step 2 — New Measure**  
 * Right-click table in Fields pane → New Measure  
 * or Modeling → New Measure.
+  
+**Step 3 — Write formula & Enter**  
+* `MeasureName = <function>` → Enter → appears with calculator icon.
+
 
 
 
