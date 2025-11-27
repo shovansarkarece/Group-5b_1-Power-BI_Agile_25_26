@@ -113,7 +113,10 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * Good for: categories, row calculations, slicers
 
 * **Measure**  
-* Where: Report View  
+* Where: Report View
+* Stored: No (calculated on demand)  
+* Filter responsiveness: Yes  
+ 
 
   
 
