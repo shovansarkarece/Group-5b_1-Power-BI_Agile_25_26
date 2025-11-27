@@ -75,6 +75,8 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 ```
 * Related lookup (requires relationship):  
 `Product Category = RELATED(Products[Category])`
+**Quick tip:** Calculated columns are evaluated during refresh — they do not react to slicers/filters.
+
 
 
 
