@@ -13,4 +13,4 @@
 
 **🔄 [OLTP_&&_OLAP](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/OLTP_%26%26_OLAP.md)**
 
-**🧩 [Data_Model]()**
+**🧩 [Data_Model](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Data_Model.md)**
