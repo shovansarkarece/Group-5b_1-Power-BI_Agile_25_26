@@ -57,6 +57,11 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * Contains **data types (INT, VARCHAR)**
 * Indexes, constraints, keys
 * Used by developers and DBAs
+## Visual Example==>(i)
+![Physical_Data_model_e-commerce](https://github.com/user-attachments/assets/df0e0190-4285-4575-af8e-d8a2ec1dc302)
+
+## Visual Example==>(ii)
+![physicalDataModel](https://github.com/user-attachments/assets/a216afb2-553f-460c-b177-08c0cea4a1db)
 
 ---
 
@@ -101,30 +106,4 @@ Organizing data to reduce redundancy.
 Combining data for faster analytics.
 
 ---
-
-# 🏁 **Simple Example**
-
-**Tables:**
-
-* **Customer** (CustomerID, Name, City)
-* **Orders** (OrderID, OrderDate, CustomerID, Amount)
-
-**Relationship:**
-Customer.CustomerID → Orders.CustomerID (1-to-many)
-
-This ensures:
-
-* One customer can have many orders
-* No duplicate customer details
-
----
-
-If you want, I can also create:
-
-✅ A **diagram image**
-✅ A **GitHub-ready Markdown file**
-✅ A **Star Schema image for Power BI**
-✅ A **comparison table** (Fact vs Dimension, Normalization vs Denormalization)
-
-Just tell me!
 
