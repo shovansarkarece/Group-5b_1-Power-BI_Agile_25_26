@@ -93,6 +93,11 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 **Step 3 — Write formula & Enter**  
 * `MeasureName = <function>` → Enter → appears with calculator icon.
 
+**Examples**
+* Total Sales:  
+`Total Sales = SUM(Sales[LineTotal])`
+
+
 
 
 
