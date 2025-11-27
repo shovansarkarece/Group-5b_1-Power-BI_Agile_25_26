@@ -120,55 +120,35 @@ Power BI uses **Star Schema**, which includes:
 
     - #### Salary distributions
 
-- ####A bar chart compares the number of employees in each department
+- #### A bar chart compares the number of employees in each department
 
-A stacked chart breaks down training applications into completed vs. pending
+- #### A stacked chart breaks down training applications into completed vs. pending
 
-A city-by-department matrix shows geographical distribution
+- #### A city-by-department matrix shows geographical distribution
 
-Designation breakdowns provide historical role insights
+- #### Designation breakdowns provide historical role insights
 
-All charts use DAX measures like COUNTROWS, SUM, CALCULATE, etc.
+- #### All charts use DAX measures like COUNTROWS, SUM, CALCULATE, etc.
 
-Report pages will feature:
 
-Department and city slicers to filter all visuals
 
-Consistent color theming
+# 2. Data model (assumptions)
 
-Data labels for enhanced clarity
+- #### Tables expected in ```Data_Model.xlsx```:
 
-The report is organized across six pages:
+- #### Employees (EmployeeID, FullName, DepartmentID, DesignationID, CityID, Salary, HireDate, Status)
 
-Overview
+- #### Departments (DepartmentID, DepartmentName)
 
-Training Summary
+- #### Designations (DesignationID, DesignationName)
 
-Department Analysis
+- #### Cities (CityID, CityName)
 
-City & Designation
+- #### Trainings (TrainingID, TrainingName, CourseCode, CourseCategory)
 
-Salary Analysis
+- #### TrainingApplications (ApplicationID, EmployeeID, TrainingID, AppliedDate, CompletionDate, Status)
 
-Data & Drillthrough
-
-2. Data model (assumptions)
-
-Tables expected in Data_Model.xlsx:
-
-Employees (EmployeeID, FullName, DepartmentID, DesignationID, CityID, Salary, HireDate, Status)
-
-Departments (DepartmentID, DepartmentName)
-
-Designations (DesignationID, DesignationName)
-
-Cities (CityID, CityName)
-
-Trainings (TrainingID, TrainingName, CourseCode, CourseCategory)
-
-TrainingApplications (ApplicationID, EmployeeID, TrainingID, AppliedDate, CompletionDate, Status)
-
-Relationships (one-to-many):
+# Relationships (one-to-many):
 
 Departments[DepartmentID] → Employees[DepartmentID]
 
