@@ -50,4 +50,7 @@
 
 # 3. Creating Calculated Columns — Step by Step
 
+*When to use:* row-level values (stored), categories, lookups via relationships.
+
+
 
