@@ -138,6 +138,7 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 
 **Build a small dashboard**
 * Create 4 Cards (Total Sales, Total Orders, Avg Order, Unique Customers)  
+* Add slicer for `Order Year` and a clustered bar: Month × Total Sales
 
 
  
