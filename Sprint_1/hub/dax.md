@@ -106,6 +106,10 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 
 # 5. Calculated Columns vs Measures (short)
 
+* **Calculated Column**  
+* Where: Data View  
+
+
 
 
 
