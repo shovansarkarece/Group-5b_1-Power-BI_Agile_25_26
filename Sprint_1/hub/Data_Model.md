@@ -19,6 +19,8 @@ Think of it as **creating a blueprint** before building a database or dashboard.
 * To support **analytics and reporting** efficiently
 * To ensure **consistent** and **organized** data across the system
 * To define clear **relationships** between tables
+## Visual Example
+<img width="512" height="411" alt="conceptual_erd_27340" src="https://github.com/user-attachments/assets/73129a3e-94fd-4edd-ab75-6e50b4085e10" />
 
 ---
 
