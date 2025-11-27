@@ -96,6 +96,9 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 **Examples**
 * Total Sales:  
 `Total Sales = SUM(Sales[LineTotal])`
+* Unique customers:  
+`Unique Customers = DISTINCTCOUNT(Sales[CustomerID])`
+
 
 
 
