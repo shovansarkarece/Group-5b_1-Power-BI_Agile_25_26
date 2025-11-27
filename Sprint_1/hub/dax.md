@@ -66,6 +66,11 @@
   `Line Total = Sales[Quantity] * Sales[UnitPrice]`
 * Extract Year:  
   `Order Year = YEAR(Orders[OrderDate])`
+* Category with nested IFs:  
+```
+Sales Category =
+IF(Sales[Amount] > 5000, "High",
+IF(Sales[Amount] > 1000, "Medium", "Low"))
 
 
 
