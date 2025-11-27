@@ -115,7 +115,9 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 * **Measure**  
 * Where: Report View
 * Stored: No (calculated on demand)  
-* Filter responsiveness: Yes  
+* Filter responsiveness: Yes
+* Good for: totals, KPIs, percentages
+
  
 
   
