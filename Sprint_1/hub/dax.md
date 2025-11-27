@@ -143,6 +143,8 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 ---
 
 # 7. Quick Reference & Troubleshooting
+**Quick formulas**
+* `SUM(Table[Col])`, `AVERAGE(Table[Col])`, `COUNTROWS(Table)`, `DISTINCTCOUNT(Table[Col])`  
 
 
  
