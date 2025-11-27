@@ -167,7 +167,9 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 
 # End — short checklist
 * Calculated Column = row-level, stored.
-* Measure = dynamic, filter-aware.  
+* Measure = dynamic, filter-aware.
+* `COUNTROWS` and `DIVIDE` are your friends.  
+
 
 
 
