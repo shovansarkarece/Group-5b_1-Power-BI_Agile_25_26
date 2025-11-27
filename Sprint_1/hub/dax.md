@@ -151,6 +151,7 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 **Common errors**
 * *“A single value for column cannot be determined”* — you're using a column aggregation in a calculated column; use a measure.  
 * *Typo in column name* — confirm exact `Table[Column]`.  
+* *Division by zero* — use `DIVIDE(n, d, 0)`.
 
 
  
