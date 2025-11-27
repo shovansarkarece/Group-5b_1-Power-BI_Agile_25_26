@@ -83,6 +83,10 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 
 *When to use:* aggregation KPIs, dynamic values that respond to filters.
 
+**Step 1 — Open Report View**  
+* Click the **Report** icon (left).
+
+
 
 
 
