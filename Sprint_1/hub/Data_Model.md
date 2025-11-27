@@ -136,17 +136,17 @@ Power BI uses **Star Schema**, which includes:
 
 - #### Tables expected in ```Data_Model.xlsx```:
 
-- #### Employees (EmployeeID, FullName, DepartmentID, DesignationID, CityID, Salary, HireDate, Status)
+- #### ```Employees``` (EmployeeID, FullName, DepartmentID, DesignationID, CityID, Salary, HireDate, Status)
 
-- #### Departments (DepartmentID, DepartmentName)
+- #### ```Departments``` (DepartmentID, DepartmentName)
 
-- #### Designations (DesignationID, DesignationName)
+- #### ```Designations``` (DesignationID, DesignationName)
 
-- #### Cities (CityID, CityName)
+- #### ```Cities``` (CityID, CityName)
 
-- #### Trainings (TrainingID, TrainingName, CourseCode, CourseCategory)
+- #### ```Trainings``` (TrainingID, TrainingName, CourseCode, CourseCategory)
 
-- #### TrainingApplications (ApplicationID, EmployeeID, TrainingID, AppliedDate, CompletionDate, Status)
+- #### ```TrainingApplications``` (ApplicationID, EmployeeID, TrainingID, AppliedDate, CompletionDate, Status)
 
 # Relationships (one-to-many):
 
