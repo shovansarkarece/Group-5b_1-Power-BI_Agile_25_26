@@ -162,7 +162,7 @@ Power BI uses **Star Schema**, which includes:
 
 ### 🔹 **Data_Model_Related_Report**
 
-* Click this below link where we can get a clear report of a Comany*
+- ## Click this below link where we can get a clear report of a Comany 
 
 * [Click Here](https://app.powerbi.com/links/BA_l-M01AR?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
 
