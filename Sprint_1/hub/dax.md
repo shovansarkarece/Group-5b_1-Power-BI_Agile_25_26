@@ -77,6 +77,12 @@ IF(Sales[Amount] > 1000, "Medium", "Low"))
 `Product Category = RELATED(Products[Category])`
 **Quick tip:** Calculated columns are evaluated during refresh — they do not react to slicers/filters.
 
+---
+
+# 4. Creating Measures — Step by Step
+
+*When to use:* aggregation KPIs, dynamic values that respond to filters.
+
 
 
 
