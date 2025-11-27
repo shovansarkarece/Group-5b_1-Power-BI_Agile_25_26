@@ -137,6 +137,8 @@ DIVIDE([Total Profit], [Total Revenue], 0) * 100
 5. `Sales Per Order = DIVIDE([Total Sales], [Total Orders], 0)`
 
 **Build a small dashboard**
+* Create 4 Cards (Total Sales, Total Orders, Avg Order, Unique Customers)  
+
 
  
 
