@@ -120,7 +120,7 @@ Power BI uses **Star Schema**, which includes:
 
     - #### Salary distributions
 
-A bar chart compares the number of employees in each department
+- ####A bar chart compares the number of employees in each department
 
 A stacked chart breaks down training applications into completed vs. pending
 
