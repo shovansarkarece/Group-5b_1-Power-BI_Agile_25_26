@@ -338,3 +338,426 @@ RETURN IF(RankCity <= 10, Sales[City], "Other")
 * Report View: insert Map / Filled Map / Shape map → drag Location + Size → format labels and colors → test interactions → save.
 
 ---
+
+# Power BI — Detailed Step-by-Step Guide: How to Clean Data
+
+---
+
+# 1. Overview — When & Why to Clean Data
+
+* Cleaning in **Power Query Editor** ensures reliable analysis, correct aggregations, and smaller/faster data models.
+* Do cleaning **before** loading data into the model (Transform Data → Power Query Editor).
+* Keep steps small, named, and documented in the **APPLIED STEPS** pane.
+
+---
+
+# 2. Open Power Query Editor
+
+* Home → **Transform data** (Power BI Desktop).
+* Left pane shows queries (tables) — pick the query to clean.
+* Use the **Preview** window to inspect rows and columns.
+
+---
+
+# 3. First checks (quick audit)
+
+* *Column headers* — Are they correct, or do you need to **Promote headers**?
+
+  * Home → Use First Row as Headers (if required).
+* *Column types* — Numbers/dates/text must be set correctly.
+
+  * Transform → Data Type → choose appropriate type.
+* *Column quality & distribution* — View **Column quality**, **Column distribution**, **Column profile** (View → Column quality / distribution / profile). These reveal nulls, error rates, and value spread.
+
+---
+
+# 4. Common cleaning tasks — step-by-step
+
+## 4.1 Trim and Clean text
+
+*Why:* Remove leading/trailing spaces and non-printable characters that break joins or filters.
+
+**UI steps:**
+
+1. Select text column(s).
+2. Transform → Format → **Trim**.
+3. Transform → Format → **Clean** (removes non-printable chars).
+
+**M example:**
+
+```m
+= Table.TransformColumns(PreviousStep, {{"Name", Text.Trim, type text}})
+```
+
+---
+
+## 4.2 Change / enforce data types
+
+*Why:* Calculations and visuals rely on correct types (dates for time intelligence; numbers for sums).
+
+**UI steps:**
+
+1. Select column → Transform → Data Type → choose (Decimal Number, Whole Number, Date, Date/Time, Text, etc.).
+2. Or use column header type icon → choose type.
+
+**M example:**
+
+```m
+= Table.TransformColumnTypes(PreviousStep, {{"OrderDate", type date}, {"Amount", type number}})
+```
+
+---
+
+## 4.3 Remove top/bottom/alternate/blank rows
+
+*Why:* Remove file footers, extra header rows, or blank rows.
+
+**UI steps:**
+
+* Home → Reduce Rows → Remove Rows → **Remove Top Rows** / **Remove Bottom Rows** / **Remove Blank Rows** / **Remove Alternate Rows**.
+
+**M examples:**
+
+```m
+= Table.Skip(Source,4)  // remove top 4 rows
+= Table.SelectRows(Source, each not List.IsEmpty(Record.FieldValues(_))) // remove fully blank rows
+```
+
+---
+
+## 4.4 Promote headers / use first row as header
+
+*Why:* Ensure column names are the actual headers.
+
+**UI steps:**
+
+* Home → Use First Row as Headers.
+
+**M:**
+
+```m
+= Table.PromoteHeaders(PreviousStep, [PromoteAllScalars=true])
+```
+
+---
+
+## 4.5 Remove duplicates
+
+*Why:* Prevent double-counting.
+
+**UI steps:**
+
+* Select column(s) → Home → Remove Rows → **Remove Duplicates**.
+
+**M:**
+
+```m
+= Table.Distinct(PreviousStep, {"OrderID"})
+```
+
+---
+
+## 4.6 Replace Values / Replace Errors
+
+*Why:* Standardize placeholders (e.g., "N/A", "-", "unknown") and handle errors.
+
+**UI steps:**
+
+* Home → Replace Values → enter *Value To Find* and *Replace With*.
+* Transform → Replace Errors → specify replacement.
+
+**M:**
+
+```m
+= Table.ReplaceValue(PreviousStep,"N/A",null,Replacer.ReplaceValue,{"Status"})
+= Table.ReplaceErrorValues(PreviousStep, {{"Amount", 0}})
+```
+
+---
+
+## 4.7 Split & Merge columns
+
+*Why:* Separate combined fields or combine address parts.
+
+**Split UI steps:**
+
+* Select column → Transform → Split Column → By Delimiter / By Number of Characters / By Positions.
+
+**Merge UI steps:**
+
+* Select multiple columns (Ctrl+click) → Transform → Merge Columns → choose delimiter.
+
+**M (split by delimiter):**
+
+```m
+= Table.SplitColumn(PreviousStep, "FullName", Splitter.SplitTextByDelimiter(" ", QuoteStyle.Csv), {"FirstName","LastName"})
+```
+
+**M (merge):**
+
+```m
+= Table.CombineColumns(PreviousStep,{"FirstName","LastName"},Combiner.CombineTextByDelimiter(" "), "FullName")
+```
+
+---
+
+## 4.8 Fill Down / Fill Up
+
+*Why:* Propagate values in hierarchical datasets where categories appear only once per block.
+
+**UI steps:**
+
+* Select column → Transform → Fill → Down (or Up).
+
+**M:**
+
+```m
+= Table.FillDown(PreviousStep,{"Region"})
+```
+
+---
+
+## 4.9 Filter rows (remove outliers, keep ranges)
+
+*Why:* Remove irrelevant data or limit by date range.
+
+**UI steps:**
+
+* Click filter icon on column → uncheck unwanted values or use Text/Number/Date filters (e.g., Date After, Greater Than).
+
+**M:**
+
+```m
+= Table.SelectRows(PreviousStep, each [Amount] > 0 and [OrderDate] >= #date(2023,1,1))
+```
+
+---
+
+## 4.10 Conditional Column (if/then logic)
+
+*Why:* Classify or flag records during import.
+
+**UI steps:**
+
+* Add Column → Conditional Column → set conditions.
+
+**M (Custom Column alternative):**
+
+```m
+= Table.AddColumn(PreviousStep, "SalesCategory", each if [Amount] > 5000 then "High" else if [Amount] > 1000 then "Medium" else "Low")
+```
+
+---
+
+## 4.11 Pivot / Unpivot
+
+*Why:* Convert between wide and long formats for analysis.
+
+**Pivot UI:**
+
+* Select column to pivot → Transform → Pivot Column → select values and aggregation.
+
+**Unpivot UI:**
+
+* Select columns to keep → Transform → Unpivot Other Columns (or Unpivot Columns).
+
+**M (unpivot example):**
+
+```m
+= Table.UnpivotOtherColumns(PreviousStep, {"ProductID"}, "Attribute", "Value")
+```
+
+---
+
+## 4.12 Group By / Aggregations
+
+*Why:* Summarize data (totals, counts, averages) before loading.
+
+**UI steps:**
+
+* Home → Group By → choose group column(s), operation (Sum, Count, Average) and column to aggregate.
+
+**M:**
+
+```m
+= Table.Group(PreviousStep, {"Category"}, {{"TotalAmount", each List.Sum([Amount]), type number}, {"Count", each Table.RowCount(_), Int64.Type}})
+```
+
+---
+
+## 4.13 Merge Queries (joins)
+
+*Why:* Combine related tables (lookup, enrichment).
+
+**UI steps:**
+
+* Home → Merge Queries (or Merge Queries as New) → select primary and secondary tables → click matching columns → choose join type (Left, Inner, Right, Full, Anti).
+* Expand the nested table column to select fields to bring in.
+
+**M:**
+
+```m
+= Table.NestedJoin(Orders, {"CustomerID"}, Customers, {"CustomerID"}, "Customers", JoinKind.LeftOuter)
+= Table.ExpandTableColumn(PreviousStep, "Customers", {"CustomerName","Country"}, {"CustomerName","Country"})
+```
+
+---
+
+## 4.14 Append Queries (stacking sheets/tables)
+
+*Why:* Combine multiple sheets/monthly files of same schema into one table.
+
+**UI steps:**
+
+* Home → Append Queries → Append Queries as New → choose two or three+ tables.
+
+**M:**
+
+```m
+= Table.Combine({Jan, Feb, Mar})
+```
+
+---
+
+## 4.15 Detect data types & use Column Profiling
+
+*Why:* Identify errors, nulls, value distribution.
+
+**UI steps:**
+
+* View → enable **Column quality**, **Column distribution**, **Column profile**.
+* Address issues flagged: convert types, replace errors, trim, remove blanks.
+
+---
+
+# 5. Advanced & Safety steps
+
+## 5.1 Use Parameters & Templates
+
+*Why:* Reuse queries across files (folder sources for monthly loads). Create parameterized file paths.
+
+**UI:** Home → Manage Parameters → create parameter → use in File path for Source step.
+
+## 5.2 Use Folder connector & Combine Files
+
+*Why:* Automate appending new files placed in a folder.
+
+**UI:** Home → Get Data → Folder → Combine & Transform Data → Power Query auto-generates a function and a combined table.
+
+## 5.3 Use `try ... otherwise` to prevent step failures
+
+**M example:**
+
+```m
+= Table.AddColumn(PreviousStep, "SafeAmount", each try Number.FromText([Amount]) otherwise 0)
+```
+
+## 5.4 Use `Table.Buffer()` sparingly for performance
+
+*Why:* Buffer when reusing a table many times in the same query to reduce recomputation — but can increase memory usage.
+
+**M example:**
+
+```m
+let
+  src = Table.Buffer(Source),
+  // further steps using src
+in
+  final
+```
+
+---
+
+# 6. Naming & documenting applied steps
+
+* Rename steps in **APPLIED STEPS** to meaningful names (e.g., `PromoteHeaders`, `TrimNames`, `ChangeType_OrderDate`).
+* Keep steps small and atomic (1 transformation per step) — easier to debug and edit.
+
+---
+
+# 7. Validate & test
+
+* Spot-check rows and edge cases after each major transform.
+* Use **Remove Other Columns** on a sample query to focus on problem columns.
+* Use **Keep Top Rows** to test on small samples quickly.
+* Check totals before/after transforms to ensure values preserved (e.g., total sales).
+
+---
+
+# 8. Load Strategy & final steps
+
+* After cleaning, **Home → Close & Apply** to load to the model.
+* Consider removing unused columns before load to reduce model size.
+* Where possible create **measures** (DAX) instead of heavy calculated columns to save memory.
+
+---
+
+# 9. Common pitfalls & troubleshooting
+
+* **Wrong totals after joins** — check relationship cardinality and duplicated keys from merge.
+* **Dates not aggregating** — confirm type = Date and consistent formatting.
+* **Unexpected nulls** — check Trim/Clean and Replace Values steps; watch for hidden characters.
+* **Step fails after file change** — use robust parsing (e.g., promote headers conditionally) or parameters.
+
+---
+
+# 10. Useful M snippets (copy/paste)
+
+*Remove rows with null in a column*
+
+```m
+= Table.SelectRows(PreviousStep, each Record.FieldValues(_){0} <> null)
+```
+
+*Convert currency string to number (remove € and commas)*
+
+```m
+= Table.TransformColumns(PreviousStep, {{"Price", each Number.FromText(Text.Replace(Text.Replace(_, "€", ""), ".", "")), type number}})
+```
+
+*Safe parse date*
+
+```m
+= Table.AddColumn(PreviousStep, "SafeDate", each try Date.FromText([DateText]) otherwise null, type date)
+```
+
+*Group by Category and count*
+
+```m
+= Table.Group(PreviousStep, {"Category"}, {{"Count", each Table.RowCount(_), Int64.Type}})
+```
+
+---
+
+# 11. Performance tips
+
+* Remove columns you don’t need before complex steps.
+* Reduce cardinality of columns where possible (avoid high-cardinality text used as keys).
+* Prefer native query folding (keep transformations that push to source, e.g., filters, column selection — check step folding icon).
+* Use incremental refresh (Power BI Pro/Premium) for large datasets.
+
+---
+
+# 12. Checklist before sharing your PBIX
+
+* All data types correct.
+* No unexpected errors in queries.
+* Applied steps named and logical.
+* Remove PII (if needed).
+* Save PBIX and document key transformations (README or .md notes).
+
+---
+
+# 13. Example mini workflow 
+
+1. Get Data → CSV/Excel/Folder → Transform Data.
+2. Promote headers → Trim/Clean text → Change data types.
+3. Replace values / remove blank rows / remove duplicates.
+4. Split/merge columns as necessary.
+5. Add calculated columns (M) or conditional columns.
+6. Group By / Aggregate if needed.
+7. Merge with lookup tables or Append multiple sources.
+8. Final validation → Close & Apply.
+
+---
+
