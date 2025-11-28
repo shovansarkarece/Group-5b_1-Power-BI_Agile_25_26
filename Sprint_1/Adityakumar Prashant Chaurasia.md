@@ -5,7 +5,7 @@
 
 [📌 Inroduction to Power BI](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/PowerBI.md) 
 
-[📌 Data Cleaning](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Practice.md#2-importing-csv-data) 
+[📌 Data Repurposing (Cleaning)](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Practice_Pie.md#power-bi--detailed-step-by-step-guide-how-to-clean-data) 
 
 [📌 Bar Chart](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/hub/Practice.md#7-creating-a-dashboard-report-view)
 
