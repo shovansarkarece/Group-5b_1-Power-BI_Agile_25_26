@@ -17,3 +17,6 @@
 
 * Churn column: **Yes / No**
 * Churn count:
+
+  * **Churned:** 1,869
+  * **Stayed:** 5,174
