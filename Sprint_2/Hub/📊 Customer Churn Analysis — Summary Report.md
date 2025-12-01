@@ -8,3 +8,4 @@
 
   * **Numeric:** SeniorCitizen, Tenure, MonthlyCharges, TotalCharges
   * **Categorical:** Gender, Partner, Dependents, PhoneService, InternetService, Contract, PaymentMethod, etc.
+* Missing values:
