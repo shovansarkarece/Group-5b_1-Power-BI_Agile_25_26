@@ -1,13 +1,12 @@
 # 📊 Customer Churn Analysis — Summary Report
-## 🔹 1. Dataset Overview
 
-- Total records: **7,043 customers**
+## 🔹 **1. Dataset Overview**
 
-- Total columns: **21 features**
+* Total records: **7,043 customers**
+* Total columns: **21 features**
+* Data types:
 
-- Data types:
-
-Numeric: SeniorCitizen, Tenure, MonthlyCharges, TotalCharges
+  - Numeric: SeniorCitizen, Tenure, MonthlyCharges, TotalCharges
 
 Categorical: Gender, Partner, Dependents, PhoneService, InternetService, Contract, PaymentMethod, etc.
 
