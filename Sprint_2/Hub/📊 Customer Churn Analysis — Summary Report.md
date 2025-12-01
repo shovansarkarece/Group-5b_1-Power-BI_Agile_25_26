@@ -14,3 +14,6 @@
 ---
 
 ## 🔹 **2. Churn Overview**
+
+* Churn column: **Yes / No**
+* Churn count:
