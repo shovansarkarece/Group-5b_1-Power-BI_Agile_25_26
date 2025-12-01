@@ -22,3 +22,4 @@
   * **Stayed:** 5,174
  
 * Overall churn rate: **~26.5%**
+* Industry benchmark: telecom churn often reaches **25%–30%**
