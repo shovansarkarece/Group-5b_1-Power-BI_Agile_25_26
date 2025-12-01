@@ -12,3 +12,5 @@
 
   * **11 missing TotalCharges**, all belonging to **tenure = 0** customers → imputed as **0**
 ---
+
+## 🔹 **2. Churn Overview**
