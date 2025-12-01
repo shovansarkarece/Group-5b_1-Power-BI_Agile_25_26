@@ -20,3 +20,5 @@
 
   * **Churned:** 1,869
   * **Stayed:** 5,174
+ 
+* Overall churn rate: **~26.5%**
