@@ -5,7 +5,7 @@
 
 - Total columns: **21 features**
 
-Data types:
+- Data types:
 
 Numeric: SeniorCitizen, Tenure, MonthlyCharges, TotalCharges
 
