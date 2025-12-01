@@ -25,3 +25,5 @@
 * Industry benchmark: telecom churn often reaches **25%–30%**
 
 ---
+
+## 🔹 **3. Key Numerical Insights**
