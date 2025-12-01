@@ -42,3 +42,16 @@
 
 * Highly skewed distribution
 * High-value (long tenure) customers churn far less
+
+---
+
+## 🔹 **4. Churn Drivers — Correlations**
+
+| Feature        | Correlation with Churn | Interpretation                      |
+| -------------- | ---------------------- | ----------------------------------- |
+| Tenure         | **-0.35**              | Longer tenure → lower churn         |
+| TotalCharges   | **-0.20**              | Higher lifetime value → lower churn |
+| MonthlyCharges | **+0.19**              | Expensive plans → more churn        |
+| SeniorCitizen  | **+0.15**              | Seniors churn more                  |
+
+---
