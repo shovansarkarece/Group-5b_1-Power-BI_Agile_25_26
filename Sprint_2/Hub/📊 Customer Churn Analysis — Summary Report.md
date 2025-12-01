@@ -1,7 +1,7 @@
 # 📊 Customer Churn Analysis — Summary Report
 ## 🔹 1. Dataset Overview
 
-Total records: 7,043 customers
+- Total records: **7,043 customers**
 
 Total columns: 21 features
 
