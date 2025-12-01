@@ -3,7 +3,7 @@
 
 - Total records: **7,043 customers**
 
-Total columns: 21 features
+- Total columns: **21 features**
 
 Data types:
 
