@@ -69,3 +69,5 @@
 * Fiber optic → **high churn (~42%)**
 * DSL → moderate
 * No internet → very low churn (~6%)
+
+### 📌 **Payment Method**
