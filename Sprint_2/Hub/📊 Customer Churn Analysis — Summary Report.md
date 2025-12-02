@@ -71,3 +71,6 @@
 * No internet → very low churn (~6%)
 
 ### 📌 **Payment Method**
+
+* Electronic check → **highest churn (~45%)**
+* Auto-pay (bank transfer/credit card) → **lowest churn (~15%)**
