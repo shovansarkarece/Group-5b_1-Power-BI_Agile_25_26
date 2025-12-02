@@ -57,7 +57,7 @@
 ---
 ## 🔹 **5. Churn by Categorical Features**
 
-### 📌 **Contract Type**
+### 📌 *Contract Type*
 
 * Month-to-month → **~44% churn**
 * One-year → ~10% churn
