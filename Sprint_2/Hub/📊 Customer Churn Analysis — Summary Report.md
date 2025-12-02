@@ -63,3 +63,9 @@
 * One-year → ~10% churn
 * Two-year → ~3% churn
   ➡️ **Contract type is the strongest churn predictor**
+
+### 📌 **Internet Service**
+
+* Fiber optic → **high churn (~42%)**
+* DSL → moderate
+* No internet → very low churn (~6%)
