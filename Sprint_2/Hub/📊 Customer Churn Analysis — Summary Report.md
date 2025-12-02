@@ -34,7 +34,7 @@
 * Average tenure: **32.4 months**
 * New customers (0–12 months) have the **highest churn**
 
-### 📌 **Monthly Charges*
+### 📌 *Monthly Charges*
 * Average monthly bill: **$64.76**
 * Customers with higher bills tend to churn more
 
