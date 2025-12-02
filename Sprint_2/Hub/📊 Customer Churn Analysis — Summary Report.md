@@ -58,3 +58,8 @@
 ## 🔹 **5. Churn by Categorical Features**
 
 ### 📌 **Contract Type**
+
+* Month-to-month → **~44% churn**
+* One-year → ~10% churn
+* Two-year → ~3% churn
+  ➡️ **Contract type is the strongest churn predictor**
