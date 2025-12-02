@@ -38,7 +38,7 @@
 * Average monthly bill: **$64.76**
 * Customers with higher bills tend to churn more
 
-### 📌 **Total Charges**
+### 📌 *Total Charges*
 
 * Highly skewed distribution
 * High-value (long tenure) customers churn far less
