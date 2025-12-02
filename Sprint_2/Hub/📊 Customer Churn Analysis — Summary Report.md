@@ -92,3 +92,11 @@ Customers who have the following churn much less:
 ---
 
 ## 🔹 **6. Behavioral Patterns Found**
+
+* New, low-tenure customers are most at risk
+* Customers with **high monthly bills** churn more
+* Auto-pay customers are more loyal
+* Customers with **multiple add-ons** churn less
+* Senior citizens and single customers churn more
+
+---
