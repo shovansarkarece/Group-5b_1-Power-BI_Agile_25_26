@@ -56,3 +56,5 @@
 
 ---
 ## 🔹 **5. Churn by Categorical Features**
+
+### 📌 **Contract Type**
