@@ -55,3 +55,4 @@
 | SeniorCitizen  | **+0.15**              | Seniors churn more                  |
 
 ---
+## 🔹 **5. Churn by Categorical Features**
