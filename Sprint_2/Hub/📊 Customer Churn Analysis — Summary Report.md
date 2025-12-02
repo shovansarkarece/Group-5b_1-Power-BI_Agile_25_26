@@ -90,3 +90,5 @@ Customers who have the following churn much less:
 ➡️ Optional services **improve retention**
 
 ---
+
+## 🔹 **6. Behavioral Patterns Found**
