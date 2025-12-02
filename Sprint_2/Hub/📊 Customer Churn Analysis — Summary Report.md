@@ -29,7 +29,7 @@
 
 ## 🔹 **3. Key Numerical Insights**
 
-### 📌 **Tenure**
+### 📌 *Tenure*
 
 * Average tenure: **32.4 months**
 * New customers (0–12 months) have the **highest churn**
