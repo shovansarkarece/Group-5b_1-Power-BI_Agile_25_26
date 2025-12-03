@@ -178,3 +178,4 @@ Total Revenue = SUM('Customers'[TotalCharges])
 You should include:
 
 * `churn_analysis.md` → your report file
+* `churn_dashboard.pbix` → Power BI dashboard
