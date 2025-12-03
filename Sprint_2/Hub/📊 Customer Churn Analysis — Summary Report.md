@@ -176,3 +176,5 @@ Total Revenue = SUM('Customers'[TotalCharges])
 
 # 📥 **10. Files You Should Export From This Analysis**
 You should include:
+
+* `churn_analysis.md` → your report file
