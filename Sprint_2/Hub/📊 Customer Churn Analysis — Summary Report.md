@@ -136,3 +136,5 @@ Customers who have the following churn much less:
 * Slicers: Contract, SeniorCitizen, PaymentMethod, Gender
 
 ---
+
+## 🟧 **Power BI Page 3 — Customer Value Insights**
