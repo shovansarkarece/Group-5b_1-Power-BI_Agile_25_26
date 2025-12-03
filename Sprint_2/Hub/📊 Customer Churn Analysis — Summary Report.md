@@ -130,3 +130,4 @@ Customers who have the following churn much less:
 **Visuals:**
 
 * Bar chart: Churn % by Contract
+* Bar chart: Churn % by Internet Service
