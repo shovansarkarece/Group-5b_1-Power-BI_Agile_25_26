@@ -128,3 +128,5 @@ Customers who have the following churn much less:
 ## 🟩 **Power BI Page 2 — Churn Segmentation**
 
 **Visuals:**
+
+* Bar chart: Churn % by Contract
