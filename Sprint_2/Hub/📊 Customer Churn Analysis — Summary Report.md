@@ -143,3 +143,4 @@ Customers who have the following churn much less:
 
 * Histogram: Monthly Charges
 * Histogram: Total Charges
+* Boxplot: Monthly Charges vs Churn
