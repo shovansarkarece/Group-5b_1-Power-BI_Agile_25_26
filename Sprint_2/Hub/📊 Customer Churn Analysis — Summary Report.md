@@ -156,3 +156,7 @@ Customers who have the following churn much less:
 * Feature importance table
 * Waterfall: Risk factors
 * Heat map: Churn % by (Contract × PaymentMethod)
+
+---
+
+# 🧮 **9. Important DAX Measures**
