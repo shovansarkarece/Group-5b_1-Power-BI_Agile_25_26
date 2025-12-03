@@ -111,3 +111,5 @@ Customers who have the following churn much less:
 ---
 
 # 📊 **8. Power BI Dashboard Design (Step-by-Step)**
+
+## 🟦 **Power BI Page 1 — Overview Dashboard**
