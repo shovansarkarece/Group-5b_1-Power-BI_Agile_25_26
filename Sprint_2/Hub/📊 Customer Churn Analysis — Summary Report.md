@@ -160,3 +160,6 @@ Customers who have the following churn much less:
 ---
 
 # 🧮 **9. Important DAX Measures**
+
+```DAX
+Total Customers = COUNTROWS('Customers')
