@@ -187,3 +187,4 @@ You should include:
 
 ✔ A polished **Power BI-ready Markdown file**
 ✔ A **Power BI dashboard layout diagram**
+✔ A **PDF version**
