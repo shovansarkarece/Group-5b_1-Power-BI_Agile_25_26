@@ -132,3 +132,4 @@ Customers who have the following churn much less:
 * Bar chart: Churn % by Contract
 * Bar chart: Churn % by Internet Service
 * Bar chart: Churn % by Payment Method
+* Matrix: Churn by Gender, Senior Citizen, Partner, Dependents
