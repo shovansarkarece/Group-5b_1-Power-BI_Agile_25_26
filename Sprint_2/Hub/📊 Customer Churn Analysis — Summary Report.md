@@ -100,3 +100,12 @@ Customers who have the following churn much less:
 * Senior citizens and single customers churn more
 
 ---
+## 🔹 **7. Recommended Business Actions**
+
+* Convert month-to-month users to 1–2 year contracts
+* Promote auto-pay options
+* Offer discounts to fiber-optic customers (high-risk group)
+* Bundle add-on services (security, support, backup)
+* Improve onboarding for new customers (tenure < 3 months)
+
+---
