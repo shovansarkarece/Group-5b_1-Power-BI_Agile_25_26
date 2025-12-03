@@ -163,3 +163,4 @@ Customers who have the following churn much less:
 
 ```DAX
 Total Customers = COUNTROWS('Customers')
+Churned Customers = CALCULATE(COUNTROWS('Customers'), 'Customers'[Churn] = "Yes")
