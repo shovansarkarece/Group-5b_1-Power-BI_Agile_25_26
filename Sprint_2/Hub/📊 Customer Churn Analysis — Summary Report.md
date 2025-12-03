@@ -152,3 +152,5 @@ Customers who have the following churn much less:
 ## 🟨 **Power BI Page 4 — Churn Drivers (ML Page)**
 
 **Visuals:**
+
+* Feature importance table
