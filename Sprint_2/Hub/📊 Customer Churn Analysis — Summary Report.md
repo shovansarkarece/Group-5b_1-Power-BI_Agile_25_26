@@ -109,3 +109,5 @@ Customers who have the following churn much less:
 * Improve onboarding for new customers (tenure < 3 months)
 
 ---
+
+# 📊 **8. Power BI Dashboard Design (Step-by-Step)**
