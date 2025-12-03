@@ -181,3 +181,6 @@ You should include:
 * `churn_dashboard.pbix` → Power BI dashboard
 * `cleaned_dataset.csv` → for dashboard reload
 * `images/` folder → histograms, bar charts, etc.
+---
+
+# ✅ Next Step
