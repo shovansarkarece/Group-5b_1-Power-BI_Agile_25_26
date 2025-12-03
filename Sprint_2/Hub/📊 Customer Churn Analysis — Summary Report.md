@@ -144,3 +144,4 @@ Customers who have the following churn much less:
 * Histogram: Monthly Charges
 * Histogram: Total Charges
 * Boxplot: Monthly Charges vs Churn
+* Line chart: Churn rate by Tenure
