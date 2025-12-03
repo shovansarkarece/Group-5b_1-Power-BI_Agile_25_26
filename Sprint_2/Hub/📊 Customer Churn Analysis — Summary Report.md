@@ -142,3 +142,4 @@ Customers who have the following churn much less:
 **Visuals:**
 
 * Histogram: Monthly Charges
+* Histogram: Total Charges
