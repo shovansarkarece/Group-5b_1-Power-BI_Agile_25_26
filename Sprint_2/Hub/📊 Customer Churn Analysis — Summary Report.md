@@ -113,3 +113,14 @@ Customers who have the following churn much less:
 # 📊 **8. Power BI Dashboard Design (Step-by-Step)**
 
 ## 🟦 **Power BI Page 1 — Overview Dashboard**
+
+**Visuals:**
+
+* Card: Total Customers
+* Card: Total Churn
+* Card: Churn Rate
+* Gauge: Churn (%)
+* Bar Chart: Churn vs No Churn
+* KPI: Avg Tenure, Avg Monthly Charge
+
+---
