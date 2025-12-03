@@ -138,3 +138,5 @@ Customers who have the following churn much less:
 ---
 
 ## 🟧 **Power BI Page 3 — Customer Value Insights**
+
+**Visuals:**
