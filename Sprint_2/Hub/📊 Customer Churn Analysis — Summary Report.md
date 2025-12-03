@@ -165,3 +165,11 @@ Customers who have the following churn much less:
 Total Customers = COUNTROWS('Customers')
 Churned Customers = CALCULATE(COUNTROWS('Customers'), 'Customers'[Churn] = "Yes")
 Churn Rate = DIVIDE([Churned Customers], [Total Customers])
+Avg Tenure = AVERAGE('Customers'[tenure])
+
+Avg Monthly Charges = AVERAGE('Customers'[MonthlyCharges])
+
+Total Revenue = SUM('Customers'[TotalCharges])
+```
+
+---
