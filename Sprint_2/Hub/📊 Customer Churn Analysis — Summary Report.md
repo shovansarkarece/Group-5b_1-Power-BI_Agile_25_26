@@ -191,3 +191,7 @@ You should include:
 ✔ A **PPTX presentation**
 
 👉 *“Create the polished MD file now”*
+
+or
+
+👉 *“Generate the Power BI PBIX layout”*
