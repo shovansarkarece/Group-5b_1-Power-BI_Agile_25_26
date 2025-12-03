@@ -124,3 +124,5 @@ Customers who have the following churn much less:
 * KPI: Avg Tenure, Avg Monthly Charge
 
 ---
+
+## 🟩 **Power BI Page 2 — Churn Segmentation**
