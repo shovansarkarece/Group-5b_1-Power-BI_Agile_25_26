@@ -154,3 +154,4 @@ Customers who have the following churn much less:
 **Visuals:**
 
 * Feature importance table
+* Waterfall: Risk factors
