@@ -101,6 +101,18 @@ STEP 3 — Create Relationships
 Go to:
 ➡ Model View
 
+1. On the far left side of Power BI Desktop, you'll see three icons stacked vertically:
+
+📊 Report view (top)
+
+📋 Table view (middle)
+
+🔗 Model view (bottom)
+
+2. Click the bottom icon (Model view) - it looks like connected boxes
+
+You'll now see all your tables displayed as boxes with column names listed inside them.
+
 *Screenshot showing the Model View of the data -*
 <img width="1919" height="1029" alt="SS-3 from PowerBI_Dummy_Data-2" src="https://github.com/user-attachments/assets/5fa054bb-3ad3-4cd9-9028-63a652036f94" />
 
@@ -116,7 +128,30 @@ A relationship connects two tables so Power BI knows how they're linked (like "t
 2. A line will appear connecting them
 3. A settings window will pop up
 
-Let me show you each relationship to create:
+Let me show each relationship to create:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
