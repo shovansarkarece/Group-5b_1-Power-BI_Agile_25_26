@@ -148,6 +148,12 @@ Let me show each relationship to create:
 
 7. Click OK
 
+<img width="509" height="322" alt="image" src="https://github.com/user-attachments/assets/16eefba3-76ac-49e1-b89b-7a67955c8c77" />
+
+<img width="679" height="766" alt="image" src="https://github.com/user-attachments/assets/1ed0e44d-fd95-4949-9936-aa3b510b5eaa" />
+
+<img width="525" height="358" alt="image" src="https://github.com/user-attachments/assets/012600f1-b13d-468d-bad0-fc54dd1df46f" />
+
 🔗 **Relationship 2: Assignments → Projects**
 
 1. In Assignments table, find ProjectID
