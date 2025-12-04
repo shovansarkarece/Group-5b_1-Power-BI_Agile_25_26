@@ -199,7 +199,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 **Relationship 7: Offers → ServiceRequests**
 
+1. In Offers table, find RequestID
+2. Drag it to RequestID in the ServiceRequests table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
