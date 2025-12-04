@@ -207,11 +207,6 @@ Let me show each relationship to create:
 
 <img width="628" height="658" alt="image" src="https://github.com/user-attachments/assets/a69ddc7d-625d-4849-b529-1ef5d9514dab" />
 
-
-
-
-
-
 🔗 **Relationship 4: ServiceRequests → Contracts**
 
 1. In ServiceRequests table, find ContractID
@@ -221,6 +216,17 @@ Let me show each relationship to create:
       * Cardinality: "Many to one (*:1)"
 
 4. Click OK
+
+*Screenshot showing ServiceRequests and Contracts tables -*
+
+<img width="479" height="274" alt="image" src="https://github.com/user-attachments/assets/888e6f91-310a-4dde-bf04-b51ff6ce05e3" />
+
+
+
+
+
+
+
 
 🔗 **Relationship 5: ServiceRequests → Employees**
 
