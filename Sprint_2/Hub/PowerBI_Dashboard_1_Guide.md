@@ -361,10 +361,10 @@ This is a special table for time-based analysis.
 
 **DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))**
 
-5. Press Enter on your keyboard
-6. A new table called DimDate appears in your model!
+5. Press Enter on the keyboard
+6. A new table called DimDate appears in the model!
 
-**Add more columns to your Date table:**
+**Add more columns to Date table:**
 
 1. Make sure DimDate is still selected
 2. Click "New column" in the Modeling tab
