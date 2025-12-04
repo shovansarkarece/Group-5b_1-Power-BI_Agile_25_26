@@ -169,7 +169,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 Relationship 4: ServiceRequests → Contracts
 
+1. In ServiceRequests table, find ContractID
+2. Drag it to ContractID in the Contracts table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
