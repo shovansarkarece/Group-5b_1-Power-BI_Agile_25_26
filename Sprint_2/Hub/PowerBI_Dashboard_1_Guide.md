@@ -293,7 +293,7 @@ Let me show each relationship to create:
 
 <img width="678" height="756" alt="image" src="https://github.com/user-attachments/assets/f87120d7-8938-471c-885f-2e9657e37f97" />
 
-*Screenshot showing the relation created between ServiceRequests and Projects -
+*Screenshot showing the relation created between ServiceRequests and Offers -
 
 <img width="586" height="273" alt="image" src="https://github.com/user-attachments/assets/4da219de-de02-41a4-9c94-e1d20eb73120" />
 
