@@ -352,7 +352,37 @@ Let me show each relationship to create:
 
 ### Create a Date Table (Calendar)
 
+This is a special table for time-based analysis.
 
+1. Look at the top ribbon and click the "Modeling" tab
+2. Click the button "New table" (it has a table icon)
+3. A formula bar appears at the top - delete anything in it
+4. Type exactly this:
+
+**DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))**
+
+5. Press Enter on your keyboard
+6. A new table called DimDate appears in your model!
+
+**Add more columns to your Date table:**
+
+1. Make sure DimDate is still selected
+2. Click "New column" in the Modeling tab
+3. Type:
+
+**Year = YEAR(DimDate[Date])**
+
+4. Press Enter
+5. Click "New column" again and type:
+
+**Month = FORMAT(DimDate[Date], "MMMM")**
+
+6. Press Enter
+7. Click "New column" again and type:
+
+**MonthNum = MONTH(DimDate[Date])**
+
+8. Press Enter
 
 
 
