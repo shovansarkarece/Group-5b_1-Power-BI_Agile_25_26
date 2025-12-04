@@ -169,7 +169,7 @@ Let me show each relationship to create:
 
 4. Click OK
 
-🔗 Relationship 4: ServiceRequests → Contracts
+🔗 **Relationship 4: ServiceRequests → Contracts**
 
 1. In ServiceRequests table, find ContractID
 2. Drag it to ContractID in the Contracts table
