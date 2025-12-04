@@ -179,7 +179,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 **Relationship 5: ServiceRequests → Employees**
 
+1. In ServiceRequests table, find RequestedBy
+2. Drag it to EmployeeID in the Employees table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
