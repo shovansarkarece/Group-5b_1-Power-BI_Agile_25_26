@@ -148,7 +148,16 @@ Let me show each relationship to create:
 
 7. Click OK
 
+🔗 Relationship 2: Assignments → Projects
 
+1. In Assignments table, find ProjectID
+2. Drag it to ProjectID in the Projects table
+3. In the settings window:
+
+      * Cardinality: "Many to one (*:1)"
+      * Cross filter direction: "Single"
+
+4. Click OK
 
 
 
