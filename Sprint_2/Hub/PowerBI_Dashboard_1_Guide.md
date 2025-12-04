@@ -297,7 +297,6 @@ Let me show each relationship to create:
 
 <img width="586" height="273" alt="image" src="https://github.com/user-attachments/assets/4da219de-de02-41a4-9c94-e1d20eb73120" />
 
-
 🔗 **Relationship 8: Skills → Employees**
 
 1. In Skills table, find EmployeeID
@@ -307,6 +306,18 @@ Let me show each relationship to create:
       * Cardinality: "Many to one (*:1)"
 
 4. Click OK
+
+*Screenshot showing Employees and Skills tables -*
+
+<img width="519" height="301" alt="image" src="https://github.com/user-attachments/assets/08cf4edc-8762-4cf2-9d2e-4dbbf7eb39b4" />
+
+*Screenshot showing the "Create relationship" window on Power BI -*
+
+<img width="678" height="759" alt="image" src="https://github.com/user-attachments/assets/c7de0090-c8fe-4410-963f-44740e52f3a6" />
+
+*Screenshot showing the relation created between Employees and Skills -
+
+<img width="604" height="297" alt="image" src="https://github.com/user-attachments/assets/a6f113f1-5fc3-4a53-848d-f9eb11d3546a" />
 
 🔗 **Relationship 9: ContractRoles → Contracts**
 
