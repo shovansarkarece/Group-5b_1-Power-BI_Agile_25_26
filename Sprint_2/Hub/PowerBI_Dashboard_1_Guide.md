@@ -173,6 +173,22 @@ Let me show each relationship to create:
 
 4. Click OK
 
+*Screenshot showing Assignments Employees and Projects tables -*
+
+<img width="522" height="468" alt="image" src="https://github.com/user-attachments/assets/9298a04c-e20b-4488-b3c7-beef377ac654" />
+
+*Screenshot showing the "Create relationship" window on Power BI -*
+
+<img width="622" height="850" alt="image" src="https://github.com/user-attachments/assets/df5537b6-c6ab-471c-9ead-23893700de79" />
+
+*Screenshot showing the relation created between Assignments and Projects -
+
+<img width="527" height="557" alt="image" src="https://github.com/user-attachments/assets/b936d917-908c-417a-b885-5773ff095f24" />
+
+
+
+
+
 🔗 **Relationship 3: ServiceRequests → Projects**
 
 1. In ServiceRequests table, find ProjectID
