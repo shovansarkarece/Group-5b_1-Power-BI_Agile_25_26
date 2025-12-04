@@ -231,7 +231,6 @@ Let me show each relationship to create:
 
 <img width="749" height="612" alt="image" src="https://github.com/user-attachments/assets/572647fb-979d-48eb-8007-8460d52d242d" />
 
-
 🔗 **Relationship 5: ServiceRequests → Employees**
 
 1. In ServiceRequests table, find RequestedBy
@@ -241,6 +240,14 @@ Let me show each relationship to create:
       * Cardinality: "Many to one (*:1)"
 
 4. Click OK
+
+
+*Screenshot showing the "Create relationship" window on Power BI -*
+
+<img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/b8c8432e-9d08-4dbc-b585-8e6c276184a5" />
+
+
+
 
 🔗 **Relationship 6: Offers → Providers**
 
