@@ -199,6 +199,15 @@ Let me show each relationship to create:
 
 <img width="540" height="293" alt="image" src="https://github.com/user-attachments/assets/5ec99332-95a6-489e-ba19-5ae6af2c2f29" />
 
+*Screenshot showing the "Create relationship" window on Power BI -*
+
+<img width="677" height="766" alt="image" src="https://github.com/user-attachments/assets/30949789-a188-4543-80b9-59fe05491a12" />
+
+*Screenshot showing the relation created between ServiceRequests and Projects -
+
+
+
+
 
 
 
