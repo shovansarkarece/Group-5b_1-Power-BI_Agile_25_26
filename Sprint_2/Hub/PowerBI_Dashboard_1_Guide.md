@@ -54,6 +54,9 @@ Below is the exact model we will build:
             |                        |                        |
        DimSkills               DimContractRoles         DimDate (Calendar)
 
+### ⭐ 3. Step-by-Step: Create the Data Model in Power BI
+---
+STEP 1 — Load Excel file
 
 
 
