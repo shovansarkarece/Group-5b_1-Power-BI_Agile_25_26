@@ -267,15 +267,13 @@ Let me show each relationship to create:
 
 <img width="493" height="240" alt="image" src="https://github.com/user-attachments/assets/c82d91ab-7135-4b1b-975a-dde72343bb50" />
 
+*Screenshot showing the "Create relationship" window on Power BI -*
 
+<img width="519" height="839" alt="image" src="https://github.com/user-attachments/assets/dbdadfac-153b-41d9-b9e9-15cd36bd14b2" />
 
+*Screenshot showing the relation created between Offers and Providers -
 
-
-
-
-
-
-
+<img width="583" height="232" alt="image" src="https://github.com/user-attachments/assets/798c4e7a-150f-410e-a3dd-23a8df6069f4" />
 
 🔗 **Relationship 7: Offers → ServiceRequests**
 
