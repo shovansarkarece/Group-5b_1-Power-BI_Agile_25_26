@@ -385,11 +385,11 @@ This is a special table for time-based analysis.
 8. Press Enter
 
 ---
-### CREATE DAX MEASURES:
+### **CREATE DAX MEASURES:**
 ---
 **What are measures?**
 
-Measures are calculations that appear in your visuals (like totals, averages, counts).
+Measures are calculations that appear in the visuals (like totals, averages, counts).
 
 
 
