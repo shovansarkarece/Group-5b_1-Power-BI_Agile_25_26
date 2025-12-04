@@ -329,15 +329,12 @@ Let me show each relationship to create:
 
 4. Click OK
 
+*Screenshot showing ContractRoles and Contracts tables -*
 
+<img width="466" height="264" alt="image" src="https://github.com/user-attachments/assets/a01853dd-f34d-4782-b589-ed185a0a1ba3" />
 
+*Screenshot showing the "Create relationship" window on Power BI -*
 
-
-
-
-
-
-
-
+<img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/02c49708-eca0-4dfe-9a50-1ba6db698810" />
 
 
