@@ -341,5 +341,21 @@ Let me show each relationship to create:
 
 <img width="552" height="266" alt="image" src="https://github.com/user-attachments/assets/16f67660-38a3-4b24-bfb1-e95c14a1b582" />
 
+---
+### Relationships
+
+*Screenshot displaying the complete set of relationships established among all tables -*
+
+<img width="1914" height="1028" alt="image" src="https://github.com/user-attachments/assets/b2fe4ee6-b4ff-4fe9-b949-37e8266e93ba" />
+
+---
+
+
+
+
+
+
+
+
 
 
