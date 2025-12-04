@@ -1,5 +1,6 @@
-### Power BI Dashboard-1 Guide
+## **Power BI Dashboard-1 Guide**
 ---
+
 Let’s build:
 
 ✅ 1. The Power BI Data Model (Star Schema)
@@ -11,4 +12,25 @@ Let’s build:
 ✅ 4. DAX measures
 
 ✅ 5. Dashboard layout
+
+### ⭐ 1. Your Data Model (Star Schema)
+---
+Dataset contains three fact tables:
+
+Fact Tables -
+
+1. Assignments
+2. ServiceRequests
+3. Offers
+
+Dimension Tables -
+
+* Employees
+* Skills
+* Projects
+* Contracts
+* ContractRoles
+* Providers
+* Date table (Calendar)
+
 
