@@ -42,4 +42,26 @@ Dimension Tables -
 * Providers
 * Date table (Calendar)
 
+### ⭐ 2. Ideal Relationship Diagram
+---
+Below is the exact model we will build:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
