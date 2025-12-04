@@ -387,7 +387,9 @@ This is a special table for time-based analysis.
 ---
 ### CREATE DAX MEASURES:
 ---
+**What are measures?**
 
+Measures are calculations that appear in your visuals (like totals, averages, counts).
 
 
 
