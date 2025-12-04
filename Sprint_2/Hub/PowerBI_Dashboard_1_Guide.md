@@ -185,10 +185,6 @@ Let me show each relationship to create:
 
 <img width="527" height="557" alt="image" src="https://github.com/user-attachments/assets/b936d917-908c-417a-b885-5773ff095f24" />
 
-
-
-
-
 🔗 **Relationship 3: ServiceRequests → Projects**
 
 1. In ServiceRequests table, find ProjectID
@@ -198,6 +194,13 @@ Let me show each relationship to create:
       * Cardinality: "Many to one (*:1)"
 
 4. Click OK
+
+*Screenshot showing ServiceRequests and Projects tables -*
+
+<img width="540" height="293" alt="image" src="https://github.com/user-attachments/assets/5ec99332-95a6-489e-ba19-5ae6af2c2f29" />
+
+
+
 
 🔗 **Relationship 4: ServiceRequests → Contracts**
 
