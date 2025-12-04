@@ -263,6 +263,20 @@ Let me show each relationship to create:
 
 4. Click OK
 
+*Screenshot showing Offers and Providers tables -*
+
+<img width="493" height="240" alt="image" src="https://github.com/user-attachments/assets/c82d91ab-7135-4b1b-975a-dde72343bb50" />
+
+
+
+
+
+
+
+
+
+
+
 🔗 **Relationship 7: Offers → ServiceRequests**
 
 1. In Offers table, find RequestID
