@@ -70,7 +70,12 @@ In the Power Query Editor:
 
 Click Close & Apply
 
+STEP 3 — Create Relationships
 
+Go to:
+➡ Model View
+
+Now create these relationships:
 
 
 
