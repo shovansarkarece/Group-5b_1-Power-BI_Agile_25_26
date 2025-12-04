@@ -221,10 +221,11 @@ Let me show each relationship to create:
 
 <img width="479" height="274" alt="image" src="https://github.com/user-attachments/assets/888e6f91-310a-4dde-bf04-b51ff6ce05e3" />
 
+*Screenshot showing the "Create relationship" window on Power BI -*
 
+<img width="667" height="750" alt="image" src="https://github.com/user-attachments/assets/b416342f-e651-4965-80c7-cbb47729e3df" />
 
-
-
+*Screenshot showing the relation created between ServiceRequests and Contracts -
 
 
 
