@@ -227,6 +227,9 @@ Let me show each relationship to create:
 
 *Screenshot showing the relation created between ServiceRequests and Contracts -
 
+<img width="567" height="277" alt="image" src="https://github.com/user-attachments/assets/b3ac7242-ab3f-4230-b85a-431e3dc43bf9" />
+
+<img width="749" height="612" alt="image" src="https://github.com/user-attachments/assets/572647fb-979d-48eb-8007-8460d52d242d" />
 
 
 🔗 **Relationship 5: ServiceRequests → Employees**
