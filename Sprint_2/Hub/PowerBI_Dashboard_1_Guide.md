@@ -189,7 +189,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 **Relationship 6: Offers → Providers**
 
+1. In Offers table, find ProviderID
+2. Drag it to ProviderID in the Providers table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
