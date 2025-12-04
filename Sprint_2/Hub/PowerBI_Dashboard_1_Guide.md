@@ -106,11 +106,11 @@ Go to:
 
 Now create these relationships:
 
-What is a relationship?
+**What is a relationship?**
 
 A relationship connects two tables so Power BI knows how they're linked (like "this employee worked on this project").
 
-How to create a relationship:
+**How to create a relationship:**
 
 1. Drag and drop a column from one table onto a matching column in another table
 2. A line will appear connecting them
