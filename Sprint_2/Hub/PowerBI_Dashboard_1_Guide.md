@@ -159,7 +159,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 Relationship 3: ServiceRequests → Projects
 
+1. In ServiceRequests table, find ProjectID
+2. Drag it to ProjectID in the Projects table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
