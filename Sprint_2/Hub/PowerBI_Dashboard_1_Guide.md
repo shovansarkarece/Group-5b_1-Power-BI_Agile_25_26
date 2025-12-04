@@ -241,13 +241,17 @@ Let me show each relationship to create:
 
 4. Click OK
 
+*Screenshot showing ServiceRequests and Employees tables -*
+
+<img width="232" height="595" alt="image" src="https://github.com/user-attachments/assets/4a1bf0d3-cd1e-43e0-a9c6-ac5cc8a0924a" />
 
 *Screenshot showing the "Create relationship" window on Power BI -*
 
 <img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/b8c8432e-9d08-4dbc-b585-8e6c276184a5" />
 
+*Screenshot showing the relation created between ServiceRequests and Employees -
 
-
+<img width="872" height="712" alt="image" src="https://github.com/user-attachments/assets/5726439f-435c-4540-b970-38362e7a1caf" />
 
 🔗 **Relationship 6: Offers → Providers**
 
