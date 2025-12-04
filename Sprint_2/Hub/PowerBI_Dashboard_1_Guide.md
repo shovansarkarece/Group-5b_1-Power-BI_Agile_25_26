@@ -139,6 +139,16 @@ Let me show each relationship to create:
 5. Drop it on the EmployeeID column in the Employees table
 6. A "Create relationship" window opens:
 
+* From table: Assignments
+* From column: EmployeeID
+* To table: Employees
+* To column: EmployeeID
+* Cardinality: Select "Many to one (*:1)"
+* Cross filter direction: Select "Single"
+
+7. Click OK
+
+
 
 
 
