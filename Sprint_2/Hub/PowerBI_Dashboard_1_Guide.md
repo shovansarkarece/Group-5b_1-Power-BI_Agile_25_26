@@ -75,6 +75,7 @@ STEP 3 — Create Relationships
 Go to:
 ➡ Model View
 
+*Screenshot showing the Model View of the data -*
 <img width="1919" height="1029" alt="SS-3 from PowerBI_Dummy_Data-2" src="https://github.com/user-attachments/assets/5fa054bb-3ad3-4cd9-9028-63a652036f94" />
 
 Now create these relationships:
