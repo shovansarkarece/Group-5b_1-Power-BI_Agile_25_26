@@ -1,3 +1,5 @@
+### Power BI Dashboard-1 Guide
+---
 Let’s build:
 
 ✅ 1. The Power BI Data Model (Star Schema)
