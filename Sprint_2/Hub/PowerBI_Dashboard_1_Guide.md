@@ -60,6 +60,10 @@ STEP 1 — Load Excel file
 
 <img width="1918" height="1030" alt="SS-2" src="https://github.com/user-attachments/assets/1346bb1e-3b36-4364-b62d-80e45c59fb40" />
 
+STEP 2 — Clean Column Types
+
+In the Power Query Editor:
+
 
 
 
