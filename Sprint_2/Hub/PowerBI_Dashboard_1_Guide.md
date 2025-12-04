@@ -130,7 +130,7 @@ A relationship connects two tables so Power BI knows how they're linked (like "t
 
 Let me show each relationship to create:
 
-🔗 Relationship 1: Assignments → Employees
+🔗 **Relationship 1: Assignments → Employees**
 
 1. Find the Assignments table box
 2. Find the column EmployeeID inside it
@@ -148,7 +148,7 @@ Let me show each relationship to create:
 
 7. Click OK
 
-🔗 Relationship 2: Assignments → Projects
+🔗 **Relationship 2: Assignments → Projects**
 
 1. In Assignments table, find ProjectID
 2. Drag it to ProjectID in the Projects table
@@ -159,7 +159,7 @@ Let me show each relationship to create:
 
 4. Click OK
 
-🔗 Relationship 3: ServiceRequests → Projects
+🔗 **Relationship 3: ServiceRequests → Projects**
 
 1. In ServiceRequests table, find ProjectID
 2. Drag it to ProjectID in the Projects table
