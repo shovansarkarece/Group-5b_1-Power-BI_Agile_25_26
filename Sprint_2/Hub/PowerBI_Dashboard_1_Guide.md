@@ -209,7 +209,15 @@ Let me show each relationship to create:
 
 4. Click OK
 
+🔗 **Relationship 8: Skills → Employees**
 
+1. In Skills table, find EmployeeID
+2. Drag it to EmployeeID in the Employees table
+3. Settings:
+
+      * Cardinality: "Many to one (*:1)"
+
+4. Click OK
 
 
 
