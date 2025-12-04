@@ -130,7 +130,14 @@ A relationship connects two tables so Power BI knows how they're linked (like "t
 
 Let me show each relationship to create:
 
+🔗 Relationship 1: Assignments → Employees
 
+1. Find the Assignments table box
+2. Find the column EmployeeID inside it
+3. Click and hold on EmployeeID
+4. Drag to the Employees table
+5. Drop it on the EmployeeID column in the Employees table
+6. A "Create relationship" window opens:
 
 
 
