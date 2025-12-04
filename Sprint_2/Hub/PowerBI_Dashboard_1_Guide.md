@@ -337,4 +337,4 @@ Let me show each relationship to create:
 
 <img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/02c49708-eca0-4dfe-9a50-1ba6db698810" />
 
-
+*Screenshot showing the relation created between ContractRoles and Contracts -
