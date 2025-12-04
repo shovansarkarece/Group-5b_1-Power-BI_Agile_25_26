@@ -46,6 +46,13 @@ Dimension Tables -
 ---
 Below is the exact model we will build:
 
+      DimEmployees            DimProjects             DimContracts          DimProviders
+            |                        |                        |                     |
+            |                        |                        |                     |
+      FactAssignments         FactServiceRequests        FactOffers---------------/
+            |                        |                        |
+            |                        |                        |
+       DimSkills               DimContractRoles         DimDate (Calendar)
 
 
 
