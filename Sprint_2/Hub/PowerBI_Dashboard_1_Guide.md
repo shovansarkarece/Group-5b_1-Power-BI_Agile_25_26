@@ -55,7 +55,10 @@ STEP 1 — Load Excel file
 3. Choose PowerBI_Dummy_Data-2.xlsx
 4. Select all sheets
 
+*Screenshot showing the process of uploading the data on Power BI -*
+<img width="1919" height="1079" alt="SS-1" src="https://github.com/user-attachments/assets/7f820fa1-af0f-42b4-b027-1f4dbc594849" />
 
+<img width="1918" height="1030" alt="SS-2" src="https://github.com/user-attachments/assets/1346bb1e-3b36-4364-b62d-80e45c59fb40" />
 
 
 
