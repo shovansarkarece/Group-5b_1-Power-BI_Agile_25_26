@@ -64,7 +64,9 @@ STEP 2 — Clean Column Types
 
 In the Power Query Editor:
 
-
+* Ensure ID fields are text
+* Ensure dates are date type
+* Ensure numeric fields (Effort, MaxPrice, DaysOffered) are numbers
 
 
 
