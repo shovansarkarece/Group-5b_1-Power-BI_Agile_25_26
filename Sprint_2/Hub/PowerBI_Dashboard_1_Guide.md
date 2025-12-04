@@ -58,6 +58,11 @@ Below is the exact model we will build:
 ---
 STEP 1 — Load Excel file
 
+1. Open Power BI Desktop
+2. Click Get Data → Excel
+3. Choose PowerBI_Dummy_Data-2.xlsx
+4. Select all sheets
+
 
 
 
