@@ -12,6 +12,7 @@ Let’s build:
 ✅ 4. DAX measures
 
 ✅ 5. Dashboard layout
+
 ---
 Before we proceed, we need to upload the excel file of the data on Power BI. 
 
