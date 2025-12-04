@@ -13,7 +13,7 @@ Let’s build:
 
 ✅ 5. Dashboard layout
 
-### ⭐ 1. Your Data Model (Star Schema)
+### ⭐ 1. Data Model (Star Schema)
 ---
 Dataset contains three fact tables:
 
