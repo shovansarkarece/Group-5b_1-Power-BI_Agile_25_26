@@ -60,21 +60,31 @@ A Navigator window appears showing all sheets in your Excel file
 You should see checkboxes next to each sheet name:
 
 ☑ Assignments
+
 ☑ Contracts
+
 ☑ ContractRoles
+
 ☑ Employees
+
 ☑ Offers
+
 ☑ Projects
+
 ☑ Providers
+
 ☑ ServiceRequests
+
 ☑ Skills
 
-
 Check the box next to EACH sheet (or check the box at the very top to select all)
+
 *Screenshot showing the process of uploading the data on Power BI -*
 <img width="1919" height="1079" alt="SS-1" src="https://github.com/user-attachments/assets/7f820fa1-af0f-42b4-b027-1f4dbc594849" />
 
 <img width="1918" height="1030" alt="SS-2" src="https://github.com/user-attachments/assets/1346bb1e-3b36-4364-b62d-80e45c59fb40" />
+
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/98e8d3bb-5bb2-4b24-8a79-8c51715019e4" />
 
 STEP 2 — Clean Column Types
 
