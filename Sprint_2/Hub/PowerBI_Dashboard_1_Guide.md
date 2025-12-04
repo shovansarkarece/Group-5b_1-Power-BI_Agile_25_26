@@ -285,6 +285,20 @@ Let me show each relationship to create:
 
 4. Click OK
 
+*Screenshot showing ServiceRequests and Offers tables -*
+
+<img width="512" height="271" alt="image" src="https://github.com/user-attachments/assets/842c92d4-0d51-40d9-93fd-e735b2d74040" />
+
+*Screenshot showing the "Create relationship" window on Power BI -*
+
+<img width="678" height="756" alt="image" src="https://github.com/user-attachments/assets/f87120d7-8938-471c-885f-2e9657e37f97" />
+
+
+
+
+
+
+
 🔗 **Relationship 8: Skills → Employees**
 
 1. In Skills table, find EmployeeID
