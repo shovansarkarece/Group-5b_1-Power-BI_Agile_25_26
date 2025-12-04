@@ -12,7 +12,13 @@ Let’s build:
 ✅ 4. DAX measures
 
 ✅ 5. Dashboard layout
+---
+Before we proceed, we need to upload the excel file of the data on Power BI. 
 
+<img width="1919" height="1079" alt="SS-1" src="https://github.com/user-attachments/assets/f713b754-36e0-4d99-bc38-c9c52208a214" />
+
+
+---
 ### ⭐ 1. Data Model (Star Schema)
 ---
 Dataset contains three fact tables:
