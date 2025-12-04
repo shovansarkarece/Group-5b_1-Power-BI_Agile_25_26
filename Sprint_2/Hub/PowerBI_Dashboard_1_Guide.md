@@ -68,7 +68,7 @@ In the Power Query Editor:
 * Ensure dates are date type
 * Ensure numeric fields (Effort, MaxPrice, DaysOffered) are numbers
 
-
+Click Close & Apply
 
 
 
