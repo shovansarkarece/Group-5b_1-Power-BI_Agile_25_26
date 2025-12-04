@@ -53,8 +53,24 @@ STEP 1 — Load Excel file
 1. Open Power BI Desktop
 2. Click Get Data → Excel
 3. Choose PowerBI_Dummy_Data-2.xlsx
-4. Select all sheets
+4. Select all sheets:
 
+A Navigator window appears showing all sheets in your Excel file
+
+You should see checkboxes next to each sheet name:
+
+☑ Assignments
+☑ Contracts
+☑ ContractRoles
+☑ Employees
+☑ Offers
+☑ Projects
+☑ Providers
+☑ ServiceRequests
+☑ Skills
+
+
+Check the box next to EACH sheet (or check the box at the very top to select all)
 *Screenshot showing the process of uploading the data on Power BI -*
 <img width="1919" height="1079" alt="SS-1" src="https://github.com/user-attachments/assets/7f820fa1-af0f-42b4-b027-1f4dbc594849" />
 
