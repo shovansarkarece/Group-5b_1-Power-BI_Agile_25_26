@@ -424,6 +424,10 @@ Measures are calculations that appear in the visuals (like totals, averages, cou
 ```dax
       Total Employees = COUNTROWS(Employees)
 ```
+*Screenshot displaying the new added measure -*
+
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/cb28c572-7f3d-491b-9de8-6eebd758e2e3" />
+
 5. Press Enter
 
 **Repeat to create all these measures:**
