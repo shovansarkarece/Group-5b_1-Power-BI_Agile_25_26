@@ -1,4 +1,4 @@
-## **Power BI Dashboard-1 Guide**
+## **Power BI Dashboard Guide**
 ---
 
 Let’s build:
