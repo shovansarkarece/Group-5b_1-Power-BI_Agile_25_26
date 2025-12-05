@@ -485,5 +485,10 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/2d9330e9-7e00-42c2-894c-b7e67d73acb0" />
 
+# BUILD YOUR DASHBOARD
+---
+**Go to Report View**
 
+1. Click the top icon on the far left (Report view - looks like a bar chart 📊)
+2. You'll see a blank white canvas - this is where you build your dashboard!
 
