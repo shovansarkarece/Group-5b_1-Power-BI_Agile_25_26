@@ -167,6 +167,7 @@ Total Revenue = SUM('Customers'[TotalCharges])
 # ✅ Published Customer_Churn_Analysis
 
 ✔ A polished **Power BI-ready Markdown file**
+
 ✔ A **Power BI dashboard layout diagram**
 
 👉 *“Click below to see the Customer_Churn_Analysis_Report”*
