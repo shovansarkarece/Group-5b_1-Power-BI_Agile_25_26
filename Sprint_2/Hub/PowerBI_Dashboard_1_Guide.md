@@ -364,6 +364,8 @@ This is a special table for time-based analysis.
 5. Press Enter on the keyboard
 6. A new table called DimDate appears in the model!
 
+*Screenshot displaying the new table DimDate in the model -*
+
 <img width="1915" height="1027" alt="image" src="https://github.com/user-attachments/assets/672bdc8e-2af4-4fb0-b863-59599197d8c4" />
 
 **Add more columns to Date table:**
@@ -375,6 +377,8 @@ This is a special table for time-based analysis.
       **Year = YEAR(DimDate[Date])**
 
 4. Press Enter
+
+*Screenshot displaying the new column -*
 
 <img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/aad68df8-9db0-4bd2-8131-2ebafba82786" />
 
