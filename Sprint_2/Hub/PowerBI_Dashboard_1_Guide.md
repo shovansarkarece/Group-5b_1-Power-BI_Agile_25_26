@@ -445,4 +445,11 @@ CALCULATE(
     Offers[OfferStatus] = "Submitted"
 )
 ```
+```dax
+Accepted Offers = 
+CALCULATE(
+    COUNTROWS(Offers),
+    Offers[OfferStatus] = "Accepted"
+)
+```
 
