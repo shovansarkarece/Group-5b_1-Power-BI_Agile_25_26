@@ -359,7 +359,7 @@ This is a special table for time-based analysis.
 3. A formula bar appears at the top - delete anything in it
 4. Type exactly this:
 
-**DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))**
+      **DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))**
 
 5. Press Enter on the keyboard
 6. A new table called DimDate appears in the model!
@@ -372,9 +372,12 @@ This is a special table for time-based analysis.
 2. Click "New column" in the Modeling tab
 3. Type:
 
-**Year = YEAR(DimDate[Date])**
+      **Year = YEAR(DimDate[Date])**
 
 4. Press Enter
+
+<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/aad68df8-9db0-4bd2-8131-2ebafba82786" />
+
 5. Click "New column" again and type:
 
 **Month = FORMAT(DimDate[Date], "MMMM")**
