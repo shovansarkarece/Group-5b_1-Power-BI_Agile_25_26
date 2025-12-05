@@ -414,6 +414,11 @@ Measures are calculations that appear in the visuals (like totals, averages, cou
 1. On the right side of the screen, you'll see the "Data" panel listing all tables.
 2. Right-click on any table (e.g., Employees)
 3. Select "New measure"
+
+*Screenshot displaying the option "New Measure" -*
+
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/b49b9116-9f78-43c9-99e9-2672a9ec1351" />
+
 4. A formula bar appears - type:
 
 ```dax
