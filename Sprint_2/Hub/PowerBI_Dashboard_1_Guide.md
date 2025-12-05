@@ -364,6 +364,8 @@ This is a special table for time-based analysis.
 5. Press Enter on the keyboard
 6. A new table called DimDate appears in the model!
 
+<img width="1915" height="1027" alt="image" src="https://github.com/user-attachments/assets/672bdc8e-2af4-4fb0-b863-59599197d8c4" />
+
 **Add more columns to Date table:**
 
 1. Make sure DimDate is still selected
