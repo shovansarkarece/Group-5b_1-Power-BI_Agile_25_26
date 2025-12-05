@@ -431,6 +431,10 @@ CALCULATE(
     Assignments[AssignmentStatus] = "Active"
 )
 ```
-
-
-
+```dax
+Open Service Requests = 
+CALCULATE(
+    COUNTROWS(ServiceRequests),
+    ServiceRequests[Status] = "Open"
+)
+```
