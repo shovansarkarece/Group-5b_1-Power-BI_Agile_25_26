@@ -474,8 +474,12 @@ CALCULATE(
     Offers[OfferStatus] = "Accepted"
 )
 ```
+*Screenshot displaying the new added measure -*
+
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/df2e080b-48e7-4a50-92a5-dca8506e55e8" />
+
 ```dax
 Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 ```
-
+*Screenshot displaying the new added measure -*
 
