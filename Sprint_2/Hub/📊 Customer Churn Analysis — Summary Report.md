@@ -149,16 +149,6 @@ Customers who have the following churn much less:
 
 ---
 
-## 🟨 **Power BI Page 4 — Churn Drivers (ML Page)**
-
-**Visuals:**
-
-* Feature importance table
-* Waterfall: Risk factors
-* Heat map: Churn % by (Contract × PaymentMethod)
-
----
-
 # 🧮 **9. Important DAX Measures**
 
 ```DAX
@@ -174,24 +164,11 @@ Total Revenue = SUM('Customers'[TotalCharges])
 
 ---
 
-# 📥 **10. Files You Should Export From This Analysis**
-You should include:
-
-* `churn_analysis.md` → your report file
-* `churn_dashboard.pbix` → Power BI dashboard
-* `cleaned_dataset.csv` → for dashboard reload
-* `images/` folder → histograms, bar charts, etc.
----
-
-# ✅ Next Step
+# ✅ Published Customer_Churn_Analysis
 
 ✔ A polished **Power BI-ready Markdown file**
 ✔ A **Power BI dashboard layout diagram**
-✔ A **PDF version**
-✔ A **PPTX presentation**
 
-👉 *“Create the polished MD file now”*
+👉 *“Click below to see the Customer_Churn_Analysis_Report”*
 
-or
-
-👉 *“Generate the Power BI PBIX layout”*
+[Customer_Churn_Analysis_Report](https://app.powerbi.com/links/2uqe64uG_Z?ctid=66c5e13f-8c43-4359-b2e8-51775c6d298d&pbi_source=linkShare)
