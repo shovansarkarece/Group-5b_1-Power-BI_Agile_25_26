@@ -452,11 +452,9 @@ CALCULATE(
     ServiceRequests[Status] = "Open"
 )
 ```
+*Screenshot displaying the new added measure -*
 
-
-
-
-
+<img width="1921" height="1029" alt="image" src="https://github.com/user-attachments/assets/11738da5-c495-4790-a31f-925395722575" />
 
 ```dax
 Submitted Offers = 
