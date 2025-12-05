@@ -378,7 +378,7 @@ This is a special table for time-based analysis.
 
 4. Press Enter
 
-*Screenshot displaying the new column -*
+*Screenshot displaying the new added column -*
 
 <img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/aad68df8-9db0-4bd2-8131-2ebafba82786" />
 
@@ -388,7 +388,7 @@ This is a special table for time-based analysis.
 
 6. Press Enter
 
-*Screenshot displaying the new column -*
+*Screenshot displaying the new added column -*
 
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/67c7c3b1-ee63-44f1-bd24-b183bbcbc869" />
 
@@ -397,6 +397,10 @@ This is a special table for time-based analysis.
       **MonthNum = MONTH(DimDate[Date])**
 
 8. Press Enter
+
+*Screenshot displaying the new added column -*
+
+<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/22a8c96b-ded2-449f-b483-4c6226e35b4a" />
 
 ---
 ### **CREATE DAX MEASURES:**
