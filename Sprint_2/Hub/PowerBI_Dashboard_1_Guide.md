@@ -403,7 +403,7 @@ This is a special table for time-based analysis.
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/22a8c96b-ded2-449f-b483-4c6226e35b4a" />
 
 ---
-### **CREATE DAX MEASURES:**
+# 4. CREATE DAX MEASURES:
 ---
 **What are measures?**
 
@@ -485,7 +485,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/2d9330e9-7e00-42c2-894c-b7e67d73acb0" />
 
-# BUILD YOUR DASHBOARD
+# 5. BUILD YOUR DASHBOARD
 ---
 **Go to Report View**
 
