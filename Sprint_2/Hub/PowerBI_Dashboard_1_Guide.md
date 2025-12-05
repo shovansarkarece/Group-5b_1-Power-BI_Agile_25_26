@@ -409,5 +409,13 @@ This is a special table for time-based analysis.
 
 Measures are calculations that appear in the visuals (like totals, averages, counts).
 
+**Create First Measure :**
 
+1. On the right side of the screen, you'll see the "Data" panel listing all tables.
+2. Right-click on any table (e.g., Employees)
+3. Select "New measure"
+4. A formula bar appears - type:
 
+      **Total Employees = COUNTROWS(Employees)**
+
+5. Press Enter
