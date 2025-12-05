@@ -358,9 +358,9 @@ This is a special table for time-based analysis.
 2. Click the button "New table" (it has a table icon)
 3. A formula bar appears at the top - delete anything in it
 4. Type exactly this:
-
-      **DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))**
-
+```dax
+      DimDate = CALENDAR(DATE(2023,1,1), DATE(2026,12,31))
+```
 5. Press Enter on the keyboard
 6. A new table called DimDate appears in the model!
 
@@ -373,9 +373,9 @@ This is a special table for time-based analysis.
 1. Make sure DimDate is still selected
 2. Click "New column" in the Modeling tab
 3. Type:
-
-      **Year = YEAR(DimDate[Date])**
-
+```dax
+      Year = YEAR(DimDate[Date])
+```
 4. Press Enter
 
 *Screenshot displaying the new added column -*
@@ -383,19 +383,19 @@ This is a special table for time-based analysis.
 <img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/aad68df8-9db0-4bd2-8131-2ebafba82786" />
 
 5. Click "New column" again and type:
-
-      **Month = FORMAT(DimDate[Date], "MMMM")**
-
-6. Press Enter
+```dax
+      Month = FORMAT(DimDate[Date], "MMMM")
+```
+7. Press Enter
 
 *Screenshot displaying the new added column -*
 
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/67c7c3b1-ee63-44f1-bd24-b183bbcbc869" />
 
 7. Click "New column" again and type:
-
-      **MonthNum = MONTH(DimDate[Date])**
-
+```dax
+      MonthNum = MONTH(DimDate[Date])
+```
 8. Press Enter
 
 *Screenshot displaying the new added column -*
@@ -416,8 +416,9 @@ Measures are calculations that appear in the visuals (like totals, averages, cou
 3. Select "New measure"
 4. A formula bar appears - type:
 
-      **Total Employees = COUNTROWS(Employees)**
-
+```dax
+      Total Employees = COUNTROWS(Employees)
+```
 5. Press Enter
 
 **Repeat to create all these measures:**
