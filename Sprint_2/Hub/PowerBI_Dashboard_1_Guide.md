@@ -438,3 +438,11 @@ CALCULATE(
     ServiceRequests[Status] = "Open"
 )
 ```
+```dax
+Submitted Offers = 
+CALCULATE(
+    COUNTROWS(Offers),
+    Offers[OfferStatus] = "Submitted"
+)
+```
+
