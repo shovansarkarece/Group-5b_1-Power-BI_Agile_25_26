@@ -393,6 +393,10 @@ This is a special table for time-based analysis.
 
 8. Press Enter
 
+*Screenshot displaying the new column -*
+
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/67c7c3b1-ee63-44f1-bd24-b183bbcbc869" />
+
 ---
 ### **CREATE DAX MEASURES:**
 ---
