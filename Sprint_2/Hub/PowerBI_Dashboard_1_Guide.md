@@ -181,7 +181,7 @@ Let me show each relationship to create:
 
 <img width="622" height="850" alt="image" src="https://github.com/user-attachments/assets/df5537b6-c6ab-471c-9ead-23893700de79" />
 
-*Screenshot showing the relation created between Assignments and Projects -
+*Screenshot showing the relation created between Assignments and Projects -*
 
 <img width="527" height="557" alt="image" src="https://github.com/user-attachments/assets/b936d917-908c-417a-b885-5773ff095f24" />
 
@@ -203,7 +203,7 @@ Let me show each relationship to create:
 
 <img width="677" height="766" alt="image" src="https://github.com/user-attachments/assets/30949789-a188-4543-80b9-59fe05491a12" />
 
-*Screenshot showing the relation created between ServiceRequests and Projects -
+*Screenshot showing the relation created between ServiceRequests and Projects -*
 
 <img width="628" height="658" alt="image" src="https://github.com/user-attachments/assets/a69ddc7d-625d-4849-b529-1ef5d9514dab" />
 
@@ -225,7 +225,7 @@ Let me show each relationship to create:
 
 <img width="667" height="750" alt="image" src="https://github.com/user-attachments/assets/b416342f-e651-4965-80c7-cbb47729e3df" />
 
-*Screenshot showing the relation created between ServiceRequests and Contracts -*
+*Screenshots showing the relation created between ServiceRequests and Contracts -*
 
 <img width="567" height="277" alt="image" src="https://github.com/user-attachments/assets/b3ac7242-ab3f-4230-b85a-431e3dc43bf9" />
 
@@ -249,7 +249,7 @@ Let me show each relationship to create:
 
 <img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/b8c8432e-9d08-4dbc-b585-8e6c276184a5" />
 
-*Screenshot showing the relation created between ServiceRequests and Employees -
+*Screenshot showing the relation created between ServiceRequests and Employees -*
 
 <img width="872" height="712" alt="image" src="https://github.com/user-attachments/assets/5726439f-435c-4540-b970-38362e7a1caf" />
 
@@ -271,7 +271,7 @@ Let me show each relationship to create:
 
 <img width="519" height="839" alt="image" src="https://github.com/user-attachments/assets/dbdadfac-153b-41d9-b9e9-15cd36bd14b2" />
 
-*Screenshot showing the relation created between Offers and Providers -
+*Screenshot showing the relation created between Offers and Providers -*
 
 <img width="583" height="232" alt="image" src="https://github.com/user-attachments/assets/798c4e7a-150f-410e-a3dd-23a8df6069f4" />
 
@@ -293,7 +293,7 @@ Let me show each relationship to create:
 
 <img width="678" height="756" alt="image" src="https://github.com/user-attachments/assets/f87120d7-8938-471c-885f-2e9657e37f97" />
 
-*Screenshot showing the relation created between ServiceRequests and Offers -
+*Screenshot showing the relation created between ServiceRequests and Offers -*
 
 <img width="586" height="273" alt="image" src="https://github.com/user-attachments/assets/4da219de-de02-41a4-9c94-e1d20eb73120" />
 
@@ -315,7 +315,7 @@ Let me show each relationship to create:
 
 <img width="678" height="759" alt="image" src="https://github.com/user-attachments/assets/c7de0090-c8fe-4410-963f-44740e52f3a6" />
 
-*Screenshot showing the relation created between Employees and Skills -
+*Screenshot showing the relation created between Employees and Skills -*
 
 <img width="604" height="297" alt="image" src="https://github.com/user-attachments/assets/a6f113f1-5fc3-4a53-848d-f9eb11d3546a" />
 
@@ -337,7 +337,7 @@ Let me show each relationship to create:
 
 <img width="674" height="756" alt="image" src="https://github.com/user-attachments/assets/02c49708-eca0-4dfe-9a50-1ba6db698810" />
 
-*Screenshot showing the relation created between ContractRoles and Contracts -
+*Screenshot showing the relation created between ContractRoles and Contracts -*
 
 <img width="552" height="266" alt="image" src="https://github.com/user-attachments/assets/16f67660-38a3-4b24-bfb1-e95c14a1b582" />
 
