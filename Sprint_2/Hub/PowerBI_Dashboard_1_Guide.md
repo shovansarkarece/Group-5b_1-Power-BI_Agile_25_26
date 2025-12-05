@@ -463,6 +463,10 @@ CALCULATE(
     Offers[OfferStatus] = "Submitted"
 )
 ```
+*Screenshot displaying the new added measure -*
+
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/4e90ce29-68cd-43aa-a81b-3ecd3ae5aaab" />
+
 ```dax
 Accepted Offers = 
 CALCULATE(
