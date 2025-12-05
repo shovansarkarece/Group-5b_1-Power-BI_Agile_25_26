@@ -225,7 +225,7 @@ Let me show each relationship to create:
 
 <img width="667" height="750" alt="image" src="https://github.com/user-attachments/assets/b416342f-e651-4965-80c7-cbb47729e3df" />
 
-*Screenshot showing the relation created between ServiceRequests and Contracts -
+*Screenshot showing the relation created between ServiceRequests and Contracts -*
 
 <img width="567" height="277" alt="image" src="https://github.com/user-attachments/assets/b3ac7242-ab3f-4230-b85a-431e3dc43bf9" />
 
