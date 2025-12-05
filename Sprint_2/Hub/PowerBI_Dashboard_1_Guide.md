@@ -419,3 +419,18 @@ Measures are calculations that appear in the visuals (like totals, averages, cou
       **Total Employees = COUNTROWS(Employees)**
 
 5. Press Enter
+
+**Repeat to create all these measures:**
+
+**Click New measure and type each one:**
+
+```dax
+Active Assignments = 
+CALCULATE(
+    COUNTROWS(Assignments),
+    Assignments[AssignmentStatus] = "Active"
+)
+```
+
+
+
