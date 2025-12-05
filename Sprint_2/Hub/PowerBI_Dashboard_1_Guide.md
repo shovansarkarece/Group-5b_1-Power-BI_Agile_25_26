@@ -384,18 +384,19 @@ This is a special table for time-based analysis.
 
 5. Click "New column" again and type:
 
-**Month = FORMAT(DimDate[Date], "MMMM")**
+      **Month = FORMAT(DimDate[Date], "MMMM")**
 
 6. Press Enter
-7. Click "New column" again and type:
-
-**MonthNum = MONTH(DimDate[Date])**
-
-8. Press Enter
 
 *Screenshot displaying the new column -*
 
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/67c7c3b1-ee63-44f1-bd24-b183bbcbc869" />
+
+7. Click "New column" again and type:
+
+      **MonthNum = MONTH(DimDate[Date])**
+
+8. Press Enter
 
 ---
 ### **CREATE DAX MEASURES:**
