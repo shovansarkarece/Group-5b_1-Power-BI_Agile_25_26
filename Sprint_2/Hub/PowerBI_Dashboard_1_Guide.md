@@ -441,6 +441,10 @@ CALCULATE(
     Assignments[AssignmentStatus] = "Active"
 )
 ```
+*Screenshot displaying the new added measure -*
+
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/d5e65019-0591-4038-aa4d-054e07ef81cd" />
+
 ```dax
 Open Service Requests = 
 CALCULATE(
