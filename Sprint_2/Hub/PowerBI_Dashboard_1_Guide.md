@@ -452,4 +452,8 @@ CALCULATE(
     Offers[OfferStatus] = "Accepted"
 )
 ```
+```dax
+Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
+```
+
 
