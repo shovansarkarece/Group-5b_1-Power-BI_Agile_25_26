@@ -511,7 +511,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 2.	Expand "Callout value" and increase the font size as you need
 3.	Expand "Category label" and change the text to something clearer if needed
 
-*Screenshot displaying the new created Card on the Report View -*
+*Screenshot displaying the new created Card for Total Employees on the Report View -*
 
 ![Untitled](https://github.com/user-attachments/assets/d4526536-b864-4062-8b4f-51f0b7abb9a5)
 
@@ -521,7 +521,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 3.	Drag your "Active Assignments" measure into the Fields well
 4.	Position it next to the first card
 
-*Screenshot displaying the new created Card on the Report View -*
+*Screenshot displaying the new created Card for Active assignments on the Report View -*
 
 ![Untitled](https://github.com/user-attachments/assets/542a0bfd-e0b8-4bd4-8a22-636f87368f04)
 
