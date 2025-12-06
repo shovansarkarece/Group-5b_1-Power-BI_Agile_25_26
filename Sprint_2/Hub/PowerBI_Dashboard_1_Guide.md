@@ -518,7 +518,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 ## Add Another Card (Active Assignments)
 1.	Click on empty space on the canvas (to deselect the first card)
 2.	Click "Card" icon again in Visualizations
-
+3.	Drag your "Active Assignments" measure into the Fields well
+4.	Position it next to the first card
 
 
 
