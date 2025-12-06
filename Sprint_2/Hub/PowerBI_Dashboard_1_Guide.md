@@ -515,6 +515,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 ![Untitled](https://github.com/user-attachments/assets/d4526536-b864-4062-8b4f-51f0b7abb9a5)
 
+## Add Another Card (Active Assignments)
 
 
 
