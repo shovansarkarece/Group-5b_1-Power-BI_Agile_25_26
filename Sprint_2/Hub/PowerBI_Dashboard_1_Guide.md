@@ -14,7 +14,7 @@ Let’s build:
 ✅ 5. Dashboard layout
 
 ---
-### ⭐ 1. Data Model (Star Schema)
+# ⭐ 1. Data Model (Star Schema)
 ---
 Dataset contains three fact tables:
 
@@ -34,7 +34,7 @@ Dimension Tables -
 * Providers
 * Date table (Calendar)
 
-### ⭐ 2. Ideal Relationship Diagram
+# ⭐ 2. Ideal Relationship Diagram
 ---
 Below is the exact model we will build:
 
@@ -46,7 +46,7 @@ Below is the exact model we will build:
             |                        |                        |
        DimSkills               DimContractRoles         DimDate (Calendar)
 
-### ⭐ 3. Step-by-Step: Create the Data Model in Power BI
+# ⭐ 3. Step-by-Step: Create the Data Model in Power BI
 ---
 STEP 1 — Load Excel file
 
@@ -489,7 +489,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 <img width="236" height="202" alt="image" src="https://github.com/user-attachments/assets/8cba2192-389a-4efe-a9d7-b0400e048192" />
 
-# 5. BUILD YOUR DASHBOARD
+# ⭐  5. BUILD YOUR DASHBOARD
 ---
 **Go to Report View**
 
