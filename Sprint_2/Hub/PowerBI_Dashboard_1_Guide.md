@@ -496,3 +496,6 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 1. Click the top icon on the far left (Report view - looks like a bar chart 📊)
 2. You'll see a blank white canvas - this is where you build your dashboard!
 
+# 📄 PAGE 1: HR & Workforce Overview
+
+
