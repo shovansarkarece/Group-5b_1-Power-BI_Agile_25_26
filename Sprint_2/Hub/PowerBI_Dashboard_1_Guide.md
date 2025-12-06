@@ -513,7 +513,6 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 *Screenshot displaying the new created Card on the Report View -*
 
-<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/a470b7b8-62a7-4492-83b1-44ffedbf2080" />
-
+![Untitled](https://github.com/user-attachments/assets/d4526536-b864-4062-8b4f-51f0b7abb9a5)
 
 
