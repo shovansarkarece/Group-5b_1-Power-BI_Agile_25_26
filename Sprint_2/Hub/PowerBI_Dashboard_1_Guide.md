@@ -497,5 +497,11 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 2. You'll see a blank white canvas - this is where you build your dashboard!
 
 # 📄 PAGE 1: HR & Workforce Overview
+## Add a Card Visual (Total Employees):
+1.	Look at the Visualizations panel on the right side
+2.	Find and click the "Card" icon (looks like a rectangle with "123" inside)
+3.	An empty card appears on your canvas
+
+
 
 
