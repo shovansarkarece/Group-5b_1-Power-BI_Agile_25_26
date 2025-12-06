@@ -506,6 +506,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 6.	Drag "Total Employees" into the "Fields" well in the Visualizations panel
 7.	The card now shows the total!
 
+**Format the card:**
 
 
 
