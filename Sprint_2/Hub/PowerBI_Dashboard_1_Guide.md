@@ -507,6 +507,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 7.	The card now shows the total!
 
 **Format the card:**
+1.	With the card selected, click "Format your visual" button (paint roller icon) in Visualizations panel
+2.	Expand "Callout value" and increase the font size to 40
 
 
 
