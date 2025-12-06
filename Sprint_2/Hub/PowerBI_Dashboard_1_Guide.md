@@ -521,5 +521,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 3.	Drag your "Active Assignments" measure into the Fields well
 4.	Position it next to the first card
 
+*Screenshot displaying the new created Card on the Report View -*
+
+![Untitled](https://github.com/user-attachments/assets/542a0bfd-e0b8-4bd4-8a22-636f87368f04)
 
 
