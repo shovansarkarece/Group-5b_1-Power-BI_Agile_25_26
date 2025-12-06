@@ -503,6 +503,9 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 3.	An empty card appears on your canvas
 4.	In the Data panel (far right), expand Employees table
 5.	Find your measure "Total Employees"
+6.	Drag "Total Employees" into the "Fields" well in the Visualizations panel
+7.	The card now shows the total!
+
 
 
 
