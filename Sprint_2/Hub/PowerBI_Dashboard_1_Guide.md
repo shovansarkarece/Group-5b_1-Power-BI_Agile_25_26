@@ -511,6 +511,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 2.	Expand "Callout value" and increase the font size to 40
 3.	Expand "Category label" and change the text to something clearer if needed
 
+*Screenshot displaying the new created Card on the Report View -*
 
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/1885a32f-850d-426f-a31d-e315d389051c" />
 
