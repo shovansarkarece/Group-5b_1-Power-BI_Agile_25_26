@@ -527,5 +527,6 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 ## Add a Bar Chart (Employees by Department)
 1.	Click empty space on canvas
+2.	In Visualizations, click "Clustered bar chart" icon
 
 
