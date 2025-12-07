@@ -534,3 +534,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 * Drag EmployeeID to the X-axis well
 5.	Click the dropdown on EmployeeID in X-axis well, select "Count"
 
+*Screenshot displaying the new created Bar Chart for Employees by Department on the Report View -*
+
+
+
+
