@@ -525,4 +525,6 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 ![Untitled](https://github.com/user-attachments/assets/542a0bfd-e0b8-4bd4-8a22-636f87368f04)
 
+## Add a Bar Chart (Employees by Department)
+
 
