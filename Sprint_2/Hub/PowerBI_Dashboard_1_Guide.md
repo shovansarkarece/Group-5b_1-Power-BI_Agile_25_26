@@ -530,8 +530,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 2.	In Visualizations, click "Clustered bar chart" icon
 3.	The chart appears on canvas
 4.	From the Employees table: 
-* Drag Department to the Y-axis well
-* Drag EmployeeID to the X-axis well
+      * Drag Department to the Y-axis well
+      * Drag EmployeeID to the X-axis well
 5.	Click the dropdown on EmployeeID in X-axis well, select "Count"
 
 *Screenshots displaying the new created Bar Chart for Employees by Department on the Report View -*
