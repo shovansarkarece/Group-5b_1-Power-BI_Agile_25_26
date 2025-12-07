@@ -529,5 +529,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 1.	Click empty space on canvas
 2.	In Visualizations, click "Clustered bar chart" icon
 3.	The chart appears on canvas
+4.	From the Employees table: 
+* Drag Department to the Y-axis well
+* Drag EmployeeID to the X-axis well
 
 
