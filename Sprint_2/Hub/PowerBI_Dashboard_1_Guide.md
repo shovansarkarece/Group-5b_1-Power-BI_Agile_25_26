@@ -532,5 +532,5 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 4.	From the Employees table: 
 * Drag Department to the Y-axis well
 * Drag EmployeeID to the X-axis well
-
+5.	Click the dropdown on EmployeeID in X-axis well, select "Count"
 
