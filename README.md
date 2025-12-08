@@ -25,5 +25,6 @@
 
 # Sprint_2_Individual_Contribution
 
+**🚀 [Adityakumar_Prashant_Chaurasia](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_2/Adityakumar%20Prashant%20Chaurasia.md)**
 # Data Source
 **🚀 [Data Source](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/tree/main/Data_Source)**
