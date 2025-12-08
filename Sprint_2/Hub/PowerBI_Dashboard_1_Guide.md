@@ -553,12 +553,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/d70a78ea-a86b-404f-a983-c70be7d08709" />
 
-
-
-
-
-<img width="325" height="393" alt="image" src="https://github.com/user-attachments/assets/d455bdfa-69df-4191-8207-105a48ff685a" />
-
+## Add a Table
 
 
 
