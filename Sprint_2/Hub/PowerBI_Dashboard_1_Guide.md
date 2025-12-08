@@ -559,6 +559,9 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 3.	From Employees table, drag: 
       * Name
       * Role
+4.	From Skills table, drag: 
+      * SkillName
+
 
 
 
