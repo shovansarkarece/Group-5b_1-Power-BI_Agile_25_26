@@ -547,5 +547,6 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
       * Drag SkillCategory to X-axis
       * Drag SkillID to Y-axis, then change to Count
 
+*Screenshots displaying the new created Column Chart for Skills by Category on the Report View -*
 
 <img width="365" height="165" alt="image" src="https://github.com/user-attachments/assets/e3b08c18-773d-4435-a9d6-20c5f8afed83" />
