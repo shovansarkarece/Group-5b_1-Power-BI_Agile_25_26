@@ -544,6 +544,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 1.	Click empty space
 2.	Click "Clustered column chart" icon in Visualizations
 3.	From the Skills table: 
+      * Drag SkillCategory to X-axis
+      * Drag SkillID to Y-axis, then change to Count
 
 
 <img width="365" height="165" alt="image" src="https://github.com/user-attachments/assets/e3b08c18-773d-4435-a9d6-20c5f8afed83" />
