@@ -555,6 +555,8 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 ## Add a Table
 1.	Click empty space
+2.	Click "Table" icon in Visualizations
+
 
 
 
