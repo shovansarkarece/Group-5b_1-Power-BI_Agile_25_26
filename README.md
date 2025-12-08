@@ -1,6 +1,6 @@
 # 🎉 Group-5b_1-Power-BI_Agile_25_26
----
-This is a Powe BI Project using Agile methodology by the guidance of Professor Wacht, Patrick.
+
+### This is a Powe BI Project using Agile methodology by the guidance of Professor Wacht, Patrick.
 # Link of the Sprint_1
 **🚀 [Sprint_1](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/tree/main/Sprint_1)**
 
