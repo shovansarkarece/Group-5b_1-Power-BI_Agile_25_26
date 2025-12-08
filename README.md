@@ -9,7 +9,7 @@ This is a Powe BI Project using Agile methodology by the guidance of Professor W
 
 **🚀 [Ashiqur_Rahman](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Ashiqur_Rahman.md)**
 
-[]()
+**🚀 [Sourav_Paul_Sumit](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Sourav%20Paul%20Sumit.md)**
 []()
 # Link of the Sprint_2
 **🚀 [Sprint_2](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/tree/main/Sprint_2)**
