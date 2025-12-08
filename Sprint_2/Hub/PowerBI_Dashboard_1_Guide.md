@@ -542,6 +542,7 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 ## Add a Column Chart (Skills by Category)
 1.	Click empty space
+2.	Click "Clustered column chart" icon in Visualizations
 
 
 
