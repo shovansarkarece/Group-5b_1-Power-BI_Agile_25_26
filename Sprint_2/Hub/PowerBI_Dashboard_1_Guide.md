@@ -564,5 +564,9 @@ Avg Max Price = AVERAGE(ContractRoles[MaxPrice])
 
 *Screenshots displaying the new created Table for Employees and Skills by Categories on the Report View -*
 
+<img width="325" height="393" alt="image" src="https://github.com/user-attachments/assets/d455bdfa-69df-4191-8207-105a48ff685a" />
+
+
+
 
 
