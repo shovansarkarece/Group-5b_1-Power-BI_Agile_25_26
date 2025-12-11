@@ -1,4 +1,4 @@
-# data from API
+# Data from API
 ```python
 "[
     {
