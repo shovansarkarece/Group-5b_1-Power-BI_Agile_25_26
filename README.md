@@ -46,7 +46,7 @@
 
 **🚀 [Sourav_Paul_Sumit](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Sourav_Paul_Sumit.md)**
 
-**🚀[Suva_Sarkar]()**
+**🚀[Suva_Sarkar](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Suva_Sarkar.md)**
 
 
 
