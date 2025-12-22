@@ -42,7 +42,7 @@
 
 **🚀 [Adityakumar_Prashant_Chaurasia](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Adityakumar_Prashant_Chaurasia.md)**
 
-**🚀 [Ashiqur_Rahman]()**
+**🚀 [Ashiqur_Rahman](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Ashiqur_Rahman.md)**
 
 **🚀 [Sourav_Paul_Sumit](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Sourav_Paul_Sumit.md)**
 
