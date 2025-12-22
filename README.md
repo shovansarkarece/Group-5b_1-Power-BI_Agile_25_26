@@ -36,17 +36,17 @@
 
 
 # Link of the Sprint_3 Hub
-**🚀 [Sprint_3 Hub](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/tree/main/Sprint_1/hub)**
+**🚀 [Sprint_3 Hub]()**
 
 # 🧩 Sprint_3_Individual_Contribution
 
-**🚀 [Adityakumar_Prashant_Chaurasia](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Adityakumar%20Prashant%20Chaurasia.md)**
+**🚀 [Adityakumar_Prashant_Chaurasia]()**
 
-**🚀 [Ashiqur_Rahman](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Ashiqur_Rahman.md)**
+**🚀 [Ashiqur_Rahman]()**
 
-**🚀 [Sourav_Paul_Sumit](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Sourav%20Paul%20Sumit.md)**
+**🚀 [Sourav_Paul_Sumit](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_3/Sourav_Paul_Sumit.md)**
 
-**🚀[Suva_Sarkar](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_1/Suva_Sarkar.md)**
+**🚀[Suva_Sarkar]()**
 
 
 
