@@ -142,7 +142,4 @@ The Power BI project successfully delivers an end-to-end analytics solution, tra
 
 ---
 
-**Author:** Md Ashiqur Rahman  
-**Tool:** Microsoft Power BI  
-**Repository:** GitHub  
 
