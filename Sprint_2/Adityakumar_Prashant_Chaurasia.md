@@ -1,3 +1,5 @@
+[📌 Sprint-2 DAX Dashboard 2](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_2/Hub/DAXdashboard2.md)
+
 # Dashboard 1: Sales Performance Analytics
 ## Complete Implementation Guide
 
