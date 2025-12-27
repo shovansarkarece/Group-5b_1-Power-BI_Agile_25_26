@@ -78,6 +78,7 @@ ADDCOLUMNS(
     "YearMonth", FORMAT([Date], "YYYY-MM")
 )
 ```
+<img width="1858" height="1002" alt="image" src="https://github.com/user-attachments/assets/ec99e8fa-dc49-40b5-baf8-1370ea9006c0" />
 
 **Important:** Mark this as Date Table
 1. Right-click DateTable → Mark as date table
