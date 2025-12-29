@@ -5,5 +5,5 @@
 
 [📌 Sprint-2 Dashboard 2](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_2/Hub/DAXdashboard2.md)
 
-[📌 Sprint-2 Best Practices](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_2/Hub/BestPractices.md)
+[📌 Sprint-2 Complete Power BI Development Guide and Best Practices](https://github.com/shovansarkarece/Group-5b_1-Power-BI_Agile_25_26/blob/main/Sprint_2/Hub/BestPractices.md)
 
