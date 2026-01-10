@@ -1,8 +1,8 @@
-!<img width="230" align="right" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" /> 
+<img width="230" align="right" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" /> 
 
 
 
-# Power BI Agile Project Report
+<h1 align="center">Power BI Agile Project Report</h1>
 
 ## Project Information
 - **Project Group:** 5b_1 Power BI  
