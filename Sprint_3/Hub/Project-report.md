@@ -1,10 +1,11 @@
-<img width="799" height="292" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" />
+!<img width="230" align="right" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" /> 
+
 
 
 # Power BI Agile Project Report
 
 ## Project Information
-- **Project Name:** Power BI  
+- **Project Group:** 5b_1 Power BI  
 - **Methodology:** Agile  
 - **Course:** Agile Development in Cloud Computing Environment  
 - **University:** Frankfurt University of Applied Sciences  
