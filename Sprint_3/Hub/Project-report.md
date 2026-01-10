@@ -1,3 +1,6 @@
+<img width="799" height="292" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" />
+
+
 # Power BI Agile Project Report
 
 ## Project Information
