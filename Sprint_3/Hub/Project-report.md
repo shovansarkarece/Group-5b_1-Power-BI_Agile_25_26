@@ -1,7 +1,5 @@
 <img width="230" align="right" alt="fra-uni" src="https://github.com/user-attachments/assets/279b7787-237f-41bb-9ea7-7cc5eef177d1" /> 
 
-
-
 <h1 align="center">Power BI Agile Project Report</h1>
 
 ## Project Information
@@ -11,7 +9,7 @@
 - **University:** Frankfurt University of Applied Sciences  
 - **Submission Date:** 28/01/2026
 
----
+
 
 ## Group Members
 
