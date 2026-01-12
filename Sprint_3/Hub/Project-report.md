@@ -21,3 +21,12 @@
 | 4 | Adityakumar Prashant Chaurasia |  |
 
 ---
+## 1. Introduction
+
+In today’s data-driven environment, organizations increasingly depend on business intelligence (BI) tools to convert large volumes of raw data into actionable insights that support strategic decision-making. This project focuses on the design and development of interactive dashboards using **Microsoft Power BI**, implemented through a structured **Agile methodology**.
+
+Power BI is a self-service BI platform that enables users to connect data from diverse sources, perform data transformation, build relational data models, and create interactive reports and dashboards. Instead of following a traditional waterfall approach, this project adopts Agile practices to promote adaptability, continuous improvement, and early delivery of working solutions.
+
+The project was carried out by a team of **four members**, working collaboratively through a series of iterative sprints. Each sprint delivered a functional increment, such as data preparation, modeling, visualization, or analytical enhancement. This iterative approach enabled continuous feedback, improved report quality, and better alignment between analytical objectives and final outcomes.
+
+---
