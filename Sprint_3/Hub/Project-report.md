@@ -41,7 +41,7 @@ The project was carried out by a team of **four members**, working collaborative
 ---
 ## 3. Team Composition and Roles
 
-This project was completed by a **four-member 5b_1 Power BI team**, where responsibilities were clearly defined to ensure efficiency, accountability, and balanced collaboration.
+This project was completed by a **four-member of 5b_1 Power BI team**, where responsibilities were clearly defined to ensure efficiency, accountability, and balanced collaboration.
 
 | Name | Role |
 |----|----|
