@@ -30,3 +30,22 @@ Power BI is a self-service BI platform that enables users to connect data from d
 The project was carried out by a team of **four members**, working collaboratively through a series of iterative sprints. Each sprint delivered a functional increment, such as data preparation, modeling, visualization, or analytical enhancement. This iterative approach enabled continuous feedback, improved report quality, and better alignment between analytical objectives and final outcomes.
 
 ---
+## 2. Project Objectives
+
+- Apply Agile methodology in a real-world Business Intelligence scenario  
+- Design and develop interactive Power BI dashboards incrementally  
+- Analyze datasets from multiple business domains  
+- Create optimized data models and accurate analytical measures  
+- Demonstrate teamwork, collaboration, and iterative improvement  
+
+---
+## 3. Team Composition and Roles
+
+This project was completed by a **four-member 5b_1 Power BI team**, where responsibilities were clearly defined to ensure efficiency, accountability, and balanced collaboration.
+
+| Name | Role |
+|----|----|
+| Adityakumar Prashant Chaurasia | Product Owner |
+| Sourov Paul Sumit | Scrum Master |
+| Suva Sarkar | Power BI Developer |
+| Md Ashiqur Rahman | Data Analyst |
