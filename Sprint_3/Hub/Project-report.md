@@ -49,3 +49,12 @@ This project was completed by a **four-member 5b_1 Power BI team**, where respon
 | Sourov Paul Sumit | Scrum Master |
 | Suva Sarkar | Power BI Developer |
 | Md Ashiqur Rahman | Data Analyst |
+
+### Role Explanation
+
+- **Product Owner:** Defines project goals and prioritizes features in the backlog  
+- **Scrum Master:** Ensures Agile principles are followed and facilitates collaboration  
+- **Power BI Developer:** Designs data models and visualizations  
+- **Data Analyst:** Handles data preparation, transformation, and validation  
+
+---
